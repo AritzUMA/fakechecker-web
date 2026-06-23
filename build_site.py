@@ -18,6 +18,7 @@ VERDICT_STYLE = {
     "contradicted":             ("#FF3333", "#330000", "FALSO"),
     "misleading_or_exaggerated":("#FFCC00", "#332b00", "ENGAÑOSO"),
     "outdated":                 ("#FF9900", "#331f00", "DESACTUALIZADO"),
+    "insufficient_evidence":    ("#999999", "#1a1a1a", "SIN EVIDENCIA"),
 }
 
 def esc(s):
@@ -99,6 +100,7 @@ html_out = f"""<!DOCTYPE html>
       <span class="badge" style="background:#00FF00;">VERDADERO: {stats.get('supported',0)}</span>
       <span class="badge" style="background:#FF3333;color:#fff;">FALSO: {stats.get('contradicted',0)}</span>
       <span class="badge" style="background:#FFCC00;">ENGAÑOSO: {stats.get('misleading',0)}</span>
+      <span class="badge" style="background:#999999;color:#fff;">SIN EVIDENCIA: {stats.get('insufficient',0)}</span>
     </div>
     <p style="text-align:center;font-size:11px;">
       Última actualización: <span class="counter">{esc(stats.get('actualizado','---'))}</span>
