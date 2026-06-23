@@ -1,12 +1,103 @@
 {
  "stats": {
-  "total": 0,
+  "total": 10,
   "supported": 0,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 0,
-  "actualizado": "2026-06-23 16:56 UTC"
+  "insufficient": 10,
+  "actualizado": "2026-06-23 17:00 UTC"
  },
- "verdicts": []
+ "verdicts": [
+  {
+   "tweet": "@___ viernes feriado a las 6 de la mañana lo subí, daaale",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 14:32"
+  },
+  {
+   "tweet": "@___ lo mejor si va para alli sera el corto vuelo desde un sitio alto\n\nyo le propondria que fuera lo antes posible...pero este video ya es viejuno",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 14:24"
+  },
+  {
+   "tweet": "me acuerdo q en 2018 ponían la 2da foto junto con una de beyonce y otra de rihanna diciendo q eran las chicas superpoderosas del pop aaaa q epocas",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 14:05"
+  },
+  {
+   "tweet": "@___ @___ 16 años tenía esa cosa? Comido por la droga",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 14:03"
+  },
+  {
+   "tweet": "@___ @___ A nadie le salta un virus por bajarse una rom desde hace 20 años",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 13:58"
+  },
+  {
+   "tweet": "@___ FELIZ ANIVERSARO",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 13:52"
+  },
+  {
+   "tweet": "@___ USA 4-1 Australia",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 13:50"
+  },
+  {
+   "tweet": "@___ ¿Por qué pueden hacerlo? [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 13:44"
+  },
+  {
+   "tweet": "Vendo entradas para La Dispute el 21 de junio en La Nau, Barcelona. Si te interesa, envíame un mensaje privado.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 13:29"
+  },
+  {
+   "tweet": "Películas\n\nZeta 2 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
+   "outlets": [],
+   "fecha": "2026-06-19 13:28"
+  }
+ ]
 }
