@@ -19,6 +19,7 @@ VERDICT_STYLE = {
     "misleading_or_exaggerated":("#FFCC00", "#332b00", "ENGAÑOSO"),
     "outdated":                 ("#FF9900", "#331f00", "DESACTUALIZADO"),
     "insufficient_evidence":    ("#999999", "#1a1a1a", "SIN EVIDENCIA"),
+    "_default":                  ("#999999", "#1a1a1a", "OTRO"),
 }
 
 def esc(s):
