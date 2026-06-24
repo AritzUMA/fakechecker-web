@@ -1,14 +1,70 @@
 {
  "stats": {
-  "total": 10,
+  "total": 18,
   "supported": 0,
-  "contradicted": 0,
+  "contradicted": 1,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 10,
-  "actualizado": "2026-06-23 17:00 UTC"
+  "insufficient": 13,
+  "actualizado": "2026-06-24 13:26 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La empresa surcoreana SK Hynix anunció que recaudará 29.000 millones de dólares en su cotización en el mercado estadounidense de ADR.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró ninguna fuente que confirme que SK Hynix anunció la recaudación de 29.000 millones de dólares en su cotización ADR en el mercado estadounidense. Los resultados de búsqueda mostraron artículos sin relación con la empresa ni con la cifra mencionada.",
+   "outlets": [],
+   "fecha": "2026-06-24 08:20"
+  },
+  {
+   "tweet": "Gol Colombia 1-0",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "{\"verdict\":\"contradicted\",\"confidence\":0.9,\"claim_focus\":\"Gol Colombia 1-0\",\"reasoning\":\"El resultado de la partida entre Uzbekistán y Colombia fue 1-3, no 1-0, según los reportes de RTVE (18 jun 2026",
+   "outlets": [],
+   "fecha": "2026-06-24 04:05"
+  },
+  {
+   "tweet": "Colombia 300 tiros al arco, 0 goles",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No fuente encontrada que mencione 300 tiros al arco por Colombia ni que el resultado fuera 0 goles. Los artículos disponibles hablan de partidos con resultados 1‑3, 2‑3, etc., pero no incluyen datos de tiros al arco. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-24 03:10"
+  },
+  {
+   "tweet": "Gobierno",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "Los artículos citados (20minutos, Libertad Digital, theobjective, Newtral, etc.) describen la regularización de inmigrantes en general, pero no mencionan que dicha regularización se realice dentro de prisiones. No se encuentra evidencia que respalde ni contradiga la afirmación de que el gobierno regulariza a los inmigrantes en prisiones.",
+   "outlets": [],
+   "fecha": "2026-06-24 00:13"
+  },
+  {
+   "tweet": "@___ @___ No tienen otro video que no sea hecho con IA.",
+   "claim_type": "event_claim",
+   "verdict": "La afirmación es falsa.",
+   "confidence": 0.0,
+   "reasoning": "La evidencia muestra claramente la existencia de herramientas creadas por IA para generar o editar video (YouTube: 'convertir cualquier contenido', Amazon Prime Video: 'humano a máquina' con X-Ray Recaps). La afirmación contradice estas declaraciones oficiales.",
+   "outlets": [
+    ""
+   ],
+   "fecha": "2026-06-19 14:43"
+  },
+  {
+   "tweet": "@___ @___ @___ @___ @___ La ONPE fue el que implementó ese software que no sirvió para nada y la misma ONPE a través de Piero Corvetto lo quito para la segunda vuelta,¿Cuál es la responsabilidad de la Cancillería?¿Podrías especificar?",
+   "claim_type": "event_claim",
+   "verdict": "La afirmación es falsa.",
+   "confidence": 0.0,
+   "reasoning": "No hay evidencia en las fuentes oficiales (RTVE) ni en los titulares que respalde esta afirmación sobre el software o su implementación.",
+   "outlets": [],
+   "fecha": "2026-06-19 14:38"
+  },
   {
    "tweet": "@___ viernes feriado a las 6 de la mañana lo subí, daaale",
    "claim_type": "event_claim",
@@ -46,6 +102,15 @@
    "fecha": "2026-06-19 14:03"
   },
   {
+   "tweet": "@___ Pon esta [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "La evidencia no menciona la afirmación.",
+   "confidence": 0.0,
+   "reasoning": "No se encontraron noticias, tweets oficiales ni verificadores que refieran a este contenido específico.",
+   "outlets": [],
+   "fecha": "2026-06-19 14:00"
+  },
+  {
    "tweet": "@___ @___ A nadie le salta un virus por bajarse una rom desde hace 20 años",
    "claim_type": "event_claim",
    "verdict": "insufficient_evidence",
@@ -71,6 +136,18 @@
    "reasoning": "El modelo no emitió veredicto tras las búsquedas.",
    "outlets": [],
    "fecha": "2026-06-19 13:50"
+  },
+  {
+   "tweet": "@___ @___ @___ En Sevilla capital, el último gobierno que hizo algo en condiciones fue el del PSOE con IU (Torrijos, sí al que denunciaron por Mercasevilla y las mariscadas, y luego todo quedó en nada)",
+   "claim_type": "event_claim",
+   "verdict": "La afirmación es falsa.",
+   "confidence": 0.0,
+   "reasoning": "La búsqueda en noticias confirma que se registró un bar en Sevilla con el expresidente del SEPI, no con PSOE/IU; además, la visita a El Capricho fue por PP/Vox/PSOE/Más Madrid. La afirmación contiene errores cronológicos y políticos.",
+   "outlets": [
+    "La UCO registra un bar en Sevilla vinculado al expresidente de la SEPI",
+    "Concejales de PP, Más Madrid, PSOE y Vox visitan juntos El Capricho"
+   ],
+   "fecha": "2026-06-19 13:47"
   },
   {
    "tweet": "@___ ¿Por qué pueden hacerlo? [enlace]",
