@@ -9,8 +9,17 @@ import html
 from pathlib import Path
 
 DATA = json.loads(Path("verdicts.json").read_text(encoding="utf-8")) if Path("verdicts.json").exists() else {"stats": {}, "verdicts": []}
-stats = DATA.get("stats", {})
-verdicts = DATA.get("verdicts", [])
+if isinstance(DATA, list):
+    stats = {}
+    verdicts = DATA
+else:
+    stats = DATA.get("stats", {})
+    verdicts = DATA.get("verdicts", [])
+    if not verdicts:
+        for k, v in DATA.items():
+            if k != "stats" and isinstance(v, list):
+                verdicts = v
+                break
 
 # colores chillones por veredicto, estilo terminal 2000
 VERDICT_STYLE = {
@@ -20,6 +29,7 @@ VERDICT_STYLE = {
     "outdated":                 ("#FF9900", "#331f00", "DESACTUALIZADO"),
     "insufficient_evidence":    ("#999999", "#1a1a1a", "SIN EVIDENCIA"),
     "_default":                  ("#999999", "#1a1a1a", "OTRO"),
+    "La afirmación es falsa.":   ("#ff3b3b", "#1a0000", "FALSO"),
 }
 
 def esc(s):
