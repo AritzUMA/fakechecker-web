@@ -8,7 +8,8 @@ import json
 import html
 from pathlib import Path
 
-DATA = json.loads(Path("verdicts.json").read_text(encoding="utf-8")) if Path("verdicts.json").exists() else {"stats": {}, "verdicts": []}
+BASE = Path(__file__).resolve().parent
+DATA = json.loads((BASE / "verdicts.json").read_text(encoding="utf-8")) if (BASE / "verdicts.json").exists() else {"stats": {}, "verdicts": []}
 if isinstance(DATA, list):
     stats = {}
     verdicts = DATA
@@ -141,5 +142,5 @@ html_out = f"""<!DOCTYPE html>
 </body>
 </html>"""
 
-Path("index.html").write_text(html_out, encoding="utf-8")
+(BASE / "index.html").write_text(html_out, encoding="utf-8")
 print(f"✅ index.html generado con {len(verdicts)} veredictos")

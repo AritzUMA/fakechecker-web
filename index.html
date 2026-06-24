@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>:: FAKECHECKER :: Verificador de Bulos ::</title>
+<style>
+  body {
+    background:#000080;
+    color:#C0C0C0;
+    font-family:"Courier New",Courier,monospace;
+    margin:0; padding:0;
+    background-image:repeating-linear-gradient(0deg,#000080,#000080 2px,#00007a 2px,#00007a 4px);
+  }
+  .frame { max-width:980px; margin:0 auto; padding:8px; }
+  .titlebar {
+    background:linear-gradient(90deg,#000080,#1084d0);
+    color:#fff; font-weight:bold; padding:4px 8px;
+    border:2px outset #fff; font-size:14px;
+  }
+  .panel { background:#C0C0C0; color:#000; border:2px outset #fff; padding:10px; margin-top:6px; }
+  h1 {
+    font-family:"Impact","Arial Black",sans-serif; color:#FF00FF;
+    text-shadow:2px 2px #00FFFF; text-align:center; font-size:34px;
+    margin:6px 0; letter-spacing:1px;
+  }
+  marquee { background:#000; color:#00FF00; border:1px inset #808080; padding:3px; font-size:13px; }
+  .stats { text-align:center; margin:8px 0; }
+  .stats b { font-size:20px; }
+  .badge { display:inline-block; padding:3px 8px; margin:3px; border:2px outset #fff; font-weight:bold; font-size:13px; }
+  table { width:100%; border-collapse:collapse; background:#fff; color:#000; font-size:12px; }
+  th { background:#000080; color:#fff; padding:5px; border:1px solid #000; text-align:left; }
+  td { padding:5px; border:1px solid #999; vertical-align:top; }
+  tr:nth-child(even) { background:#E0E0E0; }
+  .tw { width:28%; font-style:italic; }
+  .vd span { padding:2px 6px; font-weight:bold; white-space:nowrap; }
+  .cf { text-align:center; font-weight:bold; }
+  .rs { width:26%; font-size:11px; }
+  .ou { font-size:11px; color:#000080; }
+  .fc { font-size:10px; color:#555; white-space:nowrap; }
+  .footer { text-align:center; font-size:11px; color:#fff; margin:10px 0; }
+  a { color:#FFFF00; }
+  .counter { background:#000; color:#0F0; font-family:monospace; padding:2px 6px; border:1px inset #888; }
+</style>
+</head>
+<body>
+<div class="frame">
+
+  <div class="titlebar">&#128279; C:\WINDOWS\fakechecker.exe &mdash; Verificador Automático de Bulos</div>
+
+  <div class="panel">
+    <h1>~ FAKECHECKER ~</h1>
+    <marquee scrollamount="4">&#9888; Detectando desinformación en español las 24 horas &#9888; Sistema de verificación automática con IA &#9888; Proyecto de investigación &mdash; Universidad de Málaga &#9888; Los tweets están anonimizados &#9888;</marquee>
+
+    <div class="stats">
+      <span class="badge" style="background:#C0C0C0;">VERIFICADOS: <b>2</b> / 2000</span>
+      <span class="badge" style="background:#00FF00;">VERDADERO: 0</span>
+      <span class="badge" style="background:#FF3333;color:#fff;">FALSO: 0</span>
+      <span class="badge" style="background:#FFCC00;">ENGAÑOSO: 0</span>
+      <span class="badge" style="background:#999999;color:#fff;">SIN EVIDENCIA: 0</span>
+    </div>
+    <p style="text-align:center;font-size:11px;">
+      Última actualización: <span class="counter">2026-06-24 13:34 UTC</span>
+    </p>
+  </div>
+
+  <div class="panel" style="overflow-x:auto;">
+    <table>
+      <tr>
+        <th>AFIRMACIÓN (tweet anonimizado)</th>
+        <th>VEREDICTO</th>
+        <th>CONF.</th>
+        <th>RAZONAMIENTO</th>
+        <th>FUENTES</th>
+        <th>FECHA</th>
+      </tr>
+      
+    <tr>
+      <td class="tw">@___ @___ No tienen otro video que no sea hecho con IA.</td>
+      <td class="vd"><span style="color:#ff3b3b;background:#1a0000;">&#9658; FALSO</span></td>
+      <td class="cf">0%</td>
+      <td class="rs">La evidencia muestra claramente la existencia de herramientas creadas por IA para generar o editar video (YouTube: &#x27;convertir cualquier contenido&#x27;, Amazon Prime Video: &#x27;humano a máquina&#x27; con X-Ray Rec</td>
+      <td class="ou">&amp;mdash;</td>
+      <td class="fc">2026-06-19 14:43</td>
+    </tr>
+
+    <tr>
+      <td class="tw">@___ @___ @___ En Sevilla capital, el último gobierno que hizo algo en condiciones fue el del PSOE con IU (Torrijos, sí al que denunciaron por Mercasevilla y las mariscadas, y luego todo quedó en nada)</td>
+      <td class="vd"><span style="color:#ff3b3b;background:#1a0000;">&#9658; FALSO</span></td>
+      <td class="cf">0%</td>
+      <td class="rs">La búsqueda en noticias confirma que se registró un bar en Sevilla con el expresidente del SEPI, no con PSOE/IU; además, la visita a El Capricho fue por PP/Vox/PSOE/Más Madrid. La afirmación contiene errores cronológicos</td>
+      <td class="ou">La UCO registra un bar en Sevilla vinculado al expresidente de la SEPI, Concejales de PP, Más Madrid, PSOE y Vox visitan juntos El Capricho</td>
+      <td class="fc">2026-06-19 13:47</td>
+    </tr>
+    </table>
+  </div>
+
+  <div class="footer">
+    <p>&#9881; Generado automáticamente vía GitHub Actions &mdash; Mejor visto en Netscape Navigator 4.0 a 800&times;600 &#9881;</p>
+    <p>&copy; 2026 Proyecto fakechecker &mdash; Los veredictos son automáticos y pueden contener errores.</p>
+  </div>
+
+</div>
+</body>
+</html>
