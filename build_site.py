@@ -46,7 +46,7 @@ for v in verdicts:
       <td class="tw">{esc(v['tweet'])[:280]}</td>
       <td class="vd"><span style="color:{color};background:{bg};">&#9658; {etiqueta}</span></td>
       <td class="cf">{conf_pct}%</td>
-      <td class="rs">{esc(v['reasoning'])[:220]}</td>
+      <td class="rs">{esc(v['reasoning'])}</td>
       <td class="ou">{esc(outlets)}</td>
       <td class="fc">{esc(v['fecha'])}</td>
     </tr>""")
