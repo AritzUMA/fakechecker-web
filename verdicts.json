@@ -1,23 +1,14 @@
 {
  "stats": {
-  "total": 2,
+  "total": 1,
   "supported": 0,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 2,
-  "actualizado": "2026-06-25 23:03 UTC"
+  "insufficient": 1,
+  "actualizado": "2026-06-25 23:04 UTC"
  },
  "verdicts": [
-  {
-   "tweet": "vaya robo le estan haciendo a ecuador",
-   "claim_type": "event_claim",
-   "verdict": "insufficient_evidence",
-   "confidence": 0.2,
-   "reasoning": "No se encontró evidencia que indique que Ecuador está siendo objeto de robo. Los artículos encontrados tratan sobre corrupción en España, Portugal, Mozambique y fútbol, sin referencia a Ecuador.",
-   "outlets": [],
-   "fecha": "2026-06-25 22:45"
-  },
   {
    "tweet": "La Fiscalía de EEUU acusa a cuatro por un plan para introducir contrabando en el Centro de Detención Wyatt en Central Falls. [enlace]",
    "claim_type": "policy_claim",
