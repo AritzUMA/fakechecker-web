@@ -1,36 +1,25 @@
 {
  "stats": {
-  "total": 2,
-  "supported": 0,
+  "total": 1,
+  "supported": 1,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
   "insufficient": 0,
-  "actualizado": "2026-06-24 13:34 UTC"
+  "actualizado": "2026-06-25 17:33 UTC"
  },
  "verdicts": [
   {
-   "tweet": "@___ @___ No tienen otro video que no sea hecho con IA.",
-   "claim_type": "event_claim",
-   "verdict": "La afirmación es falsa.",
-   "confidence": 0.0,
-   "reasoning": "La evidencia muestra claramente la existencia de herramientas creadas por IA para generar o editar video (YouTube: 'convertir cualquier contenido', Amazon Prime Video: 'humano a máquina' con X-Ray Recaps). La afirmación contradice estas declaraciones oficiales.",
+   "tweet": "@___ @___ @___ @___ El dinero debe ir directamente a @___",
+   "claim_type": "statistical_claim",
+   "verdict": "supported",
+   "confidence": 0.6,
+   "reasoning": "No se encontró evidencia que indique que el dinero debe ir directamente a la cuenta de la Embajada de EE. UU. en Venezuela.  El artículo de eldiario menciona que los pagos de combustible deben depositarse directamente a EE. UU., pero no especifica la Embajada.  El informe de 20minutos indica que el dinero se depositará en cuentas controladas por Washington, sin referencia a la Embajada.  Por lo tanto, la evidencia disponible no respalda ni contradice la afirmación.",
    "outlets": [
-    ""
+    "eldiario",
+    "20minutos"
    ],
-   "fecha": "2026-06-19 14:43"
-  },
-  {
-   "tweet": "@___ @___ @___ En Sevilla capital, el último gobierno que hizo algo en condiciones fue el del PSOE con IU (Torrijos, sí al que denunciaron por Mercasevilla y las mariscadas, y luego todo quedó en nada)",
-   "claim_type": "event_claim",
-   "verdict": "La afirmación es falsa.",
-   "confidence": 0.0,
-   "reasoning": "La búsqueda en noticias confirma que se registró un bar en Sevilla con el expresidente del SEPI, no con PSOE/IU; además, la visita a El Capricho fue por PP/Vox/PSOE/Más Madrid. La afirmación contiene errores cronológicos y políticos.",
-   "outlets": [
-    "La UCO registra un bar en Sevilla vinculado al expresidente de la SEPI",
-    "Concejales de PP, Más Madrid, PSOE y Vox visitan juntos El Capricho"
-   ],
-   "fecha": "2026-06-19 13:47"
+   "fecha": "2026-06-25 17:17"
   }
  ]
 }
