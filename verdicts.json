@@ -1,73 +1,22 @@
 {
  "stats": {
-  "total": 5,
+  "total": 1,
   "supported": 0,
-  "contradicted": 4,
+  "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
   "insufficient": 1,
-  "actualizado": "2026-06-25 22:14 UTC"
+  "actualizado": "2026-06-25 22:41 UTC"
  },
  "verdicts": [
   {
-   "tweet": "La inflación en España se sitúa en el 2,3% en mayo según el INE.",
-   "claim_type": "statistical_claim",
-   "verdict": "contradicted",
-   "confidence": 0.95,
-   "reasoning": "El dato oficial del Instituto Nacional de Estadística (INE) publicado por Europa Press indica que el IPC se mantuvo en mayo en el 3,2 %, lo que contradice la afirmación de que la inflación se sitúa en el 2,3 %.",
-   "outlets": [
-    "Europa_Press"
-   ],
-   "fecha": "2026-06-25 22:14"
-  },
-  {
-   "tweet": "España recibirá 9.000 millones de euros del fondo de recuperación europeo en 2026.",
-   "claim_type": "statistical_claim",
+   "tweet": "La Fiscalía de EEUU acusa a cuatro por un plan para introducir contrabando en el Centro de Detención Wyatt en Central Falls. [enlace]",
+   "claim_type": "policy_claim",
    "verdict": "insufficient_evidence",
-   "confidence": 0.9,
-   "reasoning": "No se menciona 9.000 millones de euros en los artículos encontrados; los artículos citan 13.000, 27.000, 10.200, 6.500 y 67.000 millones, pero no 9.000.",
+   "confidence": 0.95,
+   "reasoning": "No se encontró ninguna referencia a la Fiscalía de EEUU ni al Centro de Detención Wyatt en Central Falls en los artículos encontrados. Los resultados de búsqueda corresponden a delitos en España y no mencionan a la Fiscalía de EEUU ni a la instalación de Central Falls.",
    "outlets": [],
-   "fecha": "2026-06-25 22:11"
-  },
-  {
-   "tweet": "El BCE sube los tipos de interés al 4% en junio de 2026.",
-   "claim_type": "statistical_claim",
-   "verdict": "contradicted",
-   "confidence": 0.95,
-   "reasoning": "La evidencia muestra que el BCE aumentó los tipos en junio de 2026 en 0,25 puntos, llevando la tasa de depósito (DFR) a 2,25 % (El Independiente, 2026‑06‑11) y que la subida prevista era de 0,25 puntos, no 4 % (Público, 2026‑06‑11; 20minutos, 2026‑05‑01). No se menciona ninguna subida al 4 %. Por lo tanto, la afirmación es falsa.",
-   "outlets": [
-    "El_Independiente",
-    "Público",
-    "20minutos",
-    "Público",
-    "20minutos",
-    "El_Independiente"
-   ],
-   "fecha": "2026-06-25 22:07"
-  },
-  {
-   "tweet": "El paro en España bajó al 8% en el segundo trimestre de 2026 según el INE.",
-   "claim_type": "statistical_claim",
-   "verdict": "contradicted",
-   "confidence": 0.9,
-   "reasoning": "Si, según el medio el_confidencial (17‑05‑2026), la tasa de paro en España se estancará cerca del 10 %, lo que contradice la afirmación de un 8 % en el segundo trimestre de 2026.",
-   "outlets": [
-    "el_confidencial"
-   ],
-   "fecha": "2026-06-25 22:04"
-  },
-  {
-   "tweet": "La UE acuerda prohibir la venta de coches de combustión a partir de 2035.",
-   "claim_type": "opinion",
-   "verdict": "contradicted",
-   "confidence": 0.95,
-   "reasoning": "La evidencia muestra que la Comisión Europea no ha acordado prohibir la venta de coches de combustión en 2035, sino que ha decidido no imponer dicha prohibición. Según los artículos de 20minutos (17 diciembre 2025) y de vozpopuli (9 junio 2026), la UE ha optado por no prohibir los coches de motor de combustión en 2035 y, en cambio, ha reducido las exigencias de emisiones. Europa Press (8 junio 2026) también indica que la UE mantiene una “senda clara” de electrificación sin prohibir la venta de coches de combustión en 2035. Por lo tanto, la afirmación es contradicha.",
-   "outlets": [
-    "20minutos",
-    "vozpopuli",
-    "Europa Press"
-   ],
-   "fecha": "2026-06-25 22:01"
+   "fecha": "2026-06-25 22:39"
   }
  ]
 }
