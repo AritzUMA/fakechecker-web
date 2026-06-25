@@ -1,19 +1,19 @@
 {
  "stats": {
   "total": 1,
-  "supported": 1,
+  "supported": 0,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 0,
-  "actualizado": "2026-06-25 17:49 UTC"
+  "insufficient": 1,
+  "actualizado": "2026-06-25 18:02 UTC"
  },
  "verdicts": [
   {
    "tweet": "@___ @___ @___ @___ El dinero debe ir directamente a @___",
    "claim_type": "statistical_claim",
-   "verdict": "supported",
-   "confidence": 0.6,
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
    "reasoning": "No se encontró evidencia que indique que el dinero debe ir directamente a la cuenta de la Embajada de EE. UU. en Venezuela.  El artículo de eldiario menciona que los pagos de combustible deben depositarse directamente a EE. UU., pero no especifica la Embajada.  El informe de 20minutos indica que el dinero se depositará en cuentas controladas por Washington, sin referencia a la Embajada.  Por lo tanto, la evidencia disponible no respalda ni contradice la afirmación.",
    "outlets": [
     "eldiario",
