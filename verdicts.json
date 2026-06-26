@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 3,
+  "total": 4,
   "supported": 1,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 2,
-  "actualizado": "2026-06-26 15:18 UTC"
+  "insufficient": 3,
+  "actualizado": "2026-06-26 16:20 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "El Ayuntamiento de Fuencaliente carga contra los organizadores del MadronaTrail por cancelar la prueba sin negociación [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione al Ayuntamiento de Fuencaliente ni a los organizadores del MadronaTrail en relación con una carga por cancelar la prueba sin negociación. Todas las evidencias proporcionadas se refieren a eventos y autoridades distintas (Madrid, Carboneras, etc.).",
+   "outlets": [],
+   "fecha": "2026-06-26 16:17"
+  },
   {
    "tweet": "Me gustaría que alguien me informara de la ayuda que está recibiendo Venezuela de EE.UU.",
    "claim_type": "rhetorical",
