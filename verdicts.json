@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 5,
+  "total": 6,
   "supported": 1,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 4,
-  "actualizado": "2026-06-26 18:37 UTC"
+  "insufficient": 5,
+  "actualizado": "2026-06-26 21:36 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Japón tiene que ser uno de los países con más enfermos por metro cuadrado del mundo",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No evidencia encontrada que indique que Japón sea uno de los países con mayor número de enfermos por metro cuadrado del mundo. Los artículos listados tratan temas como suicidios, turismo y longevidad, pero no proporcionan datos sobre la prevalencia de enfermedades por área. Por lo tanto, no se puede confirmar ni refutar la afirmación con la información disponible.",
+   "outlets": [],
+   "fecha": "2026-06-26 18:54"
+  },
   {
    "tweet": "El 75% del demostrador del Tempest ya esta acabado, debería salir de la fábrica en 2027",
    "claim_type": "statistical_claim",
