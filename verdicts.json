@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 1,
-  "supported": 0,
+  "total": 2,
+  "supported": 1,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
   "insufficient": 1,
-  "actualizado": "2026-06-26 11:02 UTC"
+  "actualizado": "2026-06-26 14:20 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Aumentan NUEVAMENTE el SUBTE. Debe ser x el excelente estado de las estaciones. Perú ⬇️ [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Si, según La_Razón (2026-06-01), el billete sencillo de Metro de Madrid tendrá, de manera permanente, un precio único de 1,50 euros a partir de este lunes 1 de junio, lo que indica un aumento. Además, el artículo de elespanol (2026-05-25) confirma que el billete sencillo costará 1,5 euros con el nuevo método de pago, reforzando la idea de un incremento. No se encontraron fuentes que contradigan esta información.",
+   "outlets": [],
+   "fecha": "2026-06-26 14:18"
+  },
   {
    "tweet": "La Fiscalía de EEUU acusa a cuatro por un plan para introducir contrabando en el Centro de Detención Wyatt en Central Falls. [enlace]",
    "claim_type": "policy_claim",
