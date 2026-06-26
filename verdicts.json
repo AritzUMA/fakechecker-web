@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 4,
+  "total": 5,
   "supported": 1,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 3,
-  "actualizado": "2026-06-26 17:27 UTC"
+  "insufficient": 4,
+  "actualizado": "2026-06-26 18:37 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "El 75% del demostrador del Tempest ya esta acabado, debería salir de la fábrica en 2027",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione el estado de construcción del demostrador del Tempest ni su fecha de salida de fábrica. Los artículos listados tratan temas distintos (aviación militar, defensa, deportes, etc.) y no contienen información relevante sobre el proyecto Tempest.",
+   "outlets": [],
+   "fecha": "2026-06-26 18:15"
+  },
   {
    "tweet": "El Ayuntamiento de Fuencaliente carga contra los organizadores del MadronaTrail por cancelar la prueba sin negociación [enlace]",
    "claim_type": "policy_claim",
