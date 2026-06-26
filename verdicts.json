@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 2,
+  "total": 3,
   "supported": 1,
   "contradicted": 0,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 1,
-  "actualizado": "2026-06-26 14:20 UTC"
+  "insufficient": 2,
+  "actualizado": "2026-06-26 15:18 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Me gustaría que alguien me informara de la ayuda que está recibiendo Venezuela de EE.UU.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que indique quién recibe la información sobre las ayudas económicas de Venezuela del gobierno estadounidense.",
+   "outlets": [],
+   "fecha": "2026-06-26 15:12"
+  },
   {
    "tweet": "Aumentan NUEVAMENTE el SUBTE. Debe ser x el excelente estado de las estaciones. Perú ⬇️ [enlace]",
    "claim_type": "statistical_claim",
