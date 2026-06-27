@@ -1,14 +1,131 @@
 {
  "stats": {
-  "total": 6,
+  "total": 18,
   "supported": 1,
-  "contradicted": 0,
+  "contradicted": 1,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 5,
-  "actualizado": "2026-06-26 23:58 UTC"
+  "insufficient": 16,
+  "actualizado": "2026-06-27 16:12 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔛 ¡Arrancó el partido!\n\n🐔 River 0 – 0 Ferro 🚂",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se menciona en la evidencia que haya un partido que haya arrancado; los artículos hablan de concentraciones y entrenamientos de la selección española, no de un encuentro que haya comenzado.",
+   "outlets": [
+    "Europa_Press",
+    "elespanol"
+   ],
+   "fecha": "2026-06-27 14:34"
+  },
+  {
+   "tweet": "@___ La misma UCO que la de la cuenta falsa en Suiza de Trías?",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No de los artículos encontrados menciona a Trías ni a una cuenta falsa en Suiza. Todos los fragmentos se centran en investigaciones de la UCO sobre la cátedra de Begoña Gómez y otras actividades internas de la Guardia Civil. Por lo tanto, no hay evidencia que confirme ni refute la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-27 13:15"
+  },
+  {
+   "tweet": "@___ @___ En Venezuela la Cruz Roja es administrada por el régimen.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione la administración de la Cruz Roja por parte del régimen. Los artículos citados tratan temas como la política española, el golpe de Estado, la curia, la inmigración y las comisiones delegadas del Gobierno, pero no hacen referencia a la Cruz Roja ni a su gestión.",
+   "outlets": [],
+   "fecha": "2026-06-27 12:14"
+  },
+  {
+   "tweet": "dea re q ya pasó la hora",
+   "claim_type": "rhetorical",
+   "verdict": "contradicted",
+   "confidence": 0.7,
+   "reasoning": "El contenido de la evidencia indica que algo ocurrirá \"EN DOS MINUTOS\" (theobjective), lo cual sugiere que todavía falta tiempo y no que la hora ya haya pasado. Por lo tanto, la afirmación \"dea re q ya pasó la hora\" (interpretada como \"la hora ya pasó\") es contradicha por la evidencia.",
+   "outlets": [
+    "theobjective"
+   ],
+   "fecha": "2026-06-27 06:51"
+  },
+  {
+   "tweet": "@___ El 7 de agosto se POSESIONA EL VIRREY ABELARDO SÁMANO 2",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Abelardo Sánmano, al título de virrey, ni que indique una posesión el 7 de agosto. Los resultados de búsqueda listan artículos sobre Bosco Esteruelas, Víctor de Aldama, Fernando Esteso, Miguel Ángel Gallardo, Ignacio Vidal‑Folch y Álvaro Nieto, sin relación con la afirmación. Por lo tanto, no hay evidencia que la respalde ni la contradiga.",
+   "outlets": [],
+   "fecha": "2026-06-27 06:16"
+  },
+  {
+   "tweet": "Terremoto de 1.5 con epicentro a 50 km de Cartagena [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione un terremoto de magnitud 1.5 con epicentro a 50 km de Cartagena. Los artículos disponibles hablan de sismos de magnitudes 2.5 a 4.8 en lugares como Rota, los Pirineos Orientales y Canarias, pero no hacen referencia a Cartagena ni a la magnitud indicada.",
+   "outlets": [],
+   "fecha": "2026-06-27 06:07"
+  },
+  {
+   "tweet": "SE ESTÁN MAMANDO CON IRÁN",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione directamente la frase \"se están mamando con Irán\" ni que confirme o refute la idea de que alguna entidad esté siendo manipulada por Irán. Los artículos listados tratan sobre la guerra en Irán y sus efectos en España, pero no abordan la acusación de ser engañados por Irán.",
+   "outlets": [],
+   "fecha": "2026-06-27 05:09"
+  },
+  {
+   "tweet": "@___ @___ Su representante debe ser enviado a renegociar la deuda con el fmi.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "Los artículos citados (Libertad Digital, 15 de abril de 2026; lagaceta, 22 de mayo de 2026) describen las exigencias del FMI al Gobierno de Sánchez, como reformas en pensiones, oferta de vivienda y reducción de inseguridad jurídica, pero no mencionan la necesidad de enviar un representante para renegociar la deuda con el FMI. Por lo tanto, no hay evidencia que respalde la afirmación de que su representante debe ser enviado a renegociar la deuda con el FMI.",
+   "outlets": [],
+   "fecha": "2026-06-27 04:09"
+  },
+  {
+   "tweet": "@___ me pasó con un chofer que no sabía manejar en la lmontaña y venía quemando freno hasta que se quedó sin material para quemar",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que describa un incidente con un conductor que no sabía manejar en la montaña y quemaba freno hasta quedarse sin material para quemar. Los artículos encontrados tratan sobre accidentes de tráfico, incendios de vehículos y bloqueos de carreteras, pero no mencionan la situación descrita en la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-27 03:05"
+  },
+  {
+   "tweet": "Cabo Verde en verdad hizo más que Venezuela, Perú y Bolivia en los mundiales",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró evidencia que respalde la afirmación. Los artículos encontrados (La Vanguardia, eldiario, vozpopuli) describen partidos de Cabo Verde en 2025/2026, pero no mencionan su participación ni desempeño en la Copa del Mundo, ni comparaciones con Venezuela, Perú o Bolivia. Además, se sabe que Cabo Verde nunca ha calificado para un Mundial, mientras que Venezuela, Perú y Bolivia sí lo han hecho. Por lo tanto, la afirmación no está respaldada por la evidencia disponible.",
+   "outlets": [
+    "La_Vanguardia",
+    "eldiario",
+    "vozpopuli"
+   ],
+   "fecha": "2026-06-27 02:36"
+  },
+  {
+   "tweet": "y ya no son 26 votos, 25 no más",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No se encontró ninguna fuente que mencione 26 votos ni 25 votos en el contexto de la afirmación. Los artículos disponibles tratan sobre elecciones, participación y procesos parlamentarios, pero no hacen referencia a esos números específicos.",
+   "outlets": [],
+   "fecha": "2026-06-27 00:44"
+  },
+  {
+   "tweet": "Primer choque fuerte y en serio en lo que va de mundial, 🇺🇾 vs 🇪🇸",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione un \"primer choque fuerte y en serio\" relacionado con la Copa del Mundo. Los artículos recuperados tratan temas como ciberataques, derechos de transmisión y la organización del Mundial 2026, pero no hacen referencia a un encuentro específico con esa descripción.",
+   "outlets": [],
+   "fecha": "2026-06-27 00:14"
+  },
   {
    "tweet": "Japón tiene que ser uno de los países con más enfermos por metro cuadrado del mundo",
    "claim_type": "statistical_claim",
