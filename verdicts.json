@@ -1,14 +1,190 @@
 {
  "stats": {
-  "total": 18,
-  "supported": 1,
-  "contradicted": 1,
+  "total": 36,
+  "supported": 2,
+  "contradicted": 3,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 16,
-  "actualizado": "2026-06-27 16:12 UTC"
+  "insufficient": 31,
+  "actualizado": "2026-06-28 12:32 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Bolivia: después de casi 15 años el país migra de un régimen cambiario fijo a uno flexible [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione un cambio de régimen cambiario fijo a flexible en el país después de casi 15 años. Los artículos disponibles tratan temas como pensiones, migración, economía venezolana y ajustes presupuestarios, pero no abordan la política cambiaria del país en cuestión.",
+   "outlets": [],
+   "fecha": "2026-06-28 12:21"
+  },
+  {
+   "tweet": "@___ @___ Croacia Ghana no fue empate",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione el resultado del partido entre Croacia y Ghana. Los artículos listados tratan sobre partidos de Ghana contra Panamá, Inglaterra contra Croacia, y otros temas sin referencia al encuentro Croacia‑Ghana. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 06:40"
+  },
+  {
+   "tweet": "@___ 0-0 pero Colombia logro grupo k",
+   "claim_type": "opinion",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "La evidencia muestra que Colombia venció a Uzbekistán 3‑1 en su primer partido del Mundial 2026, no un empate 0‑0. Por ejemplo, el artículo de El Mundo titulado \"Uzbekistán 1 - 3 Colombia | Goles Mundial 2026\" (2026‑06‑18) confirma el marcador 3‑1, lo que contradice la afirmación de un 0‑0. No se encontró ninguna fuente que indique un empate 0‑0 en el contexto de la clasificación al grupo K.",
+   "outlets": [
+    "El Mundo",
+    "elmundo",
+    "Europa_Press",
+    "El_Pais",
+    "20minutos"
+   ],
+   "fecha": "2026-06-28 04:21"
+  },
+  {
+   "tweet": "Muertes del Colo Barcos en el Mundial 2026: 1",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione la muerte de Colo Barcos durante el Mundial 2026. Las evidencias disponibles tratan temas distintos (virus en grullas, meteorología, noticias falsas, impuestos, etc.) y no contienen información sobre el jugador ni sobre su fallecimiento en dicho evento.",
+   "outlets": [],
+   "fecha": "2026-06-28 04:05"
+  },
+  {
+   "tweet": "@___ Asesinos ladrones fuera de Venezuela",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-06-28 02:21"
+  },
+  {
+   "tweet": "Hoy quedó atrás el:\n\"Era gol de Yepes\" \nY actualizamos a:\n\"Era gol de Sánchez\"",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia en la evidencia proporcionada que mencione a un jugador llamado Yepes como autor de un gol. Los artículos listados tratan sobre la selección española, partidos amistosos y noticias de fútbol, pero no incluyen información sobre un gol de Yepes. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 01:46"
+  },
+  {
+   "tweet": "siguen sin mostrar el offside en la transmision oficial",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Ninguna de las fuentes encontradas menciona explícitamente que la transmisión oficial no muestre el offside. El artículo de theobjective (2026‑06‑07) habla de la re‑arbitraje de los fueras de juego con IA, pero no indica que la señal de TV no incluya la visualización del offside. Los demás artículos tratan temas de hackeo, streaming, y tecnología de la FIFA sin referirse al offside en la transmisión. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 01:42"
+  },
+  {
+   "tweet": "Dónde está Rusia? Dónde está china?",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "La evidencia encontrada menciona la presencia militar rusa cerca de la frontera con Finlandia y Suecia, pero no indica la ubicación geográfica de Rusia en su totalidad. No hay datos que confirmen ni contradigan la pregunta \"Dónde está Rusia?\", por lo que no se puede determinar la veracidad de la afirmación con la información disponible.",
+   "outlets": [
+    "20minutos",
+    "eldiario",
+    "Libertad Digital"
+   ],
+   "fecha": "2026-06-28 01:35"
+  },
+  {
+   "tweet": "No mostraron mas el gol de Colombia, esta mal anulado",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione un gol de Colombia que haya sido anulado o que se haya decidido no volver a mostrarlo. Los artículos listados se refieren a la participación de Colombia en el Mundial 2026 y no abordan el incidente descrito en la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 01:30"
+  },
+  {
+   "tweet": "@___ El IMSS tenía su departamento de Control de Calidad. Y lo desaparecieron.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione un departamento de control de calidad del IMSS ni su desaparición. Todas las fuentes citadas tratan temas de IA, CNMV, Indra, etc., y no hacen referencia al IMSS. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 01:05"
+  },
+  {
+   "tweet": "Ubekistan scores Congo",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No fuente encontrada que indique que Uzbekistán anotó contra la República Democrática del Congo. El único artículo que menciona a Uzbekistán habla de su derrota ante Colombia (1‑3) en el Mundial 2026, por lo que no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-27 23:55"
+  },
+  {
+   "tweet": "No hay justicia para los más de 700 mil muertos que hubo en el #Covid: Ludwig. \n#UnMundoRaro",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que trate sobre la justicia o la falta de ella respecto a las víctimas del Covid. Los artículos recuperados se refieren a condenas penales en casos de homicidio y otros delitos, sin relación con la pandemia ni con la compensación o reconocimiento de las víctimas.",
+   "outlets": [],
+   "fecha": "2026-06-27 23:25"
+  },
+  {
+   "tweet": "Impactante choque entre un auto y un jabalí en una ruta cordobesa [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione un choque entre un auto y un jabalí en una ruta cordobesa. Los artículos disponibles tratan sobre accidentes en Huesca, Sevilla, Madrid y otros lugares, pero ninguno hace referencia a un jabalí en Córdoba.",
+   "outlets": [],
+   "fecha": "2026-06-27 23:20"
+  },
+  {
+   "tweet": "Se fusiona la JDGM con el ministerio del interior, super ministro @___",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione la fusión de la JDGM con el Ministerio del Interior.",
+   "outlets": [],
+   "fecha": "2026-06-27 22:19"
+  },
+  {
+   "tweet": "En este país hay que levantar mucha infraestructura, con nuevos reglamentos para la construcción, sumando supervisión de materiales y ejecución de obras",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "El único artículo que menciona cambios en la normativa de construcción es el de vozpopuli (España cambia las normas de la construcción: crea vigas de chopo y hormigón un 40 % más ligeras y con un 70 % menos de emisiones). No se menciona la necesidad de levantar infraestructura ni la supervisión de materiales y ejecución de obras. Ningún otro documento de la evidencia aborda directamente la construcción de infraestructura ni la supervisión de materiales. Por lo tanto, la evidencia disponible no es suficiente para confirmar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-27 22:13"
+  },
+  {
+   "tweet": "Argentina 🇦🇷 Campiones de Mundo 🏆",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.95,
+   "reasoning": "Sí, según elmundo (2026-06-16), Argentina es la campeona del mundo tras ganar en Qatar 2022. Los artículos de elmundo, eldiario y theobjective refieren a Argentina como la vigente campeona del mundo y mencionan su triunfo en el Mundial de 2022.",
+   "outlets": [
+    "elmundo",
+    "eldiario",
+    "theobjective"
+   ],
+   "fecha": "2026-06-27 21:23"
+  },
+  {
+   "tweet": "Corea del Sur denunció que aviones militares chinos y rusos ingresaron en su zona de defensa aérea [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que confirme o niegue la denuncia de Corea del Sur sobre la entrada de aviones militares chinos y rusos en su zona de defensa aérea. Los artículos listados se refieren a incidentes en Alaska, Dinamarca, Estonia, Europa y otros contextos, pero no mencionan a Corea del Sur ni a la presencia de aviones chinos o rusos en su espacio aéreo.",
+   "outlets": [],
+   "fecha": "2026-06-27 17:48"
+  },
+  {
+   "tweet": "Japon es el país donde los asesinos de  Junko Furuta estan libres.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme que los culpables de la muerte de Junko Furuta hayan sido liberados. La evidencia proporcionada se refiere a casos distintos y no menciona a los asesinos de Junko Furuta.",
+   "outlets": [],
+   "fecha": "2026-06-27 17:41"
+  },
   {
    "tweet": "🔛 ¡Arrancó el partido!\n\n🐔 River 0 – 0 Ferro 🚂",
    "claim_type": "event_claim",
