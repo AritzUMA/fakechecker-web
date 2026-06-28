@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 36,
+  "total": 37,
   "supported": 2,
   "contradicted": 3,
   "misleading": 0,
   "outdated": 0,
-  "insufficient": 31,
-  "actualizado": "2026-06-28 12:32 UTC"
+  "insufficient": 32,
+  "actualizado": "2026-06-28 16:22 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Padre es arrestado por la Migra cuando regresaba a México para sepultar a su hijo\n\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione que un padre fue arrestado por la Migración al regresar a México para enterrar a su hijo. Los artículos listados no tratan este tema ni hacen referencia a la Migra, a un padre, ni a un funeral. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 15:31"
+  },
   {
    "tweet": "Bolivia: después de casi 15 años el país migra de un régimen cambiario fijo a uno flexible [enlace]",
    "claim_type": "policy_claim",
