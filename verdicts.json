@@ -1,14 +1,73 @@
 {
  "stats": {
-  "total": 37,
+  "total": 43,
   "supported": 2,
   "contradicted": 3,
-  "misleading": 0,
+  "misleading": 1,
   "outdated": 0,
-  "insufficient": 32,
-  "actualizado": "2026-06-28 16:22 UTC"
+  "insufficient": 37,
+  "actualizado": "2026-06-30 14:17 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La migra afuera del estadio del Mexico vs Venezuela\n\n [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione la presencia de la migración (migra) fuera del estadio durante el partido México vs Venezuela. Los artículos listados tratan temas distintos (mundial 2026, migración general, deportaciones, etc.) y no hacen referencia a la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-29 02:54"
+  },
+  {
+   "tweet": "OpenStreetMap migra su infraestructura a Debian [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione la migración de infraestructura a Debian. Los artículos citados tratan temas de carreteras, programación, ciberseguridad y migraciones de datos a infraestructuras de Telefónica, pero no hacen referencia a Debian.",
+   "outlets": [
+    "El_Periodico",
+    "20minutos",
+    "vozpopuli",
+    "theobjective"
+   ],
+   "fecha": "2026-06-29 00:57"
+  },
+  {
+   "tweet": "@___ Ahora es cuando el INM (la migra mexicana) debe empezar a deportar a todos los gringos asentados en los diferentes lugares de México.",
+   "claim_type": "statistical_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.85,
+   "reasoning": "No se encontró evidencia que indique que el INM esté iniciando una política de deportar a todos los extranjeros asentados en México. La evidencia disponible (por ejemplo, El_Periodico) menciona la cooperación de México con las deportaciones de Trump y la devolución de migrantes a su país de origen, pero no se refiere a la deportación de todos los extranjeros residentes. Por lo tanto, la afirmación carece de respaldo y parece ser una exageración.",
+   "outlets": [],
+   "fecha": "2026-06-29 00:03"
+  },
+  {
+   "tweet": "Los dueños de empresa los ponen a trabajar y cuando ya es el día de pago, llaman a la migra para que los reporten y no pagarles.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No fuente en la evidencia proporcionada menciona que los dueños de empresa llamen a la migración para reportar a los trabajadores y no pagarlos. Los artículos citados tratan sobre regularización de inmigrantes, multas a empresas por incumplimiento de la ley y casos de abuso laboral, pero no describen la práctica específica de llamar a la migración en el día de pago.",
+   "outlets": [],
+   "fecha": "2026-06-28 19:39"
+  },
+  {
+   "tweet": "la migra afuera del estadio donde se juega Colombia vs méxico  [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que mencione la presencia de la migración (migra) fuera del estadio donde se jugó el partido Colombia vs México. Los artículos citados tratan sobre resultados de partidos, declaraciones de la FIFA, migración de inmigrantes en general o noticias de otros países, pero ninguno indica que la migra estuviera presente en el recinto del partido. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 16:35"
+  },
+  {
+   "tweet": "Esto que postea Travis, pasó como una noticia más en la gran marea de información, y es central en la economía mundial. BHP, la mayor minera en el mundo, aceptó liquidar la venta de mineral de hierro en yuanes (RMB), moneda china que toma cada día más relevancia a nivel mundial.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme que BHP haya aceptado liquidar la venta de mineral de hierro en yuanes. Los resultados de búsqueda no incluyen artículos relevantes que respalden la afirmación. Por lo tanto, no hay evidencia suficiente para apoyar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-06-28 16:28"
+  },
   {
    "tweet": "Padre es arrestado por la Migra cuando regresaba a México para sepultar a su hijo\n\n[enlace]",
    "claim_type": "event_claim",
