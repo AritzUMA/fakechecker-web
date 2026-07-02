@@ -1,14 +1,41 @@
 {
  "stats": {
-  "total": 46,
+  "total": 49,
   "supported": 2,
   "contradicted": 5,
   "misleading": 1,
   "outdated": 0,
-  "insufficient": 38,
-  "actualizado": "2026-07-02 22:19 UTC"
+  "insufficient": 41,
+  "actualizado": "2026-07-02 23:23 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Mientras el Mundial se disputa en EU, el ICE intensificó las redadas: más de 10 mil detenciones en cinco días avivan el temor entre migrantes y organizaciones civiles\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que mencione más de 10,000 detenciones en un lapso de cinco días. Los artículos listados (20minutos, La Vanguardia, Newtral) hablan de detenciones individuales o aumentos porcentuales, pero no de cifras de 10 000 en cinco días. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-02 23:21"
+  },
+  {
+   "tweet": "¡𝐌𝐀𝐋𝐍𝐀𝐂𝐈𝐃𝐎𝐒!\n\nDos personas han sido detenidas en Bizkaia acusadas de liderar una trama de explotación laboral de trabajadores inmigrantes para trabajos de construcción\n\n-Varios de ellos sufrieron además accidentes laborales\n\n[enlace] [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione a dos personas detenidas en Bizkaia por esa razón. La única fuente que menciona Bizkaia habla de un robo en Portugalete, no de explotación laboral. Si, según 20minutos (2026-01-05), se detuvo a un hombre y una mujer en Portugalete por robo con fuerza, no por explotación laboral de inmigrantes.",
+   "outlets": [],
+   "fecha": "2026-07-02 23:15"
+  },
+  {
+   "tweet": "🔴 El gobierno de Sánchez ha nacionalizado ya a 1.343.229 inmigrantes extranjeros residentes en España desde 2019 a 2025, y ha triplicado la cifra en los últimos años. Observen la curva de incremento. \n\nFuente: INE\n[enlace] [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encuentra evidencia que indique que 1,343,229 inmigrantes han sido nacionalizados entre 2019 y 2025. Los datos disponibles muestran 299,732 en 2025, con un aumento del 18,7 % respecto al año anterior, según Europa Press (28 May 2026). No se menciona una cifra total ni una triplicación.",
+   "outlets": [],
+   "fecha": "2026-07-02 22:49"
+  },
   {
    "tweet": "🟢PP y Vox pactan rechazar el reparto de MENA y promover su repatriación a sus países de origen. \n\nEl nuevo gobierno andaluz también rechazará la llegada de inmigrantes y no financiará más centros de acogida.\n\n¡Qué gran noticia!",
    "claim_type": "policy_claim",
