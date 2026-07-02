@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 43,
+  "total": 46,
   "supported": 2,
-  "contradicted": 3,
+  "contradicted": 5,
   "misleading": 1,
   "outdated": 0,
-  "insufficient": 37,
-  "actualizado": "2026-06-30 14:17 UTC"
+  "insufficient": 38,
+  "actualizado": "2026-07-02 22:19 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🟢PP y Vox pactan rechazar el reparto de MENA y promover su repatriación a sus países de origen. \n\nEl nuevo gobierno andaluz también rechazará la llegada de inmigrantes y no financiará más centros de acogida.\n\n¡Qué gran noticia!",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-02 22:15"
+  },
+  {
+   "tweet": "La Ertzaintza detiene en Bilbao a un inmigrante que atracaba a sus víctimas, las obligaba a desnudarse y las encerraba tras robarles en sus establecimientos\n\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró ninguna fuente que mencione a La Ertzaintzen deteniendo a un inmigrante que atracaba en sus establecimientos. La evidencia disponible se refiere a incidentes migratorios en otras localidades y no menciona a la organización ni a la acción descrita.",
+   "outlets": [],
+   "fecha": "2026-07-02 22:09"
+  },
+  {
+   "tweet": "Más de un millón de migrantes solicitan regularizar su situación en España\n\nMientras buena parte de Europa endurece sus políticas migratorias, España apuesta por una regularización masiva. Más de un millón de personas han solicitado legalizar su situación, el doble de lo previsto [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "El artículo de 20minutos del 15 de junio de 2026 indica que el Gobierno ya ha recibido 900.000 solicitudes de inmigrantes que quieren acogerse al proceso de regularización extraordinaria, y menciona que \"cerca de un millón\" de inmigrantes han presentado solicitudes, lo que no supera el millón. Por lo tanto, la afirmación de que más de un millón de migrantes solicitan regularizar su situación está contradicha por la evidencia.",
+   "outlets": [
+    "20minutos"
+   ],
+   "fecha": "2026-07-02 22:00"
+  },
   {
    "tweet": "La migra afuera del estadio del Mexico vs Venezuela\n\n [enlace]",
    "claim_type": "event_claim",
