@@ -1,14 +1,467 @@
 {
  "stats": {
-  "total": 49,
-  "supported": 2,
-  "contradicted": 5,
+  "total": 95,
+  "supported": 4,
+  "contradicted": 11,
   "misleading": 1,
   "outdated": 0,
-  "insufficient": 41,
-  "actualizado": "2026-07-02 23:23 UTC"
+  "insufficient": 79,
+  "actualizado": "2026-07-03 07:32 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚫 Nueva petición al Supremo para suspender la regularización de inmigrantes [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Si, según Europa Press (2026-05-22), el Tribunal Supremo rechazó la petición de Hazte Oír para suspender la regularización extraordinaria de inmigrantes; asimismo, El Independiente (2026-05-22) confirma que el Supremo ha rechazado paralizar la regularización. Por lo tanto, la afirmación de que existe una nueva petición activa que el Supremo debe considerar está contradicha por la evidencia de que la petición ya fue rechazada.",
+   "outlets": [
+    "Europa_Press",
+    "La_Razón",
+    "El_Independiente"
+   ],
+   "fecha": "2026-07-03 07:26"
+  },
+  {
+   "tweet": "🔴 #ÚLTIMAHORA | Más de un millón de inmigrantes ilegales han entrado en España en los últimos 7 años por vías marítimas, terrestres y aéreas.\n\n⚠️ Casi el 70% lo hicieron a través de vías aéreas y más de un 30% en pateras o saltando las vallas fronterizas.\n[enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 07:22"
+  },
+  {
+   "tweet": "Detenido un inmigrante maliense por colarse en un hospital de Francia y agredir sexualmente a cinco mujeres pacientes mayores de 80 años\n\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No source in the evidence list mentions a Malian immigrant, a French hospital, or five female patients over 80 years old. The available sources discuss incidents involving a Tunisian in France, a Moroccan in Spain, and other unrelated cases. Therefore, there is no supporting or contradicting evidence for the claim.",
+   "outlets": [],
+   "fecha": "2026-07-03 06:49"
+  },
+  {
+   "tweet": "‼️ Cerca de 45 inmigrantes ilegales han desembarcado en Balerma a plena luz del día.\n\nNuestras costas están siendo INVADIDAS con la colaboración de PP y PSOE.\n\nEsta VERGÜENZA tiene que parar YA.\n\n🔗 D-Cerca ([enlace] [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró ninguna fuente que mencione 45 inmigrantes ilegales desembarcando en Balerma a plena luz del día. La evidencia disponible menciona 59 inmigrantes en Cabrera y Formentera, 40 en aguas próximas a Fuerteventura y casi 200 en las Islas Baleares, pero no 45 en Balerma.",
+   "outlets": [],
+   "fecha": "2026-07-03 06:36"
+  },
+  {
+   "tweet": "🔴 #ÚLTIMAHORA | La Policía detecta que 400.000 inmigrantes que no conocen España se han colado en la regularización masiva del Gobierno. \n\nLo habrían podido hacer gracias a un mercado negro de documentos falsos y pasaportes extraviados.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró evidencia de que la Policía detecte que 400.000 inmigrantes se han colado en la regularización masiva. Los artículos citados mencionan 900.000 peticiones (El Debate, 2026‑06‑15) y una red que registró más de 400 inmigrantes (El Español, 2026‑05‑25), pero no 400.000.",
+   "outlets": [
+    "El_Debate",
+    "theobjective",
+    "elespanol",
+    "Newtral"
+   ],
+   "fecha": "2026-07-03 06:30"
+  },
+  {
+   "tweet": "Detienen a un inmigrante ilegal por intento de agresión sexual a dos jóvenes en Madrid [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 06:25"
+  },
+  {
+   "tweet": "Verdad verdadera. De hecho, uno de los mayor regularizadores de inmigrantes de este país es Aznar.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione a José María Aznar como regulador de inmigrantes. Los artículos citados tratan sobre regularizaciones, políticas migratorias actuales y partidos políticos, pero no hacen referencia a Aznar. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 06:15"
+  },
+  {
+   "tweet": "Miles de personas migrantes escapan de Sudáfrica en plena ola xenófoba: “Si me quedo, me atacarán”\n\nLos grupos que están detrás de las protestas pusieron un plazo arbitrario a las personas sin papeles para abandonar el país [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No fuente encontrada menciona un éxodo masivo de migrantes ni declaraciones de que “si me quedo, me atacarán”. Los artículos listados informan sobre la expulsión de 2.700 extranjeros y el endurecimiento de medidas migratorias, pero no sobre un éxodo de miles de personas ni sobre ataques xenófobos. Por lo tanto, la evidencia disponible no respalda ni contradice la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 06:03"
+  },
+  {
+   "tweet": "La Policía detecta masivos movimientos de inmigrantes desde Europa a España para regularizarse a la sombra de Sánchez [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "Los artículos citados no mencionan que la Policía haya detectado movimientos masivos de inmigrantes procedentes de Europa con la intención de regularizarse bajo el gobierno de Sánchez. El primer artículo de La Vanguardia habla de expulsiones de siete extranjeros con antecedentes penales, no de detección de flujos migratorios. Los demás fragmentos de Mediterráneo Digital y Newtral se refieren a regularizaciones extraordinarias y datos de inmigración irregular, pero no indican una detección policial de movimientos masivos desde Europa. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [
+    "La_Vanguardia",
+    "mediterraneodigital",
+    "maldita",
+    "Newtral"
+   ],
+   "fecha": "2026-07-03 05:57"
+  },
+  {
+   "tweet": "@___ Coral fue arrestado por el Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE) debido a su \"condición migratoria irregular. \nEn violación de las leyes migratorias estadounidenses, permaneció en el país durante 10 años después del vencimiento de su visa.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Coral siendo detenida por ICE. Todas las fuentes listadas tratan sobre otras personas o temas. Por lo tanto, no hay evidencia suficiente para apoyar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 05:54"
+  },
+  {
+   "tweet": "En Sudáfrica miles de manifestantes toman las calles al haberse cumplido el ultimátum que le habían dado al gobierno para empezar a deportar a toda la inmigración ilegal de otros países de África.\n\nAseguran que ahora toca “una caza de ilegales”\n\nNi entre ellos se aguantan.. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 05:50"
+  },
+  {
+   "tweet": "JUPOL denuncia \"un fraude masivo\" en la regularización de migrantes: \"Las mafias han hecho su agosto\", vía @___\n\nLaura García, portavoz de JUPOL, alerta de que unas 400.000 de las solicitudes presentadas no pertenecen a personas que se encontraban en España durante el",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "La evidencia encontrada menciona a las \"mafias\" en el contexto de la promoción turística de Ceuta (lagaceta) y menciona una oleada de violencia importada en España (lagaceta, El_Debate), pero no proporciona datos concretos que demuestren que las mafias han sido particularmente activas o exitosas en el periodo mencionado. Tampoco hay fuentes que contradigan explícitamente la afirmación. Por lo tanto, la evidencia disponible no es suficiente para confirmar ni refutar la declaración.",
+   "outlets": [
+    "lagaceta",
+    "El_Debate"
+   ],
+   "fecha": "2026-07-03 05:37"
+  },
+  {
+   "tweet": "Problema demográfico en Argentina. Datos de inmigración formal. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró en las fuentes proporcionadas datos cuantitativos sobre inmigración formal en Argentina. Los artículos encontrados se refieren principalmente a la política migratoria argentina sin cifras concretas (El_Salto, 2026‑04‑29) o a la inmigración en España (lagaceta, Newtral). Por lo tanto, no hay evidencia que respalde la afirmación sobre datos de inmigración formal en Argentina.",
+   "outlets": [],
+   "fecha": "2026-07-03 05:31"
+  },
+  {
+   "tweet": "🚨 Garriga critica la política económica de Salvador Illa y vincula la inmigración con la pérdida de poder adquisitivo\n\n\"Su invasión migratoria hunde los salarios, satura la vivienda y colapsa los servicios públicos\" ha afirmado\n[enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "El debate sostiene que la inmigración explica casi tres cuartas partes del crecimiento económico de España desde 2018, lo que indica un impacto positivo en la economía y no una caída de salarios ni colapso de servicios públicos. Además, Público señala que la regularización incrementará la afiliación extranjera a la Seguridad Social en un 17 % pero no tendrá un impacto muy visible en el crecimiento económico, lo que contradice la idea de que los servicios públicos colapsen. Por lo tanto, la afirmación no se sostiene frente a la evidencia encontrada.",
+   "outlets": [
+    "El Debate",
+    "Público"
+   ],
+   "fecha": "2026-07-03 05:23"
+  },
+  {
+   "tweet": "‼️🇪🇸 | La Policía calcula que 400.000 inmigrantes ilegales que no estaban en España se han colado en la regularización masiva de Sánchez. El volumen de solicitudes habría superado los 1,3 millones. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que indique que la Policía haya calculado que 400.000 inmigrantes ilegales se han colado en la regularización masiva de Sánchez. Los artículos disponibles mencionan cifras distintas (por ejemplo, 600.000 en la Comunidad Valenciana o 840.000 inmigrantes irregulares en total) y no hacen referencia a un cálculo policial. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 05:12"
+  },
+  {
+   "tweet": "El Gobierno activa una regularización exprés de inmigrantes para evitar el bloqueo del Supremo\n\n [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 05:08"
+  },
+  {
+   "tweet": "🚨🇫🇷🇹🇷☪️ | BALA: Se reveló el caso de un inmigrante ilegal turco en Normandía con orden de expulsión vigente que fue detenido en el acto por abusar sexualmente de una joven en la playa de Trouville-sur-Mer, justificándose ante la policía al alegar que \"no sabía que estaba mal\" [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 04:22"
+  },
+  {
+   "tweet": "Se dice inmigrantes",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 04:08"
+  },
+  {
+   "tweet": "🚨 SUDÁFRICA SE LEVANTA: \"CAZA DE ILEGALES\" TRAS EL ULTIMÁTUM. ¿CUÁNDO REACCIONA EUROPA?\n\nMiles de sudafricanos tomaron las calles (Johannesburgo, Durban, etc.) el 30 de junio tras dar un ultimátum al gobierno: deportar a toda la inmigración ilegal africana o \"caza de ilegales\". [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "Los artículos encontrados (lagaceta, edatv) describen la expulsión de más de 2.700 extranjeros y el endurecimiento de medidas contra la inmigración ilegal, pero no mencionan manifestaciones ni un ultimátum del gobierno. No se encontró evidencia que respalde la afirmación de que miles de sudafricanos tomaron las calles.",
+   "outlets": [],
+   "fecha": "2026-07-03 04:03"
+  },
+  {
+   "tweet": "La culpa de la violencia en España la tiene RENFE. Donde no hay trenes que corran no hay inmigrantes ni violencia.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No fuente encontrada menciona a RENFE como responsable de la violencia en España. Los artículos de lagaceta y 20minutos se centran en incidentes de violencia y accidentes ferroviarios, pero no atribuyen la culpa a RENFE.",
+   "outlets": [
+    "lagaceta",
+    "el_confidencial",
+    "20minutos"
+   ],
+   "fecha": "2026-07-03 03:42"
+  },
+  {
+   "tweet": "⚖️ El Alto Tribunal cree que la regularización de hasta 1,65 millones de inmigrantes vulnera el derecho de la UE y choca con el Pacto de Migración y Asilo.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 03:36"
+  },
+  {
+   "tweet": "‼️🇪🇸 | Más de un millón de inmigrantes ilegales llegaron a España en los últimos siete años por vía marítima, terrestre y aérea, alentados por el Gobierno de Sánchez. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 03:09"
+  },
+  {
+   "tweet": "Miles de personas migrantes escapan de Sudáfrica en plena ola xenófoba: \"Si me quedo, me atacarán\" [enlace] a través de @___",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "El único material encontrado menciona que Sudáfrica expulsó a más de 2.700 extranjeros y endureció las medidas contra la inmigración ilegal (lagaceta, 15 junio). No se menciona una ola de xenofobia ni la frase citada \\\"Si me quedo, me atacarán\\\", por lo que no se puede confirmar la afirmación completa.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:58"
+  },
+  {
+   "tweet": "🚨 El Servicio de Inmigración y Control de Aduanas (ICE) detuvo a más de 10 mil personas en solo cinco días, como parte de la nueva ofensiva migratoria impulsada por la administración de Donald Trump\n[enlace] [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione 10,000 detenciones en cinco días. Los artículos disponibles se refieren a detenciones de pocos individuos o a estadísticas generales sin ese número. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:54"
+  },
+  {
+   "tweet": "Miles de personas se manifestaron el martes en diversas regiones de Sudáfrica en una nueva jornada de protestas contra la inmigración. La violencia ejercida por grupos xenófobos contra inmigrantes africanos ha aumentado drásticamente en todo el país durante los últimos meses, lo [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "Los artículos de lagaceta (junio 15) mencionan la expulsión de más de 2.700 extranjeros y el endurecimiento de las medidas de inmigración ilegal, pero no hacen referencia a manifestaciones ni a su fecha. No se encuentra ninguna fuente que confirme la existencia de una jornada de protestas el martes en diversas regiones del país.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:40"
+  },
+  {
+   "tweet": "En Sudáfrica se multiplican manifestaciones y violencia contra inmigrantes de otros países africanos. Ni ahí, entre africanos negros, funcionan la \"diversidad\" ni la \"inclusión\" ni el \"multiculturalismo\"...",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Los artículos encontrados (lagaceta, junio 15) describen la expulsión de más de 2.700 extranjeros y el endurecimiento de las medidas contra la inmigración ilegal, pero no mencionan manifestaciones ni actos de violencia contra inmigrantes de otros países africanos. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:18"
+  },
+  {
+   "tweet": "🇿🇦 | Han estallado protestas multitudinarias contra la inmigración ilegal en Johannesburgo, Sudáfrica. \n\nMiles de sudafricanos están protestando contra la inmigración irregular procedente de Zimbabue, Mozambique o Lesoto. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna referencia a protestas en Johannesburgo en los artículos disponibles. Los textos encontrados (lagaceta, 15 junio) describen la expulsión de más de 2.700 extranjeros y el endurecimiento de las medidas contra la inmigración ilegal en Sudáfrica, pero no mencionan manifestaciones públicas ni protestas. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:14"
+  },
+  {
+   "tweet": "🇿🇦 | Más imágenes de las movilizaciones anti-migratorias en Sudáfrica. \n\nMiles de personas reclaman remigración para los inmigrantes ilegales procedentes de otros países de África a los que acusan de generar inseguridad, desempleo y de saturar los servicios públicos. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que mencione la publicación o disponibilidad de más imágenes de movilizaciones anti‑migratorias en Sudáfrica. Los artículos encontrados (lagaceta, El País, El Salto) se centran en expulsiones de extranjeros y manifestaciones en otros países, sin referencia a imágenes. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:11"
+  },
+  {
+   "tweet": "🇻🇪 Un grupo de inmigrantes venezolanos que acababa de ser deportado al país forma parte de las víctimas de los devastadores terremotos que sacudieron Venezuela.\n\nMuchos habían regresado apenas horas antes del desastre y quedaron atrapados en las zonas más afectadas. Una tragedia [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No fuente encontrada que relacione a un grupo de inmigrantes venezolanos recién deportados con las víctimas de los terremotos que sacudieron Venezuela. Los artículos de 20minutos (2025‑09‑25) describen terremotos en el occidente del país, pero no mencionan a deportados ni a víctimas específicas. Los demás textos (20minutos 2026‑01‑03, eldiario 2026‑06‑19, Newtral 2026‑06‑28) tratan sobre migración venezolana en España o datos de terremotos, sin conexión con deportaciones ni víctimas. Por lo tanto, la evidencia disponible no apoya ni contradice la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 02:00"
+  },
+  {
+   "tweet": "⚠️PODCASTS: #castillonconfidencial -LAURA GARCIA, Ptvoz JUPOL @___ \n\"Esperamos la llegada de cerca de 5 millones de inmigrantes con la reagrupación familiar, estamos desbordados\"\n\n⚠️[enlace] [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "supported",
+   "confidence": 0.92,
+   "reasoning": "Si, según el artículo de El Español del 15 de junio de 2026, \"En 4 años habrá 5 millones más de inmigrantes regularizados y reagrupados, según informes a la Dirección de la Policía\", lo que respalda la cifra de 5 millones de inmigrantes que se espera que lleguen con reagrupación familiar.",
+   "outlets": [
+    "El Español"
+   ],
+   "fecha": "2026-07-03 01:49"
+  },
+  {
+   "tweet": "Un total de 1.174.000 personas se acogen a la regularización de migrantes, más del doble de lo previsto por el Gobierno\n[enlace]\n@___ adelanta que medio millón de esas personas ya han recibido comunicaciones provisionales que les autorizan a residir",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione 1.174.000 personas en la regularización. Los artículos disponibles se refieren a llegadas irregulares o datos demográficos generales.",
+   "outlets": [],
+   "fecha": "2026-07-03 01:38"
+  },
+  {
+   "tweet": "#ÚltimaHora 🔴 La Seguridad Social rompe el techo de los 22,4 millones de afiliados tras la regularización masiva: seis de cada diez nuevos empleos los ocupan inmigrantes [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Según el objetivo (2026‑05‑19), la Seguridad Social alcanzó 22.329.438 afiliados, por debajo de los 22.4 millones, por lo que no rompió el techo. Además, según Newtral (2026‑07‑02), de los 230.000 nuevos trabajadores de junio, un tercio eran extranjeros, no seis de diez.",
+   "outlets": [],
+   "fecha": "2026-07-03 01:25"
+  },
+  {
+   "tweet": "🔴 #ÚLTIMAHORA Los servicios tiran del empleo en junio, que suma 128.533 nuevas altas, el 67% ocupadas por inmigrantes\n\n✍️ Por Xavier Vilaltella\n[enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 01:19"
+  },
+  {
+   "tweet": "🔴 #ÚLTIMAHORA Las solicitudes para regularizar inmigrantes duplican las previsiones del Gobierno y rozan los 1,2 millones\n[enlace]",
+   "claim_type": "opinion",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "edatv",
+    "vozpopuli",
+    "lagaceta",
+    "El_Debate",
+    "Newtral"
+   ],
+   "fecha": "2026-07-03 01:17"
+  },
+  {
+   "tweet": "‼️Seis de cada diez nuevos empleos que se crean en España los ocupan inmigrantes. Y la proporción va creciendo, porque en mayo eran en torno al 48% y solo en junio superaron ya el 67% del total.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que indique que el 60 % de los nuevos empleos en España son ocupados por inmigrantes. Los artículos citados informan sobre el número total de afiliados, el crecimiento de la población inmigrante o el récord de afiliados extranjeros, pero no proporcionan datos sobre la proporción de nuevos puestos de trabajo ocupados por inmigrantes.",
+   "outlets": [],
+   "fecha": "2026-07-03 01:00"
+  },
+  {
+   "tweet": "El Gobierno activa una regularización exprés de inmigrantes para evitar el bloqueo del Supremo\n\n [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "Si, según Newtral (2026-04-14), el Gobierno aprueba el real decreto de regularización extraordinaria de migrantes, pero la evidencia no menciona un bloqueo del Supremo ni indica que la medida se tome con ese fin. Tampoco se encuentra ninguna fuente que contradiga la existencia de la regularización. Por lo tanto, no hay evidencia suficiente para afirmar que la regularización se activa específicamente para evitar un bloqueo del Supremo.",
+   "outlets": [
+    "Newtral"
+   ],
+   "fecha": "2026-07-03 00:52"
+  },
+  {
+   "tweet": "🚨 ÚLTIMA HORA Una corte federal acaba de emitir una decisión que podría cambiar la situación de miles de inmigrantes detenidos.\n\nComparte y guarda este video. \n\n#Inmigracion #inmigrantes #inmigración #abogado #immigration [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Si, según TheObjective (2026-06-05), un juez federal de Rhode Island anuló las políticas de Trump que pausaron los procesos migratorios y de asilo de 39 países, lo que podría cambiar la situación de miles de inmigrantes detenidos. Además, Público (2026-06-05) reporta la misma anulación de políticas que afectaban a inmigrantes de 39 países, reforzando la idea de que la decisión de la corte federal tiene un impacto amplio.",
+   "outlets": [
+    "20minutos",
+    "lagaceta",
+    "Público",
+    "theobjective"
+   ],
+   "fecha": "2026-07-03 00:37"
+  },
+  {
+   "tweet": "🚨🇳🇱 Un iraquí se enfrenta solamente a ocho semanas de prisión tras atropellar y matar a una niña holandesa de 14 años\n\nEl inmigrante no la prestó ayuda, abandonó su cadáver, huyó a Alemania y la Policía ocultó a la madre que el autor era extranjero\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione un caso de un ciudadano iraquí condenado a ocho semanas de prisión por atropellar y matar a una niña holandesa. Los artículos listados tratan sobre casos diferentes y no hacen referencia a la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 00:31"
+  },
+  {
+   "tweet": "Grande Quiñones.\nLa migración es un derecho.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró evidencia que afirme que la migración es un derecho. Los artículos citados tratan sobre regulaciones y pactos migratorios, no sobre el reconocimiento de la migración como derecho.",
+   "outlets": [],
+   "fecha": "2026-07-03 00:19"
+  },
+  {
+   "tweet": "Vallejo, Galli, Thayer, Orrego y Bellolio: la transversal agenda con autoridades de los dos imputados por tráfico de migrantes",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "Los artículos encontrados (espejismo de la migración, citas trampa, tweets sobre reglamentos) no mencionan la agenda transversal ni a los imputados por tráfico de migrantes. No se encontró ninguna fuente que confirme ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 00:16"
+  },
+  {
+   "tweet": "Tiene más derechos en Madrid un nonato que un migrante, un anciano o cualquiera que quiera tener una vivienda.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No se encontró ninguna fuente que afirme que los derechos de un nonato superan a los de migrantes, ancianos o personas que buscan vivienda en Madrid. Los artículos citados tratan temas de migración, aborto y regulaciones administrativas, pero no comparan derechos entre estos grupos.",
+   "outlets": [],
+   "fecha": "2026-07-03 00:06"
+  },
+  {
+   "tweet": "🇵🇪/🇻🇪 Crisis migratoria en Perú \nVenezolanos en Perú piden cárcel para el valeroso policía que liquidó a criminal venezolano:\n\"No nos pueden obligar a llevar documentos de identidad, todos somos migrantes\"\n[enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que indique que el gobierno español regularice a los inmigrantes mientras están en prisión. Los artículos y tweets citados hablan de regularizaciones extraordinarias en general, pero no mencionan prisiones ni la regularización dentro de ellas. Por lo tanto, la evidencia disponible no respalda ni contradice la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 00:01"
+  },
+  {
+   "tweet": "Manifestaciones de miles de personas contra los inmigrantes en Sudáfrica tras semanas de agresiones y amenazas a extranjeros, a los que se culpa del desempleo, la delincuencia y el deterioro de los servicios públicos.\nQuieren expulsarlos del país.\n¿Les acusarán también de [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que mencione manifestaciones de miles de personas en Sudáfrica contra inmigrantes. Los artículos disponibles hablan de expulsiones y medidas de inmigración, pero no de protestas. Por lo tanto, no hay evidencia que respalde la afirmación. (lagaceta, 2026-06-15 menciona expulsión de 2.700 extranjeros, pero no protestas; edatv, 2026-05-31 habla de miedo permanente, pero no protestas).",
+   "outlets": [],
+   "fecha": "2026-07-02 23:55"
+  },
+  {
+   "tweet": "Abascal 🥦 recuerda que los inmigrantes regularizados “competirán” con los españoles por trabajo, vivienda y servicios\n\n1,3 millones de migrantes se han acogido a la regularización extraordinaria promovida por el Gobierno, según la Policía Nacional\n\n👇\n[enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que confirme la afirmación de Abascal de que los inmigrantes regularizados competirán con los españoles por trabajo, vivienda y servicios. Los artículos disponibles (20minutos, La Vanguardia, El País, etc.) no mencionan a Abascal ni su declaración.",
+   "outlets": [],
+   "fecha": "2026-07-02 23:52"
+  },
+  {
+   "tweet": "La sección Movimiento Obrero de UCE organiza una charla - debate fundamental en estos tiempos:\nMigración y derechos. Dos caminos: regularización en España, deportación en Europa.\n\nCuatro voces autorizadas y militantes de los derechos de los migrantes harán un balance del proceso [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "Los artículos listados (lagaceta, El_Periodico, elespanol, Libertad Digital, theobjective, El_Pais, 20minutos) tratan sobre la política migratoria española y europea, pero ninguno menciona a la UCE, a su sección Movimiento Obrero ni a la organización de una charla o debate con ese título. Por lo tanto, no se dispone de evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-02 23:47"
+  },
+  {
+   "tweet": "La cacería migratoria contra la comunidad migrante haitiana es inaceptable. Se realizan operativos nocturnos sin respetar el debido proceso, deteniendo a personas, incluidos niños y mujeres lactantes. Ninguna política justifica violar los derechos humanos. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "Los artículos encontrados (20minutos, Público, El_Periodico, etc.) no mencionan a migrantes haitianos ni describen operativos nocturnos ni detenciones de niños o mujeres lactantes. La evidencia disponible se centra en casos de menores africanos en Canarias, una mujer hondureña detenida por arrojar a un recién nacido y otros incidentes sin relación con la comunidad haitiana. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-02 23:30"
+  },
   {
    "tweet": "Mientras el Mundial se disputa en EU, el ICE intensificó las redadas: más de 10 mil detenciones en cinco días avivan el temor entre migrantes y organizaciones civiles\n[enlace]",
    "claim_type": "event_claim",
