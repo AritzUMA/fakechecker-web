@@ -1,14 +1,484 @@
 {
  "stats": {
-  "total": 95,
-  "supported": 4,
-  "contradicted": 11,
-  "misleading": 1,
+  "total": 142,
+  "supported": 9,
+  "contradicted": 17,
+  "misleading": 2,
   "outdated": 0,
-  "insufficient": 79,
-  "actualizado": "2026-07-03 07:32 UTC"
+  "insufficient": 114,
+  "actualizado": "2026-07-04 13:50 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴 Repasamos el discurso de Vox después de entrar en el gobierno andaluz: hablan de muros, de invasión migratoria y de fanatismo climático.\n\n🗣 \"Ayer el pacto le retrató a Moreno Bonilla. Los inmigrantes están cagados de miedo\", afirma @___ \n\n#MalasLenguas [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que mencione un pacto que retrate a Moreno Bonilla ni que indique que los inmigrantes están ‘cagados de miedo’. Los artículos listados hablan sobre la postura de Moreno Bonilla respecto a la regularización de inmigrantes y la política de deportaciones, pero no hacen referencia a un pacto ni a la representación de Moreno Bonilla en él. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-04 11:57"
+  },
+  {
+   "tweet": "🇬🇧 Los migrantes que consigan un empleo en Reino Unido deberán pagar 11.000 euros\n\nSe les exigirá la cuantía antes de que puedan optar a la residencia permanente, incluyendo si al final son rechazados, bajo la excusa de que “devuelvan el coste de su asilo”.[enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que confirme la existencia de una obligación de pagar 11.000 euros a migrantes que obtengan empleo en el Reino Unido, ni ninguna que indique que dicha cantidad se exija antes de la residencia permanente. Los artículos recuperados se refieren a políticas de regularización y costes en España, no al Reino Unido. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-04 11:04"
+  },
+  {
+   "tweet": "Los de Aliança Catalana esperando a ver si es un inmigrante o uno de los suyos para condenar o justificar la agresion.",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No fuente encontrada que mencione a Aliança Catalana esperando a ver si el agresor es inmigrante o uno de sus propios miembros para condenar o justificar la agresión. Los artículos listados tratan temas de migración, política y violencia, pero no hacen referencia a Aliança Catalana ni a la situación descrita.",
+   "outlets": [],
+   "fecha": "2026-07-04 10:15"
+  },
+  {
+   "tweet": "Migrante.\n\n[enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "La evidencia encontrada (mediterraneodigital, 2026‑04‑16) habla de la regularización de inmigrantes, lo que indica la existencia de personas migrantes, pero no especifica a quién se refiere la afirmación ni proporciona datos que confirmen o nieguen que una persona concreta sea migrante. Por lo tanto, la evidencia es insuficiente para apoyar o refutar la afirmación de manera concluyente.",
+   "outlets": [
+    "mediterraneodigital"
+   ],
+   "fecha": "2026-07-04 09:52"
+  },
+  {
+   "tweet": "🚨🇮🇹 Detenido un senegalés multirreincidente en Italia por apuñalar a un hombre en cuello, abdomen y espalda\n\nEl inmigrante africano tenía un permiso de residencia que llevaba un mes caducado\n[enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-04 09:48"
+  },
+  {
+   "tweet": "Las mismas organizaciones que trafican con cayucos entre África y Canarias regularizan inmigrantes en España por mil euros.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No fuente encontrada menciona que las mismas organizaciones que trafican con cayucos entre África y Canarias regularizan inmigrantes en España por mil euros. El artículo de elespanol (2026‑05‑18) indica que se cobran hasta 4.000 € para obtener un DNI colombiano, no 1.000 €. El contenido de Newtral (2026‑04‑22 y 2026‑04‑25) menciona tarifas de 10‑100 € por una cita de regularización, tampoco 1.000 €. Ninguna de las fuentes citadas confirma la cifra de mil euros ni la relación directa entre las mafias de tráfico y la regularización. Por lo tanto, la evidencia disponible no respalda la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-04 09:43"
+  },
+  {
+   "tweet": "🔴 202.000 inmigrantes piden la regularización en Madrid, más que la población del 99% de sus municipios [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-04 09:15"
+  },
+  {
+   "tweet": "Las bandas latinas campan a sus anchas y se disputan el territorio con violencia extrema. Incluso asesinando a tiros a sus rivales, sin importarles la edad.\n\nPero, según Illa, genera más violencia VOX denunciando que la inmigración masiva está provocando una crisis de inseguridad [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-04 08:03"
+  },
+  {
+   "tweet": "En España estamos sometidos completamente a las MAFIAS de la DROGA y de la INMIGRACIÓN ILEGAL 👇😱",
+   "claim_type": "policy_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "eldiario",
+    "lagaceta",
+    "Newtral"
+   ],
+   "fecha": "2026-07-04 06:42"
+  },
+  {
+   "tweet": "Tremendo discurso de clase con los migrantes dentro (como no!).\n\nNos queda por aprender de la izquierda estadounidense bastante.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.7,
+   "reasoning": "No se encontró ninguna fuente que mencione un discurso de clase que incluya a migrantes dentro del aula. Los artículos encontrados hablan sobre entrevistas a Varsavsky y Espinosa de los Monteros, a Santiago Abascal y sobre desinformación sobre migrantes, pero no hacen referencia a un discurso de clase con migrantes presentes.",
+   "outlets": [],
+   "fecha": "2026-07-04 03:59"
+  },
+  {
+   "tweet": "GOOL NEGROS INMIGRANTES [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione la negación de inmigrantes en los Goos por parte del gobierno. Los artículos disponibles tratan sobre regularización de inmigrantes, políticas migratorias y debates políticos, pero no hacen referencia a la localidad o contexto llamado \"Goos\" ni a una acción de negación por parte del gobierno.",
+   "outlets": [],
+   "fecha": "2026-07-04 00:55"
+  },
+  {
+   "tweet": "@___ Para los inmigrantes no...",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-04 00:35"
+  },
+  {
+   "tweet": "🇪🇸 | La Región de Murcia ha registrado más de 45.000 solicitudes de regularización extraordinaria de inmigrantes al cierre del plazo oficial. A nivel nacional, la cifra total de peticiones presentadas entre el 16 de abril y el 30 de junio asciende a 1.174.978 personas. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que mencione específicamente el número de solicitudes en la Región de Murcia. Los artículos disponibles reportan cifras totales a nivel nacional (cerca de 549.000) pero no desglosan por comunidad autónoma.",
+   "outlets": [],
+   "fecha": "2026-07-03 23:45"
+  },
+  {
+   "tweet": "#ALERTA🚨 Director de Migraciones Frank Sauerbaum informó sobre un nuevo vuelo de expulsión de 45 personas entre delincuentes y migrantes ilegales, sumando en total 1102 expulsados en lo que va del gobierno del presidente Kast. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que mencione explícitamente que el Director de Migraciones Frank Sauerbaum informó de un vuelo de expulsión de 45 personas ni que el total de expulsados sea 1102. Los artículos de \"lagaceta\" mencionan un nuevo vuelo de repatriación, pero no incluyen cifras ni detalles que confirmen la afirmación. Por lo tanto, no hay evidencia suficiente para apoyar o refutar la declaración.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-03 22:48"
+  },
+  {
+   "tweet": "🚨🇩🇪🇹🇷🇨🇾 | BALA URGENTE: Se reveló que el inmigrante turco pedófilo que se había fugado de Chipre tras ser condenado a 30 años de prisión por abusar sexualmente de su hijo autista fue detenido por la Policía de Alemania, luego de invadir el país y asesinar a balazos a seis [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "El único registro relevante indica que cuatro turcos fueron detenidos en Alemania tras un tiroteo que dejó dos heridos graves en Giessen, no seis muertos y sin mención de pedofilia. Según [1] lagaceta (7 mayo 2020), \"Detenidos cuatro turcos en Alemania tras un tiroteo que dejó dos heridos graves en Giessen\". Esta información contradice directamente la afirmación de seis víctimas mortales y la descripción de un inmigrante turco pedófilo.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-03 22:33"
+  },
+  {
+   "tweet": "🚨🇮🇹 | INVADIDOS: Se viralizan las imágenes de Lampedusa, la isla más austral de Italia, donde más de 12 000 inmigrantes africanos invadieron el país atravesando el mar Mediterráneo en pequeñas embarcaciones, una cifra que duplica a la población local. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No fuente encontrada menciona que las imágenes de Lampedusa se hayan vuelto virales. Los resultados listados (por ejemplo, el artículo de 20minutos sobre una isla italiana poco conocida) describen la isla y sus atractivos turísticos, pero no indican ninguna difusión viral de fotografías. Por lo tanto, no hay evidencia suficiente para confirmar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 21:56"
+  },
+  {
+   "tweet": "⭕ OJO | ICE DETIENE A MÁS DE 10 MIL MIGRANTES EN CINCO DÍAS EN NUEVA ESCALADA DE REDADAS EN EUA\n\nEl ICE (@___) de Estados Unidos ha detenido a más de 10 mil personas en apenas cinco días, un incremento que prácticamente duplica el ritmo de arrestos registrado a inicios de [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No se encontró ninguna fuente que mencione a ICE ni cifras de detenciones en el periodo indicado. Todas las evidencias disponibles se refieren a noticias de España y no contienen datos sobre el ICE ni sobre detenciones de esa magnitud.",
+   "outlets": [],
+   "fecha": "2026-07-03 20:39"
+  },
+  {
+   "tweet": "Otra vez la Federal se prepara para un nuevo operativo en Migraciones. Ayer, un operativo conjunto de la Federal y de Migraciones en Laferrere reavivó las denuncias por el avance de políticas de persecución contra la población migrante. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Las fuentes encontradas (Público, lagaceta, El_Salto) describen casos de \\\"citas trampa\\\" y \\\"coladeros migratorios\\\", pero no mencionan un operativo conjunto reciente entre la Federal y Migraciones ni indican que se haya reavivado denuncias de persecución. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 20:11"
+  },
+  {
+   "tweet": "147 migrantes deportados fueron encerrados en un hotel estatal. Hoy es una tumba de escombros; solo 12 sobrevivieron. Los expulsaron del país y los sepultaron al volver. 🕊️💔 📹@___ #ProhibidoOlvidar [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione 147 migrantes encerrados en un hotel estatal ni que indique que solo 12 sobrevivieron. Los artículos disponibles tratan sobre desapariciones y rescates de migrantes, pero no coinciden con la afirmación. Por ejemplo, 20minutos (2025‑08‑23) habla de 12 migrantes desaparecidos tras saltar al agua, pero no menciona un hotel ni 147 deportados. Tampoco los demás artículos listados (20minutos 2025‑09‑03, El Pais 2025‑07‑19, eldiario 2026‑06‑13, Newtral 2025‑05‑22/24/31) hacen referencia a un hotel estatal ni a 147 migrantes. Dado que no hay evidencia que respalde la afirmación, se concluye que la evidencia es insuficiente.",
+   "outlets": [
+    "20minutos",
+    "El Pais",
+    "eldiario",
+    "Newtral"
+   ],
+   "fecha": "2026-07-03 20:08"
+  },
+  {
+   "tweet": "Se sabe los códigos postales y las devociones de la provincia. La inmigración que necesitamos.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione códigos postales en relación con las devociones provinciales. Los artículos citados tratan sobre la fe, vocaciones y devociones religiosas en España, pero no abordan códigos postales ni su relación con la provincia.",
+   "outlets": [
+    "lagaceta",
+    "La_Razón",
+    "OKDiario"
+   ],
+   "fecha": "2026-07-03 19:29"
+  },
+  {
+   "tweet": "Expertos en extranjería alertan de que la «regularización» triplicará en cinco años el número de inmigrantes por el uso del «arraigo social» [enlace] vía @___",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que mencione que la regularización triplicará el número de inmigrantes en cinco años por el uso del arraigo social. Por ejemplo, el artículo de vozpopuli (2026‑06‑03) menciona un aumento de 500.000 personas en la Seguridad Social, pero no se habla de triplicación ni del arraigo social. Tampoco los artículos de El_Debate (2026‑05‑04) o los posts de Newtral (varias fechas) hacen referencia a esa cifra ni a la alerta de expertos sobre el arraigo social.",
+   "outlets": [],
+   "fecha": "2026-07-03 18:47"
+  },
+  {
+   "tweet": "Gestionar, gestionar, gestionar,…\n\nLa inmigración ilegal no se gestiona, se combate. Todo lo opuesto es una puerta abierta al descontrol, la inseguridad y el caos. Hemos llegado a tal punto, que incluso la seguridad ciudadana está pasando a un segundo plano debido a la actual [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 17:51"
+  },
+  {
+   "tweet": "#Inmigración La Abogacía del Estado se opone a que el Supremo eleve a la Justicia europea la regularización: “Es competencia nacional”. El Estado, sostiene, tiene la legítima competencia de otorgar autorizaciones de residencia y apuntan las “omisiones relevantes” del Supremo.",
+   "claim_type": "policy_claim",
+   "verdict": "supported",
+   "confidence": 0.8,
+   "reasoning": "Si, según El Independiente (2026-05-22), el Tribunal Supremo rechazó suspender cautelarmente la regularización extraordinaria de inmigrantes, lo que indica que el Estado tiene competencia legítima para otorgar autorizaciones de residencia. No se encontró evidencia que contradiga esta interpretación.",
+   "outlets": [
+    "El Independiente"
+   ],
+   "fecha": "2026-07-03 16:15"
+  },
+  {
+   "tweet": "🔴De acuerdo con The New York Times, el Servicio de Inmigración y Control de Aduanas (ICE) realizó más de 10.000 detenciones en solo cinco días, duplicando el ritmo de arrestos respecto a inicios de año. Este incremento responde a una estrategia impulsada por la administración [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que mencione 10,000 detenciones en cinco días; los artículos listados no abordan este número. Por lo tanto, no hay evidencia suficiente para respaldar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 16:05"
+  },
+  {
+   "tweet": "🇪🇸Las mafias aprovechan la regularización masiva del Gobierno para inmigrantes desde otros países de la UE y vender documentación falsa\n\nFuentes policiales alertan de que las organizaciones criminales han utilizado el espacio Schengen para llevar a España a miles de inmigrantes [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 15:13"
+  },
+  {
+   "tweet": "Otra vez la Policía de la Ciudad se prepara para un nuevo operativo en Migraciones. Ayer, un operativo conjunto de la Federal y de Migraciones en Laferrere reavivó las denuncias por el avance de políticas de persecución contra la población migrante. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna referencia a un nuevo operativo en Migraciones por parte de la Policía de la Ciudad en los artículos consultados. Los textos disponibles hablan de expulsiones de extranjeros y de incidentes policiales, pero no mencionan la preparación de un operativo en Migraciones por la Policía de la Ciudad.",
+   "outlets": [],
+   "fecha": "2026-07-03 15:08"
+  },
+  {
+   "tweet": "🚨🇬🇧 Violadores musulmanes afganos atacan brutalmente a una joven británica.\n\nUna aterrorizada joven británica de 15 años gritó y lloró desesperadamente pidiendo ayuda mientras dos solicitantes de asilo musulmanes afganos, Jan Jahanzeb e Israr Niazal, ambos de 17 años, la [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 15:02"
+  },
+  {
+   "tweet": "🇪🇸 | Más de un millón de migrantes solicitan regularizar su situación en España. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "El artículo de 20minutos del 15 de junio de 2026 indica que el Gobierno ya ha recibido 900.000 solicitudes de inmigrantes que quieren acogerse al proceso de regularización extraordinaria, lo que está por debajo de un millón. Por lo tanto, la afirmación de que “más de un millón” de migrantes solicitan regularizar su situación está contradicha por la evidencia disponible.",
+   "outlets": [
+    "20minutos"
+   ],
+   "fecha": "2026-07-03 14:07"
+  },
+  {
+   "tweet": "Y ésto con un 4% de inmigración eh",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 12:56"
+  },
+  {
+   "tweet": "Si el razonamiento es a favor de la regularización masiva de inmigrantes ilegales no parece muy brillante.",
+   "claim_type": "policy_claim",
+   "verdict": "supported",
+   "confidence": 0.95,
+   "reasoning": "Si, según 20minutos (2026-02-03), la regularización de inmigrantes aprobada por el Gobierno de Pedro Sánchez se presenta como una medida positiva que reconoce una realidad que España lleva años, y según 20minutos (2026-04-14) se indica que entre 500.000 y un millón de inmigrantes sin papeles podrán obtener permiso para trabajar y residir, lo que demuestra un razonamiento a favor de la regularización masiva.",
+   "outlets": [
+    "20minutos"
+   ],
+   "fecha": "2026-07-03 12:07"
+  },
+  {
+   "tweet": "La ola xenófoba que recorre parte de Occidente también ha llegado a Sudáfrica.\n\nEn su mayoría zulús, la etnia mayoritaria, estos ciudadanos piden expulsiones masivas de inmigrantes de Zimbawe o Mozambique. Los acusan de quitarles los empleos más duros en minas y plantaciones. [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "El único artículo encontrado, \"Sudáfrica expulsa a más de 2.700 extranjeros y endurece las medidas contra la inmigración ilegal en el país\" (lagaceta, 15 de junio), menciona la expulsión de extranjeros y medidas de inmigración, pero no hace referencia a la etnia zulú, a demandas de expulsiones masivas de inmigrantes de Zimbabue o Mozambique, ni a acusaciones de quitar empleos en minas y plantaciones. Por lo tanto, la evidencia no respalda la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 11:05"
+  },
+  {
+   "tweet": "Hoy apoyamos a @___ en la deportación de más de 20 personas, entre ellas varias condenadas por delitos graves, incluidos tráfico y transporte de drogas, narcotráfico y tentativa de homicidio.\nJuntos, protegemos las fronteras y combatimos la inmigración ilegal. 🇺🇸🇨🇷 [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme la deportación de más de 20 personas por @___ con los delitos mencionados. Los artículos encontrados tratan temas distintos, como la mafia del DNI colombiano (elespanol, 2026‑05‑18), blanqueo de capitales del narcotráfico (20minutos, 2026‑06‑11) y otras operaciones policiales, pero ninguno menciona la deportación de personas ni a @___. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-03 10:47"
+  },
+  {
+   "tweet": "@___ @___ Has metido 0 inmigrantes en tu casoplón. Cierra la boca",
+   "claim_type": "rhetorical",
+   "verdict": "contradicted",
+   "confidence": 0.8,
+   "reasoning": "El contenido de EFEVerifica (Sat 20 Jun 2026) indica que en la lista de admitidos a optar a 13 viviendas de alquiler en Albacete, cerca del 75 % son españoles, lo que implica que el 25 % restante son inmigrantes. Por tanto, la afirmación de que Irene Montero ha incluido 0 inmigrantes en su programa es incorrecta.",
+   "outlets": [
+    "EFEVerifica"
+   ],
+   "fecha": "2026-07-03 10:42"
+  },
+  {
+   "tweet": "‼️Pacto💧PP - 🥦VOX en Andalucía - Inmigración:\n\n📌\"Prioridad nacional\" en el acceso a las ayudas públicas.\n\n1⃣Periodo mínimo reforzado de arraigo, empadronamiento y vinculación con el territorio.\n2⃣Vinculación del acceso a ayudas a la trayectoria de cotización, permanencia y",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 09:52"
+  },
+  {
+   "tweet": "🇫🇷🔴 | MIEMBROS DE PANDILLAS MIGRANTES PRESUMEN DE SU PODER EN MARSELLA: DISPARAN VARIOS AK-47 DESDE UN EDIFICIO RESIDENCIAL\n\n👉 Así luce hoy Marsella. Bandas migrantes armadas hasta los dientes disparando fusiles de asalto en plena ciudad, presumiendo poder y control territorial [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No de los artículos encontrados menciona a Marseille ni a pandillas migrantes disparando AK‑47. Los textos se refieren a incidentes en Barcelona, Vitoria, Badalona y otros lugares de España, sin relación con la afirmación. Por lo tanto, no hay evidencia que la respalde ni que la contradiga.",
+   "outlets": [],
+   "fecha": "2026-07-03 09:45"
+  },
+  {
+   "tweet": "Hay que traer inmigración para no tener que cerrar colegios\n\nEsta es nueva no?",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "20minutos",
+    "La_Vanguardia",
+    "lagaceta",
+    "Newtral",
+    "Boatosorg"
+   ],
+   "fecha": "2026-07-03 09:31"
+  },
+  {
+   "tweet": "Esto es Linton-on-Ouse, en Inglaterra.\n\n1200 habitantes.\n\nEl Estado británico planea trasladar a 3750 inmigrantes a este pueblo y reemplazarlos de la noche a la mañana.\n\nMiles de años de vida rural tradicional están a punto de desaparecer en aras de las fronteras abiertas. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró evidencia que confirme que la afirmación se refiere a Linton-on-Ouse en Inglaterra.",
+   "outlets": [],
+   "fecha": "2026-07-03 09:10"
+  },
+  {
+   "tweet": "Inmigrantes afuera de Chile [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "La evidencia encontrada se refiere a la expulsión de un grupo de inmigrantes ilegales de Chile mediante un vuelo de repatriación (lagaceta, 9 mayo 2020). Este hecho indica que esos inmigrantes fueron enviados fuera de Chile, pero la afirmación \"Inmigrantes afuera de Chile\" es demasiado genérica y no se puede confirmar ni refutar con la información disponible.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-03 08:34"
+  },
+  {
+   "tweet": "‼️Pacto💧PP - 🥦VOX en Inmigración:\n\n➡️No más menores extranjeros no acompañados (MENA).\n➡️Plan de retorno y repatriación de inmigración ilegal.\n➡️Verificación de edad de los inmigrantes ilegales.\n➡️Auditoría anual de todos los gastos vinculados a la inmigración masiva.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-03 08:27"
+  },
+  {
+   "tweet": "🔴‼️ La Policía calcula que 400.000 migrantes que no estaban en España se han colado en la regularización de Sánchez\n\n✍️ Por @___ y @___ [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que indique que la Policía haya calculado que 400.000 migrantes que no estaban en España se han colado en la regularización de Sánchez. Los artículos disponibles mencionan cifras distintas: 600.000 en la Comunidad Valenciana (vozpopuli, 2026‑04‑24) y 840.000 migrantes irregulares en España (Newtral, 2026‑02‑01 y 2026‑02‑07). Ninguna evidencia respalda la cifra de 400.000 ni la afirmación de que estos migrantes no estaban en España antes de la regularización.",
+   "outlets": [],
+   "fecha": "2026-07-03 08:18"
+  },
+  {
+   "tweet": "🔴LA NOTICIA PARA RADICALIZARTE HOY\n\nLa Policía calcula que 400.000 inmigrantes que nunca estuvieron en España se han colado en la regularización masiva gracias a un mercado negro de documentos falsos y denuncias fraudulentas de pasaportes perdidos [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 08:13"
+  },
+  {
+   "tweet": "Catalunya es la comunidad con más solicitudes de regularización de inmigrantes de toda España [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que indique que Cataluña sea la comunidad con más solicitudes de regularización. Los artículos citados (El_Periodico, Mediterranean Digital, 20minutos) hablan de la regularización extraordinaria en general, sin mencionar datos comparativos por comunidad autónoma.",
+   "outlets": [],
+   "fecha": "2026-07-03 08:09"
+  },
+  {
+   "tweet": "Un inmigrante de origen magrebí arrojó con extrema violencia a una mujer embarazada desde un autobús. ¿Qué tienen que decir al respecto quienes defienden este modelo de inmigración? [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "Los artículos encontrados (lagaceta, 20minutos) tratan sobre la percepción pública y las posturas de políticos y partidos, pero no citan directamente a quienes defienden el modelo de inmigración ni sus argumentos. Por lo tanto, no hay evidencia suficiente para responder a la pregunta.",
+   "outlets": [
+    "lagaceta",
+    "20minutos"
+   ],
+   "fecha": "2026-07-03 07:59"
+  },
+  {
+   "tweet": "EL ASALTO ELECTORAL\nPREPARANDO EL PUCHERAZO\nREGULARIZACIÓN POR DECRETAZO \n\n📢 EUROPA, ALERTA\n\n‼️‼️ El comisario de Migración de la UE avala \"rechazar procesos unilaterales de regularización\" como el de Sánchez: \"Generan efectos de atracción\".\n\n[enlace] [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "La evidencia muestra que la Comisión Europea, y en particular la Comisión de Migración, ha apoyado el plan de regularización de inmigrantes de Pedro Sánchez, calificándolo como una competencia de los Estados miembros y no ha expresado apoyo a la idea de rechazar procesos unilaterales. Por ejemplo, el artículo de 20minutos (2026‑01‑29) titulado \"Bruselas avala el plan de regularización de inmigrantes de Sánchez: 'Es una competencia de los Estados miembros'\" indica que la Comisión avala la medida, no la rechaza. Tampoco se menciona que la Comisión haya dicho que rechazar procesos unilaterales genera efectos de atracción. Por lo tanto, la afirmación es contradicha por la evidencia disponible.",
+   "outlets": [
+    "20minutos",
+    "Europa Press"
+   ],
+   "fecha": "2026-07-03 07:53"
+  },
+  {
+   "tweet": "Nueva petición al Supremo para suspender la regularización de inmigrantes [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "supported",
+   "confidence": 0.92,
+   "reasoning": "Si, según Europa Press (2026-05-22) y La Razón (2026-05-10), se menciona que Hazte Oír presentó una petición al Tribunal Supremo solicitando la suspensión cautelar de la regularización extraordinaria de migrantes. La evidencia indica que la petición fue presentada y que el Tribunal Supremo ha rechazado la suspensión, pero la existencia de la petición está confirmada.",
+   "outlets": [
+    "Europa Press",
+    "La Razón"
+   ],
+   "fecha": "2026-07-03 07:48"
+  },
+  {
+   "tweet": "🚔🚨 La información facilitada por diferentes cuerpos policiales españoles evidencia que los extranjeros representan un elevado porcentaje de los detenidos en España.\n\nEn Navarra, la Policía Foral comunicó que los extranjeros figuraron como presuntos autores del 62,96 % de los",
+   "claim_type": "statistical_claim",
+   "verdict": "supported",
+   "confidence": 0.9,
+   "reasoning": "La evidencia muestra que en Cataluña el 84,3 % de las detenciones por hurtos y robos con violencia fueron de extranjeros (edatv, 2026‑05‑11) y que en la Comunidad Valenciana el 40 % de los detenidos son de nacionalidad extranjera (mediterraneodigital, 2026‑03‑02). Estas cifras indican que los extranjeros representan un elevado porcentaje de los detenidos en España.",
+   "outlets": [
+    "edatv",
+    "mediterraneodigital"
+   ],
+   "fecha": "2026-07-03 07:40"
+  },
+  {
+   "tweet": "La Policía calcula que 400.000 inmigrantes se colaron en la regularización\n\n[enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-03 07:34"
+  },
   {
    "tweet": "🚫 Nueva petición al Supremo para suspender la regularización de inmigrantes [enlace]",
    "claim_type": "policy_claim",
