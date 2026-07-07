@@ -1,14 +1,937 @@
 {
  "stats": {
-  "total": 142,
-  "supported": 9,
-  "contradicted": 17,
-  "misleading": 2,
-  "outdated": 0,
-  "insufficient": 114,
-  "actualizado": "2026-07-04 13:50 UTC"
+  "total": 233,
+  "supported": 13,
+  "contradicted": 30,
+  "misleading": 5,
+  "outdated": 1,
+  "insufficient": 184,
+  "actualizado": "2026-07-07 22:30 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴 ÚLTIMA HORA La Casa Blanca revela la realidad sobre la detención de inmigrantes en Estados Unidos\n\nComparte y guarda este video. \n\n#Inmigración #inmigrante #inmigrantes #immigration [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.8,
+   "reasoning": "Si, según Público (fecha no especificada) y La Vanguardia (fecha no especificada), la Casa Blanca lanzó un sitio web titulado \"aliens\" que muestra un mapa de detenciones de inmigrantes y los compara con extraterrestres. 20minutos también reporta la polémica sobre la detención de una mujer inmigrante.  Aunque la Casa Blanca publica datos sobre detenciones, la forma en que los presenta (comparándolos con extraterrestres) sugiere una retórica política más que una revelación objetiva de la realidad. Por lo tanto, la afirmación de que la Casa Blanca “revela la realidad” es exagerada.",
+   "outlets": [
+    "Público",
+    "La Vanguardia",
+    "20minutos",
+    "Público",
+    "20minutos",
+    "La_Vanguardia"
+   ],
+   "fecha": "2026-07-07 21:57"
+  },
+  {
+   "tweet": "La inmigración que saquea los recursos que todos los españoles pagamos",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "Si, según El Debate (18‑jun‑2026), la inmigración explica casi tres cuartas partes del crecimiento económico de España desde 2018, lo que indica que contribuye positivamente al PIB y no a la expropiación de recursos. Asimismo, La Razón (19‑jun‑2026) afirma que el crecimiento económico se debe en gran medida a la inmigración, y 20minutos (24‑ago‑2025) cita a Lagarde diciendo que la buena marcha de la economía española se debe en gran medida a la inmigración. Estas fuentes muestran que la inmigración impulsa la economía, lo que contradice la afirmación de que “saquea” los recursos de los españoles.",
+   "outlets": [
+    "El Debate",
+    "La Razón",
+    "20minutos"
+   ],
+   "fecha": "2026-07-07 21:04"
+  },
+  {
+   "tweet": "⚡️ #AHORA | Un inmigrante ilegal procedente de México muere abatido a tiros por un agente del ICE en Houston. El ICE afirma que el hombre intentó atropellar a un agente antes de que este abriera fuego. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione que el ICE haya afirmado que un hombre intentó atropellar a un agente antes de que este abriera fuego. Los artículos listados tratan sobre protestas, arrestos de agentes y cambios operativos, pero no incluyen la afirmación específica del ICE sobre un intento de atropello. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-07 20:48"
+  },
+  {
+   "tweet": "La crisis de acceso y precio de la vivienda es resultado de la inmigración masiva. \nNo hay política de oferta que sostenga esto.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "La evidencia disponible menciona la crisis de vivienda y la inmigración masiva de forma simultánea, pero no establece una relación causal directa entre ambas. Por ejemplo, el tweet de lagaceta (5 mayo 2020) menciona \"campamentos de sintecho se extienden por toda España ante la crisis de vivienda y el impacto de la inmigración masiva\", pero no ofrece datos ni análisis que demuestren que la inmigración sea la causa principal de la crisis de vivienda. Los artículos de La_Razón (10 mayo 2026) se centran en la dificultad de acceso y los precios de la vivienda, sin vincularlos explícitamente a la inmigración. Tampoco se encuentran fuentes que contradigan la afirmación. En consecuencia, la evidencia no es suficiente para confirmar ni refutar la causalidad propuesta.",
+   "outlets": [],
+   "fecha": "2026-07-07 19:47"
+  },
+  {
+   "tweet": "‼️🏰Castilla y 🦁León anuncia la repatriación de inmigrantes ilegales y pruebas de edad a los 'menas'.\n\n‼️El vicepresidente primero, 🥦Carlos Pollán, adelanta que también se comprobará si los menores tienen familiares en el país.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-07 18:51"
+  },
+  {
+   "tweet": "⚠️ Hay barrios donde la gente YA NO SALE DE NOCHE por miedo.\n\nLo dice @___. Y tiene toda la razón. La violencia y la agresividad de la delincuencia se han disparado, y tiene un origen concreto: la inmigración ilegal.\n\nNo es \"sensación de inseguridad\". Es inseguridad [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-07 17:44"
+  },
+  {
+   "tweet": "Más control y menos negocio con la inmigración ilegal. \n\nLos recursos de los españoles deben destinarse a los españoles. 🇪🇸",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-07 17:24"
+  },
+  {
+   "tweet": "🔴 #ÚLTIMAHORA || La Policía detiene en Palma a un inmigrante ilegal argelino que llegó en patera hace menos de un año por apuñalar a un hombre que intentó mediar en una pelea.\n\n⚠️ El detenido acumula múltiples antecedentes.\n\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-07 14:36"
+  },
+  {
+   "tweet": "Ya tenemos un estudio que cuantifica el efecto de la inmigración en el precio de la vivienda en EEUU.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione un estudio que cuantifique el efecto de la inmigración en el precio de la vivienda en EEUU. Los artículos listados tratan precios de vivienda, acceso a la vivienda y políticas migratorias, pero no incluyen datos ni análisis que relacionen la inmigración con los precios de la vivienda en Estados Unidos.",
+   "outlets": [],
+   "fecha": "2026-07-07 14:21"
+  },
+  {
+   "tweet": "Migración Colombia registró cuatro nuevos casos de extranjeros inadmitidos por turismo con fines de explotación sexual en Medellín. Entre estos una mujer con alerta Angel Watch, como posible agresora sexual de menores de edad. \n\nLos detalles en esta nota de @___ 👇🏼 [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No se encontró ninguna fuente que mencione que Migración Colombia haya registrado cuatro nuevos casos de extranjeros inadmitidos por turismo con fines de explotación sexual en Medellín. Los artículos listados tratan temas distintos (salarios en turismo, crisis hotelera en Cuba, redes de trata en otros países, regularización migratoria, etc.) y no contienen información que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-07 13:41"
+  },
+  {
+   "tweet": "🚨🇪🇸 Estos Inmigrantes marroquíes acaban de llegar en patera a Ibiza y esto es lo que les espera:\n\nBolsas con ropa nueva, productos de higiene, atención inmediata… y después hotel gratis + ayudas pagadas con tus impuestos.\n\nMientras los españoles hacen malabares para llegar a [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró evidencia que indique que el gobierno tiene previsto regularizar específicamente a los inmigrantes que llegan en patera. Las fuentes citadas (El_Debate 2026‑06‑15, mediterraneodigital 2026‑04‑16, 20minutos 2026‑04‑17) hablan de procesos de regularización en general o a la carta, pero no mencionan la llegada por vía marítima ni la regularización de inmigrantes en patera.",
+   "outlets": [],
+   "fecha": "2026-07-07 13:32"
+  },
+  {
+   "tweet": "Castilla y León empezará a expulsar a los inmigrantes ilegales\n\nY además, Pruebas de edad para los menores no acompañados",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No fuente encontrada que indique que la comunidad autónoma de Castilla y León haya anunciado o implementado un plan de expulsión de inmigrantes ilegales. Las referencias disponibles hablan de acciones del Gobierno central (por ejemplo, el Gobierno de Sánchez) o de vuelos de repatriación en Chile, pero no mencionan a Castilla y León.",
+   "outlets": [],
+   "fecha": "2026-07-07 12:56"
+  },
+  {
+   "tweet": "La inmigración masiva y descontrolada destruye los servicios públicos. ❌\n\nEs de cajón: pagamos más impuestos que nunca, pero no se hacen pisos, hospitales ni escuelas para asimilar a millones de personas.\n\nLos recursos son finitos y deben ser para los de casa. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.92,
+   "reasoning": "El artículo de La Vanguardia titulado \"La inmigración no es el problema\" (2024) indica que la inmigración no constituye un problema para los servicios públicos, lo que contradice directamente la afirmación. Ninguna de las demás fuentes citadas proporciona evidencia de que la inmigración masiva y descontrolada destruya los servicios públicos; al contrario, algunas fuentes mencionan que la inmigración no es un riesgo principal o que se están ampliando los servicios de salud para inmigrantes. Por lo tanto, la evidencia disponible contradice la afirmación.",
+   "outlets": [
+    "La Vanguardia"
+   ],
+   "fecha": "2026-07-07 12:16"
+  },
+  {
+   "tweet": "Empresarios que desean salarios mínimos para sus trabajadores.\nQue no quieren la regularización de migrantes porque supone derechos laborales....\n👇",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "20minutos",
+    "mediterraneodigital"
+   ],
+   "fecha": "2026-07-07 11:52"
+  },
+  {
+   "tweet": "El Aeropuerto Norte de Tenerife esta mañana con inmigrantes ilegales rumbo a Madrid. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia a inmigrantes ilegales en los artículos listados. Por ejemplo, el artículo de Europa_Press menciona un avión de Iberia que llega a Tenerife Norte, pero no indica pasajeros ilegales ni su destino a Madrid. Tampoco los demás textos (20minutos, Huffingtonpost, Newtral, Defensagob, Guardia Civil, Transportesgob) hacen mención de inmigrantes ilegales en el aeropuerto. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-07 09:12"
+  },
+  {
+   "tweet": "La Policía detecta cientos de inmigrantes ilegales con pasaportes o documentos falsos para regularizarse en España [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró evidencia que la Policía detecte cientos de inmigrantes con pasaportes falsos. El único caso mencionado es de dos dominicanos con pasaportes colombianos falsos (Lagaceta, 18 mayo). No hay datos que indiquen cientos de casos.",
+   "outlets": [
+    "lagaceta",
+    "maldita",
+    "Newtral"
+   ],
+   "fecha": "2026-07-07 08:26"
+  },
+  {
+   "tweet": "🚨🇺🇸 | EXCELENTE MEDIDA: La Junta Estatal de Educación de Florida aprobó por 6 votos contra 1 una norma que impide a los inmigrantes en situación irregular matricularse en los 28 colegios públicos del estado y en programas de educación para adultos.\n\nLa medida se suma a la [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione la aprobación de dicha norma por parte de la Junta Estatal de Educación de Florida. Los artículos listados se refieren a temas educativos en la Comunidad Valenciana y a otras cuestiones en España, por lo que no proporcionan evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-07 03:26"
+  },
+  {
+   "tweet": "🇪🇸 | INVASIÓN MIGRATORIA: Las llegadas ilegales a Ceuta se dispararon un 164% en el primer semestre de 2026, con 2.582 inmigrantes ingresando por la frontera terrestre.\n\nLa ciudad autónoma se convirtió en el principal punto de presión migratoria de España, mientras el país [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "lagaceta",
+    "La_Razón",
+    "Libertad Digital",
+    "vozpopuli"
+   ],
+   "fecha": "2026-07-06 22:24"
+  },
+  {
+   "tweet": "Aporta más un solo inmigrantes que estos tres pepinillos",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que mencione ni compare la contribución de un inmigrante con la de tres 'pepinillos'. Los artículos recuperados tratan sobre pensiones, regularización y datos de afiliación, sin referencia a la afirmación. Por lo tanto, no hay evidencia que la respalde ni la contradiga.",
+   "outlets": [],
+   "fecha": "2026-07-06 21:34"
+  },
+  {
+   "tweet": "La invasión en Ceuta no cesa: ya han llegado casi 2.600 inmigrantes ilegales, un 160% más que en el primer semestre del año pasado\n\n[enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "contradicted",
+   "confidence": 0.92,
+   "reasoning": "El dato de casi 2.600 inmigrantes ilegales no aparece en ninguna de las fuentes citadas; las fuentes de lagaceta reportan \"casi 2.300\" inmigrantes ilegales en lo que va del año (lagaceta, 4 junio; lagaceta, 19 mayo; lagaceta, 4 junio). Además, la cifra de aumento no coincide con el 160 % mencionado: lagaceta indica un aumento del 222 % respecto a 2025 y del 215 % respecto a la ruta peninsular y Baleares, no del 160 % respecto al primer semestre del año anterior. Por lo tanto, la afirmación no está respaldada por la evidencia disponible.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-06 20:48"
+  },
+  {
+   "tweet": "‼️🇪🇸 | El Gobierno de Sánchez acumula más de 1.300 pateras sin destruir tras la llegada de más de 360.000 inmigrantes ilegales por mar desde 2018 en Andalucía, Murcia, Canarias, Baleares y Valencia. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione la cifra de 1.300 pateras ni la cifra de 360.000 inmigrantes ilegales por mar. Los artículos listados (elmundo, La_Razón, elespanol, 20minutos, mediterraneodigital, Newtral, maldita) tratan temas políticos y de regularización, pero no incluyen datos sobre pateras ni sobre la llegada de inmigrantes por mar. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 18:00"
+  },
+  {
+   "tweet": "Metiendo 6 millones de inmigrantes más mejorará la situación, seguro.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No de los artículos citados abordan directamente la relación entre la incorporación de 6 millones de inmigrantes y la mejora de la situación socio‑económica o laboral. Los textos se centran en cifras de inmigración, regularización y necesidades de mano de obra, pero no evalúan ni concluyen que la llegada de 6 millones de personas mejore la situación. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 17:30"
+  },
+  {
+   "tweet": "Más de la mitad sale del bolsillo de la población migrante en España.\n\nDeportar = Bajar el precio del alquiler.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró evidencia que respalde la afirmación de que más de la mitad sale del bolsillo de la población migrante en España. Los artículos citados (La Vanguardia, mediterraneodigital, Newtral) tratan sobre flujos migratorios, distribución de riqueza y datos económicos generales, pero no abordan el gasto neto de los migrantes ni la proporción de sus ingresos que se pierde. Por lo tanto, no hay datos que confirmen ni contradigan la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 17:14"
+  },
+  {
+   "tweet": "Detenido un inmigrante sudamericano por el asesinato a tiros de un menor de 15 años en el parque de la Pegaso de Barcelona\n\n[enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que confirme que un inmigrante sudamericano haya sido detenido por el asesinato a tiros de un menor de 15 años en el parque de la Pegaso. Los artículos listados tratan sobre arrestos por delitos distintos (agresión sexual, intento de asesinato de una mujer, tiroteos en otras zonas de Barcelona) y no mencionan al parque Pegaso ni a un menor de 15 años.",
+   "outlets": [],
+   "fecha": "2026-07-06 17:09"
+  },
+  {
+   "tweet": "Hoy soy mas español que llenar el país de inmigrantes marroquíes y darles pensiones",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No hay evidencia que demuestre que la identidad española se mida por la cantidad de inmigrantes marroquíes que reciben pensiones. Los datos encontrados se refieren a la cantidad de inmigrantes que reciben pensiones, pero no a la identidad del hablante.",
+   "outlets": [
+    "mediterraneodigital",
+    "elespanol",
+    "La_Razón",
+    "maldita",
+    "Newtral"
+   ],
+   "fecha": "2026-07-06 15:52"
+  },
+  {
+   "tweet": "Aumentan un 2.000% los inmigrantes con residencia por arraigo familiar desde 2020\n\nEl incremento coincide con la reforma del Reglamento de Extranjería impulsada por el Gobierno de Pedro Sánchez\n [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "El aumento reportado en los datos oficiales no coincide con un 2.000 %. Según el objetivo (2026‑04‑19), el número de extranjeros mayores de 65 años con autorización de residencia por arraigo familiar creció un 3.480 % en tres ejercicios, y según el mismo medio (2026‑05‑13) las autorizaciones de residencia a inmigrantes no comunitarios aumentaron un 51,7 % desde 2020. No se menciona ningún incremento de 2.000 % en la población con residencia por arraigo familiar.",
+   "outlets": [
+    "theobjective",
+    "El_Debate"
+   ],
+   "fecha": "2026-07-06 15:44"
+  },
+  {
+   "tweet": "Mujeres son capaces de hacer todo esto, pero seguirán votando a partidos que apoyan la inmigración ilegal masiva.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No de los artículos citados se menciona directamente el comportamiento electoral de las mujeres ni su apoyo a partidos que promueven la inmigración ilegal masiva. Los textos se centran en temas de feminismo, política de inmigración en general y movimientos sociales, pero no ofrecen datos ni afirmaciones que respalden la afirmación presentada.",
+   "outlets": [],
+   "fecha": "2026-07-06 15:34"
+  },
+  {
+   "tweet": "𝐍𝐨 𝐧𝐨𝐬 𝐩𝐨𝐝𝐞𝐦𝐨𝐬 𝐧𝐢 𝐢𝐦𝐚𝐠𝐢𝐧𝐚𝐫 𝐥𝐨 𝐪𝐮𝐞 𝐞𝐬𝐭𝐨𝐬 𝐇𝐃𝐋𝐆𝐏 𝐯𝐚𝐧 𝐚 𝐦𝐞𝐭𝐞𝐫 𝐞𝐧 𝐧𝐮𝐞𝐬𝐭𝐫𝐨𝐬 𝐛𝐚𝐫𝐫𝐢𝐨𝐬.\n\nLa Policía detecta cientos de inmigrantes ilegales con documentos falsos para regularizarse en España [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-06 15:30"
+  },
+  {
+   "tweet": "@___ Es decir, sin inmigración, se resuelve el problema de la vivienda, gracias por los datos.",
+   "claim_type": "rhetorical",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.78,
+   "reasoning": "Si, según Europa Press (23 May 2024), el 83 % de los migrantes en España tienen problemas de vulnerabilidad o exclusión de la vivienda, lo que indica que la inmigración no es la causa principal del déficit habitacional sino que los migrantes son parte de la población afectada. Además, abc (20 Jun 2026) señala que más de la mitad de los inquilinos son personas nacidas en el extranjero, lo que sugiere que la inmigración no elimina el problema de vivienda. Por tanto, la afirmación de que sin inmigración se resolvería el problema es una simplificación exagerada y no está respaldada por la evidencia.",
+   "outlets": [
+    "Europa Press",
+    "abc",
+    "Europa_Press",
+    "abc",
+    "Público"
+   ],
+   "fecha": "2026-07-06 14:45"
+  },
+  {
+   "tweet": "🗣️ @___ sobre inmigración:\n\n“La política migratoria de Sánchez tiene que cambiar por completo”.\n\n“Como dijo el papa León XIV, el problema de la inmigración ilegal se soluciona en la orilla de origen, no en la orilla de destino”. [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que confirme que @___ haya hecho esas declaraciones. Los artículos encontrados (eldiario, La Vanguardia, Huffington Post) hablan de la visita del Papa León XIV y sus comentarios sobre inmigración, pero no mencionan a @___ ni citan esas frases. Por lo tanto, no hay evidencia suficiente para apoyar la afirmación.",
+   "outlets": [
+    "eldiario",
+    "La_Vanguardia",
+    "huffingtonpost",
+    "Newtral",
+    "Boatosorg"
+   ],
+   "fecha": "2026-07-06 13:16"
+  },
+  {
+   "tweet": "@___ Yo metía 5 millones de inmigrantes más. Seguro que así mejora la situación.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No de los artículos encontrados menciona ni confirma ni refuta la idea de que introducir 5 millones de inmigrantes adicionales mejoraría la situación. Los textos se centran en la regularización, la percepción de la inmigración como problema y estadísticas de llegada, pero no abordan el impacto de un aumento hipotético de 5 millones.",
+   "outlets": [
+    "20minutos",
+    "elespanol",
+    "El_Debate",
+    "Newtral"
+   ],
+   "fecha": "2026-07-06 12:44"
+  },
+  {
+   "tweet": "Yo metería otros 4 o 5 millones de inmigrantes, a ver qué tal.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que indique que el autor de la afirmación haya declarado que introduciría 4 o 5 millones de inmigrantes. La evidencia disponible menciona que el Gobierno espera regularizar 5 millones más en cuatro años (por ejemplo, el artículo de elespanol del 15 de junio de 2026), pero no atribuye esa intención a la persona que hace la afirmación. Por lo tanto, no hay evidencia que respalde la declaración.",
+   "outlets": [],
+   "fecha": "2026-07-06 12:39"
+  },
+  {
+   "tweet": "Más regularizaciones hoy = más inmigración ilegal mañana. \n\nEs de sentido común. 🇪🇸",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró ninguna fuente que establezca una relación causal directa entre un aumento de regularizaciones de inmigrantes y un incremento futuro de inmigración ilegal. Los artículos citados ([1] Newtral, 27‑Jan; [2] Newtral, 28‑May; [3] Newtral, 31‑Jan; [4] Newtral, 11‑Jun; [1] Libertad Digital; [2] OKDiario, 17‑Jun‑2026; [3] mediterraneodigital, 16‑Apr‑2026; [4] mediterraneodigital, 16‑Apr‑2026; [1] Europa_Press; [2] lagaceta; [3] 20minutos, 17‑Apr‑2026; [4] El_Debate, 4‑May‑2026) tratan sobre los procedimientos, requisitos y efectos de la regularización, pero no abordan la cuestión de si dichas regularizaciones provocan un aumento de la inmigración ilegal en el futuro. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 11:53"
+  },
+  {
+   "tweet": "🔴 #ÚLTIMAHORA || Europa roza los 47.000 inmigrantes ilegales por vías marítimas y terrestres en lo que va de año con España liderando incrementos superiores al 160 por ciento.\n\n⚠️ La mayoría de rutas europeas descienden mientras las españolas aumentan.\n\n[enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "Los artículos citados no mencionan cifras de inmigrantes ilegales ni el número de 47.000. Tampoco se hace referencia a un incremento superior al 160 % en España. Se refieren a la inmigración total, a la naturalización y a la población extranjera, pero no a la ilegalidad ni a los porcentajes indicados. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 11:17"
+  },
+  {
+   "tweet": "7 años gobernando el PSOE:\n➡️ Vivienda más cara de la historia\n➡️ Alimentación más cara de la historia\n➡️ Inmigración + alta de la historia\n➡️ Servicios públicos saturados\n➡️ Falta inversión en vias y carreteras\n➡️ Las violaciones se han triplicado en 7 años\n➡️ 13 millones de",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.7,
+   "reasoning": "No se encontró en la evidencia proporcionada datos numéricos que confirmen que el número de violaciones se haya triplicado en un periodo de siete años. El artículo de lagaceta menciona que España es el país europeo con mayor aumento de violaciones desde 2017, pero no especifica la magnitud ni la duración exacta del incremento. Por lo tanto, la evidencia no es suficiente para respaldar la afirmación.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-06 10:02"
+  },
+  {
+   "tweet": "REGULARIZACIÓN POR DECRETAZO \nEL CAOS DE LA INMIGRACIÓN ILEGAL \n\n📢 LA EXTRAÑA INDUSTRIA DE LA IMPORTACIÓN DE POBRES\n\n‼️‼️ El Gobierno asume que cuatro de cada diez extranjeros seguirá en riesgo de pobreza en 2030.\n\n[enlace] [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "Los datos disponibles se refieren a la población general en riesgo de pobreza (25‑27 % en 2025‑2026) y no a la población extranjera ni a proyecciones para 2030. Ninguna de las fuentes citadas menciona una estimación gubernamental sobre extranjeros en riesgo de pobreza en 2030. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 09:53"
+  },
+  {
+   "tweet": "Jjjjj empiezas a deportar inmigrantes y hundes la mitad de la demanda de alquileres.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que indique que España haya iniciado un proceso de deportación de inmigrantes ni que dicha acción haya provocado una reducción a la mitad de la demanda de alquileres. Los artículos citados (El_Periodico, Europa_Press, Newtral) tratan sobre ajustes al pacto migratorio, vulnerabilidad de los migrantes en vivienda y propuestas de Vox para endurecer la residencia, pero no mencionan deportaciones ni impactos en el mercado de alquileres.",
+   "outlets": [],
+   "fecha": "2026-07-06 09:45"
+  },
+  {
+   "tweet": "“Si deportas a los inmigrantes el alquiler medio baja a 300€ al mes”",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que mencione un descenso del alquiler medio a 300€ tras la deportación de inmigrantes. Los artículos disponibles tratan temas de multas, regularización, salarios y beneficios sanitarios, pero no abordan la relación entre la presencia de inmigrantes y el precio medio del alquiler.",
+   "outlets": [],
+   "fecha": "2026-07-06 09:41"
+  },
+  {
+   "tweet": "🔴 La Policía detectó a \"cientos\" de inmigrantes ilegales en pateras con documentación falsa preparada para regularizarse en España.\nLas mafias daban papeles en origen a quienes decidieron migrar por el efecto llamada de la regularización de Sánchez. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-06 09:27"
+  },
+  {
+   "tweet": "EL CAOS DE LA INMIGRACIÓN ILEGAL \n\n🚨🚨 FINGID SORPRESA: El 70% de los menas sometidos a pruebas de edad son mayores de 18 años.\n\n🚨🚨 La cifra de falsos menores extranjeros no acompañados llegados a Madrid se triplica en solo un año, frente al 39% de los casos detectados en todo",
+   "claim_type": "statistical_claim",
+   "verdict": "supported",
+   "confidence": 0.95,
+   "reasoning": "Si, según lagaceta (junio 6, 2026), más del 77% de los supuestos menores extranjeros a los que se les hicieron pruebas en Aragón tienen más de 18 años, lo que respalda la afirmación de que al menos el 70% son mayores de 18 años.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-06 09:02"
+  },
+  {
+   "tweet": "@___ Se han cargado Europa con varios frentes. El más importante fue la energía \"para salvar el planeta\", los costes han desmantelado toda la industria europea.\n\nOtro es la inmigración masiva e ilegal, está colapsando todos los servicios públicos, además de la convivencia.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.7,
+   "reasoning": "La evidencia encontrada se centra en olas de calor y temperaturas extremas en varias regiones de Europa, pero no menciona la presencia de frentes meteorológicos que carguen el continente. Por lo tanto, no hay información suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 08:55"
+  },
+  {
+   "tweet": "REGULARIZACIÓN POR DECRETAZO \nEL CAOS DE LA INMIGRACIÓN ILEGAL \n\n🤯🤯 Aumentan un 2.000% los inmigrantes con residencia por arraigo familiar desde 2020.\n\nEl incremento coincide con la reforma del Reglamento de Extranjería impulsada por el Gobierno de Pedro Sánchez. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "El artículo de TheObjective (2026‑04‑19) indica que el número de extranjeros mayores de 65 años con autorización de residencia por arraigo familiar ha aumentado un 3.500 % en los últimos tres ejercicios, no un 2000 %. Además, el texto no menciona explícitamente que la reforma del Gobierno de Pedro Sánchez sea la causa de este incremento. Por lo tanto, la afirmación de un aumento del 2000 % y su coincidencia con la reforma es incorrecta.",
+   "outlets": [
+    "theobjective",
+    "vozpopuli",
+    "Newtral",
+    "maldita"
+   ],
+   "fecha": "2026-07-06 07:57"
+  },
+  {
+   "tweet": "El Gobierno asume que cuatro de cada diez extranjeros seguirá en riesgo de pobreza en 2030.\n\nEl mismo plan que presenta la inmigración como sostén del Estado del bienestar admite que, tras regularizar a 1,2 millones de personas, el 41,9% seguirá en situación de riesgo de pobreza [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione una estimación del Gobierno sobre que el 40 % de los extranjeros permanecerá en riesgo de pobreza en 2030. Los artículos citados tratan la pobreza general en España, pero no abordan la población extranjera ni proyecciones para 2030.",
+   "outlets": [],
+   "fecha": "2026-07-06 07:18"
+  },
+  {
+   "tweet": "La Policía detectó a \"cientos\" de migrantes en pateras con documentación falsa preparada para regularizarse en España [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna referencia a la detección de cientos de migrantes en pateras con documentación falsa en los artículos consultados. El único artículo que menciona detección de papeles falsos (edatv) no especifica la cifra ni la modalidad de entrada (pateras). Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-06 05:28"
+  },
+  {
+   "tweet": "Parece que meter 16 millones de inmigrantes no ha mejorado Alemania, incomprensible",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No fuente encontrada que mencione la llegada de 16 millones de inmigrantes a Alemania ni que evalúe su efecto en el país. La evidencia disponible habla de 1,5 millones de inmigrantes en 2025 y de cifras en España y la UE, pero no aborda la afirmación sobre Alemania.",
+   "outlets": [],
+   "fecha": "2026-07-06 03:48"
+  },
+  {
+   "tweet": "Mientras los inmigrantes africanos están jugando fútbol por su selección",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que mencione que inmigrantes africanos están jugando fútbol por su selección nacional. Los artículos citados tratan temas de integración, racismo y diversidad en el deporte, pero no hacen referencia a la participación de inmigrantes africanos en equipos nacionales de fútbol.",
+   "outlets": [
+    "El_Pais",
+    "elespanol",
+    "elmundo",
+    "La_Razón"
+   ],
+   "fecha": "2026-07-06 03:22"
+  },
+  {
+   "tweet": "Ahi viene la migra mijo\nCorrele virgencita [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró evidencia que respalde ni contradiga la afirmación. Los artículos citados no mencionan la frase ni su contexto.",
+   "outlets": [
+    "theobjective",
+    "eldiario",
+    "lagaceta",
+    "Newtral"
+   ],
+   "fecha": "2026-07-06 02:47"
+  },
+  {
+   "tweet": "𝐓𝐫𝐮𝐦𝐩 𝐚𝐜𝐞𝐥𝐞𝐫𝐚 𝐥𝐚 𝐦𝐚𝐪𝐮𝐢𝐧𝐚𝐫𝐢𝐚 𝐝𝐞 𝐝𝐞𝐩𝐨𝐫𝐭𝐚𝐜𝐢𝐨𝐧𝐞𝐬\n\nICE detiene a más de 10.000 migrantes en 5 días\n\n-La dirección del ICE ordenó a sus mandos concentrar todos los esfuerzos en localizar y detener personas migrantes susceptibles de ser deportadas [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-05 22:11"
+  },
+  {
+   "tweet": "Y ¡NO HAY MÁS!\n\nEl gobierno de @___ se limita a esto\n\nLos mismos que están inundando el pais y la región de inmigración te dicen que ahí están ellos defendiendo \"la identidad\" 🙉\n\nMientras y en el mundo real, los blindados que iban para Langreo se van para As Pontes 🙃",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No evidence in the provided sources addresses the claim about armored vehicles moving from Langreo to As Pontes or the specific statements about the government defending identity. The sources discuss immigration policy in other regions, reindustrialization, and general political context but do not mention the alleged event. Therefore, there is insufficient evidence to support or contradict the claim.",
+   "outlets": [],
+   "fecha": "2026-07-05 22:06"
+  },
+  {
+   "tweet": "Venezuela es un lastre para Chile, su presencia en este país no sirve para nada. Migración inútil y nefasta.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró evidencia que aborde la presencia de venezolanos en Chile ni su impacto. La evidencia recopilada se refiere a migración venezolana en España y no a Chile.",
+   "outlets": [],
+   "fecha": "2026-07-05 21:09"
+  },
+  {
+   "tweet": "La Policía detectó a \"cientos\" de migrantes en pateras con documentación falsa preparada para regularizarse en España [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "outdated",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-05 20:39"
+  },
+  {
+   "tweet": "🔴 LA NOTICIA PARA RADICALIZARTE ANTES DE IRTE A DORMIR\n\nLa Policía detectó a cientos de inmigrantes en pateras con documentación falsa vendida por mafias para colarse fraudulentamente en la regularización extraordinaria [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró evidencia que confirme que la Policía detectó a cientos de inmigrantes en pateras con documentación falsa vendida por mafias. Los artículos disponibles (por ejemplo, La_Razón 2026-05-08 y 2026-05-19, theobjective 2026-05-21, lagaceta 2026-05-25, El_Periodico 2026-05-25, lagaceta 2026-06-18) describen fraudes y detenciones relacionadas con documentos falsos y regularización, pero no mencionan específicamente la detección de cientos de inmigrantes en pateras. Por lo tanto, la evidencia encontrada es insuficiente para respaldar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 20:33"
+  },
+  {
+   "tweet": "Esa es la inmigración que promueven ustedes para Argentina, no es asi derecha diario?",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "El_Salto",
+    "Newtral"
+   ],
+   "fecha": "2026-07-05 20:18"
+  },
+  {
+   "tweet": "ATERRADOR: El inmigrante bangladesí Mohammad Salahuddin violó, asesinó y descuartizó brutalmente a Anastazja Rubińska, una mujer polaca de 27 años, en una isla griega. Ya ha sido arrestado. ¿Cuánto tiempo más ignorará Europa la creciente amenaza de los islamistas radicales? [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No una de las fuentes citadas menciona a Mohammad Salahuddin, a Anastazja Rubińska ni a un crimen en una isla griega. Los artículos listados tratan sobre delitos en España, Irán y otros temas sin relación con la afirmación. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 20:03"
+  },
+  {
+   "tweet": "🔴 Nuevo incendio en la fábrica de URSSA en Vitoria okupadas por inmigrantes ilegales magrebíes. Un foco de inseguridad y delincuencia diaria.\n\n¡Exigimos el desalojo, el derribo inmediato de las naves y la deportación de estas personas a sus países de origen ya! [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione un incendio en la fábrica de URSSA en Vitoria ni la ocupación por inmigrantes ilegales magrebíes. Todas las evidencias disponibles se refieren a incendios en otras localidades y contextos distintos.",
+   "outlets": [],
+   "fecha": "2026-07-05 19:57"
+  },
+  {
+   "tweet": "@___ : «A izquierda y a derecha son responsables de una inmigración masiva».",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que afirme directamente que la izquierda y la derecha son responsables de una inmigración masiva. Los artículos citados (lagaceta, El_Periodico, 20minutos, Newtral) tratan sobre políticas migratorias, regulaciones y debates políticos, pero no atribuyen la causa de la inmigración masiva a ambos espectros políticos. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 19:50"
+  },
+  {
+   "tweet": "La regularización masiva mete de golpe otros 200.000 inmigrantes a competir por los recursos limitados de Madrid:\n\nMás escasez de vivienda.\nMás listas de espera.\nMás hundimiento de salarios.\nMás saturación en el metro.\n\nFrenemos este suicidio.\n\n¡Salvemos Madrid! [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-05 19:02"
+  },
+  {
+   "tweet": "No estamos en contra de la inmigración .  Estamos en contra de la delincuencia . [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-05 18:02"
+  },
+  {
+   "tweet": "La inmigración ilegal, entre otros factores... [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-05 17:50"
+  },
+  {
+   "tweet": "🚨🇪🇸 | TIENE QUE CAER: Se reveló que el Ministerio de Sanidad de España tenía registrados en 2025 a 1.224.576 inmigrantes ilegales en la categoría de \"personas extranjeras\" a costa del contribuyente español, una cifra que supera el doble de los 500.000 beneficiarios estimados al [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No fuente encontrada que confirme ni contradiga la cifra de 1.224.576 inmigrantes ilegales registrados en 2025 en la categoría de \"personas extranjeras\". Los artículos listados tratan temas de regularización, beneficios y estadísticas generales, pero no mencionan ese número específico.",
+   "outlets": [],
+   "fecha": "2026-07-05 17:39"
+  },
+  {
+   "tweet": "Cuando sales de España te das cuenta lo pobres que somos y lo horrible que es meter tantos millones de inmigrantes",
+   "claim_type": "rhetorical",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Si, según El Debate (18‑jun‑2026), la inmigración explica casi tres cuartas partes del crecimiento económico de España desde 2018, lo que indica que la llegada de inmigrantes ha sido un motor positivo para la economía, contraviniendo la idea de que es \\\"horrible\\\" traer tantos millones. Por otro lado, La Razón (03‑jun‑2026) informa que la pobreza alcanza a 12,6 millones de personas, el 25,7 % de la población, lo que sí respalda la percepción de pobreza, aunque la afirmación original mezcla ambos temas sin evidencia que los vincule de forma negativa.",
+   "outlets": [],
+   "fecha": "2026-07-05 17:00"
+  },
+  {
+   "tweet": "\"Al menos hice caso al Papa y acogí a los inmigrantes\". [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No evidencia encontrada que indique que la persona en cuestión haya seguido las indicaciones del Papa ni que haya acogido a inmigrantes. Los artículos citados (por ejemplo, eldiario 2026-06-11 y 2026-06-08, abc 2026-04-24) describen únicamente los discursos y posturas del Papa León XIV, sin referencia a acciones personales del sujeto de la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 16:54"
+  },
+  {
+   "tweet": "‼️🇪🇸 | El 46% de los condenados por violencia doméstica en la Comunidad Valenciana son inmigrantes pese a ser solo el 19% de la población. Casi el 45% de las denunciantes son extranjeras. [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione el 46 % de los condenados por violencia doméstica que son inmigrantes en la Comunidad Valenciana. Los artículos listados (mediterraneodigital, Newtral, EFEVerifica, El_Salto, elespanol, 20minutos) no incluyen esa cifra ni datos comparativos con la proporción de inmigrantes en la población. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 16:49"
+  },
+  {
+   "tweet": "Hay más inmigrantes ilegales en España de lo que admite el Gobierno: ya van por las 1,2 millones de solicitudes de regularización masiva.\n\n Un dato que excede de forma notable las previsiones iniciales del Gobierno, que cifraba en aproximadamente 500.000 los potenciales [enlace]",
+   "claim_type": "opinion",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "El Gobierno ha recibido 900.000 solicitudes de regularización, según los artículos de 20minutos y TheObjective del 15 de junio de 2026. La afirmación de 1,2 millones excede esta cifra, por lo que la declaración es contradicha por la evidencia disponible.",
+   "outlets": [
+    "20minutos",
+    "TheObjective",
+    "20minutos",
+    "theobjective"
+   ],
+   "fecha": "2026-07-05 13:18"
+  },
+  {
+   "tweet": "Imaginad que todas las administraciones destinasen el dinero de inmigración y otros parásitos a problemas reales…",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No fuente disponible que demuestre que las administraciones están destinando el dinero de la inmigración a problemas reales. Los artículos encontrados (por ejemplo, 20minutos, El_Independiente, Libertad Digital, El_Debate) tratan datos de inmigración, pensiones y costes laborales, pero no indican una reasignación presupuestaria. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 11:28"
+  },
+  {
+   "tweet": "EEUU sin inmigrantes! [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "La evidencia muestra que, aunque el gobierno de Trump ha propuesto cambios en la política migratoria, no indica que los Estados Unidos estén sin inmigrantes. Los artículos de lagaceta (junio 1, 2) y elespanol (2026‑06‑09) describen medidas dirigidas a la inmigración legal y no a la eliminación total de inmigrantes. Newtral también refuta afirmaciones de eliminación de visas. Por lo tanto, la afirmación de que EE. UU. no tiene inmigrantes es falsa.",
+   "outlets": [
+    "lagaceta",
+    "elespanol",
+    "Newtral"
+   ],
+   "fecha": "2026-07-05 11:07"
+  },
+  {
+   "tweet": "CHINGA LA MIGRA",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró evidencia que respalde ni contradiga la afirmación \"CHINGA LA MIGRA\". Los artículos citados tratan sobre regularización de migrantes y desinformación, pero no abordan directamente la frase en cuestión.",
+   "outlets": [
+    "lagaceta",
+    "theobjective",
+    "Newtral",
+    "EFEVerifica"
+   ],
+   "fecha": "2026-07-05 09:02"
+  },
+  {
+   "tweet": "Detenido en Urretxu (Guipúzcoa) un inmigrante magrebí tras apuñalar en el torso y en la cara a su compañero de piso [enlace] vía @___",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione un arresto en Urretxu, Guipúzcoa, ni que describa un caso de apuñalamiento en el torso y la cara de un compañero de piso por un inmigrante magrebí. Todas las evidencias listadas se refieren a arrestos en otras localidades (Sant Hipòlit de Voltregà, Tarrasa, Vitoria, Guecho, etc.) y no contienen la información solicitada.",
+   "outlets": [],
+   "fecha": "2026-07-05 06:57"
+  },
+  {
+   "tweet": "Detenido en Italia un inmigrante senegalés multirreincidente tras apuñalar a un hombre en cuello, abdomen y espalda hasta dejarlo en estado crítico\n\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-05 06:41"
+  },
+  {
+   "tweet": "‼️ 268 inmigrantes ILEGALES han llegado a Baleares en un solo fin de semana.\n\nEsto no es un episodio aislado. Es la consecuencia de una política migratoria que incentiva la inmigración ILEGAL en lugar de frenarla.\n\nDesde VOX seguimos exigiendo lo que nadie más se atreve a decir: [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme ni refute la afirmación de que VOX está exigiendo algo que nadie más se atreve a decir. Los resultados de búsqueda proporcionados (eldiario, theobjective, 20minutos, EFEVerifica, Boatosorg, policia) no contienen información relevante sobre la declaración de VOX ni sobre el contenido del tweet enlazado. Por lo tanto, no hay evidencia suficiente para determinar la veracidad de la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 06:15"
+  },
+  {
+   "tweet": "Migrantes salvadoreños que vivían en Honduras fueron atacados y otros desaparecidos, cerca de 12.000 migrantes en situación de riesgo ingresaron al territorio salvadoreño en situación de evacuación a finales de junio de 1969.\n\n📷Grupo de salvadoreños expulsados de Honduras, 1969. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione eventos de 1969 relacionados con migrantes salvadoreños en Honduras ni la cifra de 12.000 migrantes ingresando a El Salvador. Las evidencias disponibles (2025‑2026) tratan temas distintos (desapariciones de migrantes en 2025, violencia en Honduras en 2026, etc.) y no corroboran la afirmación. Por lo tanto, no hay evidencia suficiente para apoyar o refutar la declaración.",
+   "outlets": [],
+   "fecha": "2026-07-05 05:34"
+  },
+  {
+   "tweet": "🇺🇸 Trump acelera la maquinaria de deportaciones: ICE detiene a más de 10.000 migrantes en cinco días\n\nAumento de detenciones migratorias en EE.UU. en el marco de la política de deportaciones aceleradas.\n\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente en la evidencia proporcionada que mencione que ICE haya detenido a más de 10.000 migrantes en un lapso de cinco días. Los artículos listados tratan sobre políticas migratorias generales, cancelaciones de procesos de asilo y la administración de Trump, pero no incluyen datos específicos sobre detenciones de ICE. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-05 04:13"
+  },
+  {
+   "tweet": "🚨🏴󠁧󠁢󠁳󠁣󠁴󠁿☪️ | Se viralizan las imágenes de la Policía de Escocia escoltando a un inmigrante sudanés para evitar que fuera linchado por un grupo de patriotas de Glasgow, luego de que fuera detenido tras violar a una mujer y liberado bajo fianza por la justicia progresista del país. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-05 02:33"
+  },
+  {
+   "tweet": "🔴 Murió otro migrante mexicano bajo custodia del ICE; van 16 fallecidos\n\nFélix Alcorta-Rodríguez, de 63 años, se encontraba en un centro de detención en Texas. El 24 de junio, la agencia de EU informó de su muerte, ocurrida cinco días antes.\n[enlace] [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme la muerte de un migrante mexicano bajo custodia del ICE ni que indique que el total de fallecidos sea 16. Los artículos listados tratan temas distintos (migrantes de Guatemala, lluvias en México, inmigrantes salvadoreños, etc.) y no mencionan la muerte de un mexicano bajo ICE ni el número de fallecidos.",
+   "outlets": [],
+   "fecha": "2026-07-05 01:10"
+  },
+  {
+   "tweet": "El Tribunal Supremo admite el recurso de Castilla y León contra la regularización de inmigrantes [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "El Tribunal Supremo ha admitido a trámite el recurso presentado por el Gobierno de Ayuso, no por Castilla y León. Según Europa Press (22 Abr.) y El Independiente (22 May), el recurso se refiere al Gobierno de Ayuso y no a Castilla y León. No se encuentra ninguna fuente que indique que Castilla y León haya presentado dicho recurso.",
+   "outlets": [
+    "Europa Press",
+    "El Independiente"
+   ],
+   "fecha": "2026-07-04 23:38"
+  },
+  {
+   "tweet": "El turismo vacía los barrios de su vida real y la inmigración masiva disuelve los últimos lazos de identidad comunitaria.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "Si, según HuffingtonPost (2026-05-11) y HuffingtonPost (2026-05-07), el turismo ha generado problemas en barrios y se ha convertido en una fuente de conflicto entre residentes y visitantes, pero el artículo no afirma que los barrios se vacíen de su vida real. 20minutos (2026-01-14) menciona la proliferación de pisos turísticos y su impacto en la oferta de vivienda, pero tampoco indica que los barrios pierdan su vida cotidiana. En cuanto a la inmigración, los tweets de Newtral y Maldita (2026) tratan sobre la regularización de inmigrantes y derechos políticos, sin mencionar la disolución de la identidad comunitaria. Por lo tanto, la evidencia disponible no respalda de manera concluyente la afirmación completa.",
+   "outlets": [
+    "HuffingtonPost",
+    "20minutos"
+   ],
+   "fecha": "2026-07-04 22:59"
+  },
+  {
+   "tweet": "El mejor castigo para un venezolano es devolverlos a su país.\nRe inmigración en Chile ahora!",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que confirme ni refute la afirmación de que el mejor castigo para un venezolano es devolverlos a su país. Los artículos citados tratan sobre la liberación de presos políticos y la política de regularización de migrantes, pero no abordan la cuestión del castigo o la devolución de ciudadanos venezolanos.",
+   "outlets": [],
+   "fecha": "2026-07-04 22:56"
+  },
+  {
+   "tweet": "🇪🇸 El nuevo Gobierno de Aragón QUITA las subvenciones a sindicatos y organizaciones que ayudan a inmigrantes y las TRASPASA a los enfermos de ELA.\n\nCada enfermo de ELA tendrá una ayuda de 10.000€/mes para sus tratamientos. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-04 22:32"
+  },
+  {
+   "tweet": "🚨 Cinco extranjeros fueron rechazados por Migración Colombia en el Aeropuerto Internacional José María Córdova.\n\nDe acuerdo con las autoridades, cuatro estarían vinculados a riesgos de explotación sexual y uno más tendría presuntos intereses en actividades de minería ilegal. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna referencia en los artículos listados que mencione la detención o rechazo de cinco extranjeros por Migración Colombia en el Aeropuerto Internacional José María Córdova. Los textos disponibles tratan sobre recomendaciones de viaje a Venezuela, regularización de migrantes y otros temas, pero no incluyen la información solicitada.",
+   "outlets": [],
+   "fecha": "2026-07-04 20:14"
+  },
+  {
+   "tweet": "🔴 Murió otro migrante mexicano bajo custodia del ICE; van 16 fallecidos\n\nFélix Alcorta-Rodríguez, de 63 años, se encontraba en un centro de detención en Texas. El 24 de junio, la agencia de EU informó de su muerte, ocurrida cinco días antes.\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme la muerte de un migrante mexicano bajo custodia del ICE ni que indique que el total de fallecidos sea 16. Los artículos listados tratan temas distintos (muerte de migrantes de otros países, cifras generales de mortalidad en centros de detención, etc.) y no mencionan la cifra específica ni la nacionalidad del fallecido.",
+   "outlets": [],
+   "fecha": "2026-07-04 19:54"
+  },
+  {
+   "tweet": "España fue potencia mundial sin inmigrantes",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que confirme ni refute la afirmación de que España fue una potencia mundial sin inmigrantes. Los artículos citados tratan sobre políticas de inmigración y regularizaciones recientes, pero no abordan la historia de España como potencia mundial ni la presencia de inmigrantes en ese periodo.",
+   "outlets": [],
+   "fecha": "2026-07-04 18:48"
+  },
+  {
+   "tweet": "🚨 \"ASÍ MUERDE EL TIGRE\": DEPORTAN A COLOMBIANA QUE HACÍA CAMPAÑA A DE LA ESPRIELLA EN EE. UU.\n\nLo que comenzó como una fiesta de fanatismo político en Estados Unidos terminó en una total pesadilla migratoria. Una ciudadana colombiana, que se había vuelto viral en redes sociales [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione la deportación de una colombiana que haya hecho campaña en Estados Unidos. Los artículos listados tratan temas sobre amenazas de retiro de visados, injerencia electoral y campañas políticas, pero no hacen referencia a una deportación. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-04 18:37"
+  },
+  {
+   "tweet": "Quieren privatizar las pensiones…y les molestan los inmigrantes que las sostienen junto al resto de españoles.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "La evidencia encontrada no menciona la privatización de las pensiones ni la molestia por parte de los inmigrantes. Los artículos se centran en el MEI, la fiscalidad de los planes de pensiones y la gestión de pagos, sin abordar la política de privatización ni la actitud hacia los inmigrantes.",
+   "outlets": [],
+   "fecha": "2026-07-04 17:59"
+  },
+  {
+   "tweet": "📊 Inmigración en Europa: Mientras la atención mediática se centra en las rutas irregulares, la inmigración oficial y legal es infinitamente mayor. España 🇪🇸 y Alemania 🇩🇪 lideraron la estadística con más de 1 millón de registros anuales cada una.\n\nDetalles en la infografía [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-04 17:52"
+  },
+  {
+   "tweet": "🚨🇮🇹🇲🇦☪️ | LIQUIDADOS: La Policía de Italia se vio obligada a retroceder tras ser superada en número por un gran grupo de inmigrantes marroquíes, quienes invadieron las calles de Roma frente al Coliseo y provocaron destrozos durante los \"festejos\" por la clasificación de su país [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No fuente encontrada que mencione a la Policía de Italia retrocediendo frente al Coliseo por un gran grupo de inmigrantes marroquíes que provocaron destrozos durante los festejos. Los artículos listados tratan incidentes distintos (túnisi, marroquíes en otras ciudades, expulsiones en España, etc.) y no hacen referencia a la situación descrita.",
+   "outlets": [],
+   "fecha": "2026-07-04 17:00"
+  },
+  {
+   "tweet": "Una muy buena noticia por dos vertientes, los trabajadores y migrantes ganan derechos y la ultraderecha rabia. Gran artículo.",
+   "claim_type": "rhetorical",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "20minutos",
+    "eldiario"
+   ],
+   "fecha": "2026-07-04 16:51"
+  },
+  {
+   "tweet": "El Papa en Lampedusa: \"Europa es responsable de los migrantes\" [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-04 16:35"
+  },
+  {
+   "tweet": "De Francisco a León XIV en Lampedusa, puerta de entrada de los migrantes - Vatican News [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "La_Vanguardia",
+    "elmundo",
+    "Libertad Digital",
+    "Newtral",
+    "Boatosorg"
+   ],
+   "fecha": "2026-07-04 16:20"
+  },
+  {
+   "tweet": "Lo dice el Papa woke que es jefe de estado de la Ciudad del Vaticano donde es ilegal la inmigración",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-04 15:21"
+  },
+  {
+   "tweet": "🚨Migración Colombia inadmitió a cinco extranjeros en el aeropuerto José María Córdova, Antioquia: cuatro por presunto turismo con fines de explotación sexual y uno por intentar ingresar para realizar minería ilegal en Segovia y Mutatá. Con estos casos, ya son 95 los extranjeros [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione este incidente. Los artículos encontrados (elespanol, El_Salto, eldiario, Newtral, La_Razón) no tratan sobre el aeropuerto José María Córdova ni sobre la admisión de extranjeros por esas razones. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-04 14:40"
+  },
+  {
+   "tweet": "#LoÚltimo | Migración Colombia inadmitió a cinco ciudadanos extranjeros en el aeropuerto José María Córdova, en Rionegro. Según el organismo, cuatro están señalados por riesgos relacionados con la  explotación sexual y uno más por presunta intención de trabajar en minería ilegal. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que mencione la admisión de cinco ciudadanos extranjeros en el aeropuerto José María Córdova por parte de Migración Colombia. Los artículos encontrados tratan temas de migración en general, pero no hacen referencia a este evento específico.",
+   "outlets": [],
+   "fecha": "2026-07-04 14:09"
+  },
   {
    "tweet": "🔴 Repasamos el discurso de Vox después de entrar en el gobierno andaluz: hablan de muros, de invasión migratoria y de fanatismo climático.\n\n🗣 \"Ayer el pacto le retrató a Moreno Bonilla. Los inmigrantes están cagados de miedo\", afirma @___ \n\n#MalasLenguas [enlace]",
    "claim_type": "quote_claim",
