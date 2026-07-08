@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 265,
+  "total": 266,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 211,
-  "actualizado": "2026-07-08 20:45 UTC"
+  "insufficient": 212,
+  "actualizado": "2026-07-08 20:50 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "¿Y para cuando lo mismo con las fuerzas armadas mexicanas que masacran a migrantes por deporte?",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No evidencia encontrada que respalde la afirmación. Los artículos recuperados tratan sobre la defensa española y ejercicios militares, sin mencionar a las fuerzas armadas mexicanas ni a la masacre de migrantes. Por lo tanto, no se puede confirmar ni refutar la afirmación con la evidencia disponible.",
+   "outlets": [],
+   "fecha": "2026-07-08 20:45"
+  },
   {
    "tweet": "@___ El problema no es la inmigración, es la que consume sin cotizar ni integrarse.",
    "claim_type": "rhetorical",
