@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 243,
-  "supported": 14,
+  "total": 245,
+  "supported": 15,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 193,
-  "actualizado": "2026-07-08 16:58 UTC"
+  "insufficient": 194,
+  "actualizado": "2026-07-08 17:03 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "‼️🇪🇸 | Un excomisario jefe de Inmigración de la Policía Nacional desvela que el Gobierno de Pedro Sánchez pretende regularizar en realidad a seis millones de inmigrantes ilegales, según declaró el exmando policial. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que indique que el Gobierno de Pedro Sánchez pretende regularizar seis millones de inmigrantes ilegales. Los artículos encontrados hablan de regularizaciones de 600.000 en la Comunidad Valenciana y de 840.000 inmigrantes irregulares, pero no de 6 millones.",
+   "outlets": [],
+   "fecha": "2026-07-08 17:03"
+  },
+  {
+   "tweet": "‼️🇪🇸🇲🇦 | Un inmigrante de origen magrebí asestó una paliza brutal y destrozó la cara a una octogenaria en Santiago de la Ribera, Murcia, para robarle el bolso mientras el Gobierno de Sánchez mantiene las fronteras abiertas. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Si, según TheObjective (2026-05-18), las cárceles colocaron carteles en los módulos de las cárceles para acelerar la regularización de presos preventivos en situación irregular, lo que indica que el gobierno está facilitando la regularización de inmigrantes en prisiones. Además, la cobertura de 20minutos sobre la regularización masiva de inmigrantes muestra que el proceso está en marcha, aunque no se menciona específicamente a los presos, lo que refuerza la idea de que la política se extiende a este grupo.",
+   "outlets": [],
+   "fecha": "2026-07-08 16:58"
+  },
   {
    "tweet": "El Tribunal Supremo no elevará a la Justicia europea la regularización de inmigrantes [enlace]",
    "claim_type": "policy_claim",
