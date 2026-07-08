@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 255,
+  "total": 256,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 201,
-  "actualizado": "2026-07-08 18:44 UTC"
+  "insufficient": 202,
+  "actualizado": "2026-07-08 18:49 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "no paro de pensar en esto, estudiar genética de poblaciones y migración humana me hizo menguele",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró evidencia que respalde ni contradiga la afirmación. Los artículos encontrados tratan sobre brotes de meningitis en el Reino Unido y no tienen relación con la genética de poblaciones ni la migración humana.",
+   "outlets": [],
+   "fecha": "2026-07-08 18:46"
+  },
   {
    "tweet": "Cada día el horror en nuestras calles es más indescriptible.\n\nEsta vez en Palos de la Frontera. Un inmigrante sembrando el pánico con un bate, destrozando un hotel, varios coches y amenazando al personal.\n\nDeportación, remigración y prioridad nacional. [enlace]",
    "claim_type": "rhetorical",
