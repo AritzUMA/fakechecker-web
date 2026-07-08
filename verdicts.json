@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 262,
+  "total": 263,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 208,
-  "actualizado": "2026-07-08 19:55 UTC"
+  "insufficient": 209,
+  "actualizado": "2026-07-08 20:00 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇪🇸🚨 | ¡PÁNICO TOTAL EN HUELVA!\n\nUn inmigrante de origen africano armado con un gran palo de metal siembra el caos en Palos de la Frontera, destrozando a palazos un bar, mobiliario urbano y coches aparcados frente a clientes aterrorizados.\n\nLa Policía Local tuvo que reducirlo [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No source in the evidence references Palos de la Frontera or an incident involving a local police officer subduing an immigrant with a metal stick. The available sources discuss police operations in Baix Empordà, Tarragona, and unrelated topics. Therefore, there is insufficient evidence to support or contradict the claim.",
+   "outlets": [],
+   "fecha": "2026-07-08 19:59"
+  },
   {
    "tweet": "🔴El Supremo cierra la puerta a llevar a Europa el decreto de regularización de migrantes [enlace]",
    "claim_type": "policy_claim",
