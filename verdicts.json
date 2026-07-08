@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 249,
+  "total": 250,
   "supported": 16,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 197,
-  "actualizado": "2026-07-08 17:49 UTC"
+  "insufficient": 198,
+  "actualizado": "2026-07-08 17:54 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇩🇪☪️ | LIQUIDADOS: La Policía de Hamburgo se vio desbordada ante un grupo de inmigrantes musulmanes que los atacó mientras intentaban detener a uno de ellos por abusar sexualmente de una menor [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que mencione a la Policía de Hamburgo ni a un grupo de inmigrantes musulmanes atacando a la policía en relación con un abuso sexual de menor. Las evidencias disponibles (20minutos y La Vanguardia) describen incidentes en Granada, Hortaleza y Ciudad Lineal, sin referencia a Hamburgo ni a musulmanes. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-08 17:53"
+  },
   {
    "tweet": "Un ciudadano mexicano fue abatido a tiros ayer por un agente del Servicio de Control de Inmigración y Aduanas (ICE, por sus siglas en inglés) en Houston durante un intento de detención en un operativo de tránsito migratorio, informó el Departamento de Seguridad Interior.",
    "claim_type": "opinion",
