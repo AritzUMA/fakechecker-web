@@ -1,14 +1,90 @@
 {
  "stats": {
-  "total": 233,
-  "supported": 13,
+  "total": 240,
+  "supported": 14,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 184,
-  "actualizado": "2026-07-07 22:30 UTC"
+  "insufficient": 190,
+  "actualizado": "2026-07-08 15:22 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Un agente del ICE mata a tiros a un migrante mexicano en Houston\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No source in the evidence list reports an ICE agent shooting a Mexican migrant in Houston. The articles refer to incidents in Minnesota, Dallas, and other locations, but none mention Houston. Therefore, there is insufficient evidence to support the claim.",
+   "outlets": [],
+   "fecha": "2026-07-08 08:36"
+  },
+  {
+   "tweet": "Un agente del ICE mata a tiros a un migrante mexicano en Houston\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No fuente encontrada menciona un incidente en Houston ni la muerte de un migrante mexicano por un agente del ICE. Los artículos listados se refieren a incidentes en Minnesota, Dallas y otras ciudades, sin relación con Houston ni con un migrante mexicano.",
+   "outlets": [],
+   "fecha": "2026-07-08 07:20"
+  },
+  {
+   "tweet": "URGENTE: Un agente de ICE eliminó de un disparo a un inmigrante ilegal mexicano en Houston, TX después de que el hombre supuestamente embistiera un vehículo de ICE e intentara atropellar a un agente durante una operación de aplicación de la ley, según ICE. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione un agente de ICE que haya eliminado a un inmigrante mexicano en Houston tras un intento de atropello por parte del inmigrante. Los artículos listados (20minutos, Europa_Press, Público, El_Pais, Newtral, EFEVerifica) tratan temas distintos, como la muerte de Renee Good, arrestos de agentes ICE en Minnesota, deportaciones de empresarios venezolanos y críticas generales a la agencia ICE, sin referencia al incidente descrito.",
+   "outlets": [],
+   "fecha": "2026-07-08 03:25"
+  },
+  {
+   "tweet": "Otra víctima de la Gestapo de Trump!!! Otro inmigrante mexicano asesinado por agentes del ICE!!!\n#NoAlFascismo",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se menciona en los artículos una muerte de un inmigrante mexicano por agentes del ICE. El artículo de 20minutos (2025‑09‑24) menciona un muerto en Dallas pero no indica nacionalidad. El tweet de Newtral (2026‑01‑08) menciona una mujer muerta en Minneapolis sin especificar su origen. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [
+    "20minutos",
+    "La_Razón",
+    "Público",
+    "Newtral"
+   ],
+   "fecha": "2026-07-08 03:16"
+  },
+  {
+   "tweet": "Un agente del Servicio de Inmigración y Control de Aduanas (ICE, en inglés) mató a un migrante mexicano durante un operativo de detención en Houston, Texas, informa un portavoz del gobierno a EFE.\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No source in the evidence list reports an ICE agent killing a Mexican migrant in Houston. The articles and tweets refer to incidents in Minnesota (Renee Good, Minneapolis), Dallas (ICE office shooting), Portland (Venezuelan victims), and Los Angeles (protests), but none mention Houston. Therefore there is insufficient evidence to support the claim.",
+   "outlets": [],
+   "fecha": "2026-07-07 23:21"
+  },
+  {
+   "tweet": "ICE mató a un inmigrante mexicano en Texas cuando intentaba detenerlo\n\nEn pleno Mundial, la violencia de la agencia antimigración de Trump continúa sin freno. Este martes, uno de los oficiales de ICE acribilló a un hombre luego de frenar su auto en plena calle. La agencia de",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Si, según elespanol (2026-06-10), el ICE se despliega y prepara deportaciones durante el Mundial, y según elespanol (2026-06-09) se reportan incidentes de violencia por parte de la agencia, lo que indica que la violencia continúa sin freno durante el evento.",
+   "outlets": [
+    "abc",
+    "La_Razón",
+    "elespanol",
+    "eldiario",
+    "20minutos"
+   ],
+   "fecha": "2026-07-07 23:07"
+  },
+  {
+   "tweet": "🚨 Un inmigrante mexicano murió tras ser baleado por agentes del ICE en Texas. lCE aseguró que Lorenzo Salgado intentó atropellar a sus elementos para evitar su detención; su hijo sostiene que únicamente buscaba trabajadores cuando fue baleado. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que indique que agentes del ICE dispararon a un inmigrante mexicano en Texas. Los artículos de lagaceta mencionan un tiroteo en Texas con al menos un muerto y 11 heridos, pero no especifican la identidad del fallecido ni la participación de ICE. Por lo tanto, no hay evidencia suficiente para confirmar o refutar la afirmación.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-07 22:46"
+  },
   {
    "tweet": "🔴 ÚLTIMA HORA La Casa Blanca revela la realidad sobre la detención de inmigrantes en Estados Unidos\n\nComparte y guarda este video. \n\n#Inmigración #inmigrante #inmigrantes #immigration [enlace]",
    "claim_type": "event_claim",
