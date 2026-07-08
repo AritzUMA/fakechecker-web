@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 256,
+  "total": 257,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 202,
-  "actualizado": "2026-07-08 18:49 UTC"
+  "insufficient": 203,
+  "actualizado": "2026-07-08 18:54 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Los niños inmigrantes de segunda generación harán brillar Europa",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró ninguna fuente que afirme directamente que los niños inmigrantes de segunda generación harán brillar Europa. Los artículos citados hablan sobre la presencia de inmigrantes en escuelas, proyectos de empleabilidad para jóvenes migrantes y estadísticas sobre descendientes de inmigrantes, pero no respaldan la afirmación de que estos niños harán brillar el continente.",
+   "outlets": [],
+   "fecha": "2026-07-08 18:52"
+  },
   {
    "tweet": "no paro de pensar en esto, estudiar genética de poblaciones y migración humana me hizo menguele",
    "claim_type": "opinion",
