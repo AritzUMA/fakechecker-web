@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 254,
+  "total": 255,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 200,
-  "actualizado": "2026-07-08 18:29 UTC"
+  "insufficient": 201,
+  "actualizado": "2026-07-08 18:34 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Cada día el horror en nuestras calles es más indescriptible.\n\nEsta vez en Palos de la Frontera. Un inmigrante sembrando el pánico con un bate, destrozando un hotel, varios coches y amenazando al personal.\n\nDeportación, remigración y prioridad nacional. [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "El artículo de El Debate (2026‑06‑03) indica que los delitos de odio aumentaron un 23,6 % en 2025, lo que sugiere un incremento en la violencia urbana. Sin embargo, la evidencia no aborda directamente la percepción diaria de horror ni la intensidad de los mismos, por lo que no se puede confirmar de manera concluyente que \"cada día el horror en nuestras calles es más indescriptible\".",
+   "outlets": [
+    "El Debate"
+   ],
+   "fecha": "2026-07-08 18:33"
+  },
   {
    "tweet": "🔴  URGENTE | Un inmigrante de origen magrebí asesta una paliza de muerte y destroza la cara a una octogenaria en Santiago de la Ribera (Murcia) para robarle el bolso. [enlace]",
    "claim_type": "event_claim",
