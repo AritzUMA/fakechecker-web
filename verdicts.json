@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 266,
+  "total": 267,
   "supported": 16,
   "contradicted": 30,
-  "misleading": 7,
+  "misleading": 8,
   "outdated": 1,
   "insufficient": 212,
-  "actualizado": "2026-07-08 21:30 UTC"
+  "actualizado": "2026-07-08 21:35 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Un excomisario jefe de Inmigración desvela que el Gobierno de Sánchez pretende regularizar a seis millones de inmigrantes ilegales\n\n[enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.5,
+   "reasoning": "Si, según edatv (2026-04-23), la cifra es de medio millón, no seis millones. Además, vozpopuli (2026-04-24) indica 600.000 y 20minutos (2026-04-17) menciona medio millón. Por lo tanto, la afirmación de seis millones es exagerada.",
+   "outlets": [],
+   "fecha": "2026-07-08 21:31"
+  },
   {
    "tweet": "¿Y para cuando lo mismo con las fuerzas armadas mexicanas que masacran a migrantes por deporte?",
    "claim_type": "rhetorical",
