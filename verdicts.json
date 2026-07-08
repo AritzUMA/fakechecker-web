@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 264,
+  "total": 265,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 210,
-  "actualizado": "2026-07-08 20:35 UTC"
+  "insufficient": 211,
+  "actualizado": "2026-07-08 20:40 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "@___ El problema no es la inmigración, es la que consume sin cotizar ni integrarse.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró evidencia que respalde la afirmación de que el problema radica en los inmigrantes que consumen sin cotizar ni integrarse. Los artículos encontrados (Libertad Digital, maldita, Newtral, lagaceta) abordan aspectos de la inmigración, pero no mencionan específicamente la falta de cotización o integración como causa del problema. Si, según Libertad Digital (fecha no disponible), se discute la necesidad de seleccionar la inmigración, pero no se relaciona con la cuestión de consumo sin cotizar ni integración.",
+   "outlets": [],
+   "fecha": "2026-07-08 20:38"
+  },
   {
    "tweet": "ATERRADOR: El inmigrante bangladesí Mohammad Salahuddin violó, asesinó y descuartizó brutalmente a Anastazja Rubińska, una mujer polaca de 27 años, en una isla griega. Ya ha sido arrestado. ¿Cuánto tiempo más ignorará Europa la creciente amenaza de los islamistas radicales? [enlace]",
    "claim_type": "event_claim",
