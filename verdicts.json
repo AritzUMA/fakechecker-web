@@ -1,14 +1,27 @@
 {
  "stats": {
-  "total": 247,
-  "supported": 15,
+  "total": 248,
+  "supported": 16,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
   "insufficient": 196,
-  "actualizado": "2026-07-08 17:28 UTC"
+  "actualizado": "2026-07-08 17:33 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "¿Cómo sería Eapaña sin los trabajadores migrantes?\n\n👇🏼 [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "supported",
+   "confidence": 0.95,
+   "reasoning": "Si, según 20minutos (2026-02-13), España necesitará 2,4 millones de trabajadores en una década, lo que indica una dependencia significativa de la mano de obra migrante. Lagaceta (junio 11) señala que el 76% de los trabajadores extranjeros en la construcción provienen de fuera de la UE, representando uno de cada cuatro empleos en ese sector. Además, El_Debate (2026-06-18) afirma que la inmigración explica casi tres cuartas partes del crecimiento económico de España desde 2018. Estas fuentes demuestran que la ausencia de trabajadores migrantes tendría un impacto negativo considerable en la economía y el mercado laboral español.",
+   "outlets": [
+    "20minutos",
+    "lagaceta",
+    "El_Debate"
+   ],
+   "fecha": "2026-07-08 17:29"
+  },
   {
    "tweet": "El Supremo finalmente no llevará a la Justicia europea la regularización de migrantes [enlace]",
    "claim_type": "policy_claim",
