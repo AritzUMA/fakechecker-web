@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 269,
+  "total": 270,
   "supported": 16,
-  "contradicted": 30,
+  "contradicted": 31,
   "misleading": 8,
   "outdated": 1,
   "insufficient": 214,
-  "actualizado": "2026-07-08 22:11 UTC"
+  "actualizado": "2026-07-08 22:16 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La razón que no te habían contado para la regularización masiva de inmigrantes. [enlace]",
+   "claim_type": "opinion",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "El 3 de febrero de 2026, 20minutos publica \"Regularizar para dejar de fingir\", explicando que la medida reconoce una realidad que España lleva años viviendo y que es positiva. El 13 de febrero de 2026, 20minutos publica \"Respaldo del CES a la regularización de migrantes: España necesitará 2,4 millones de trabajadores en una década\", donde la ministra Elma Saiz señala que el Gobierno está finalizando el plan operativo de la regulación extraordinaria. Ambos artículos presentan razones explícitas que fueron comunicadas al público, lo que contradice la afirmación de que existía una razón que no se había contado.",
+   "outlets": [
+    "20minutos"
+   ],
+   "fecha": "2026-07-08 22:13"
+  },
   {
    "tweet": "Cuando los inmigrantes conviertan España en tercermundista a que país emigraran?.",
    "claim_type": "opinion",
