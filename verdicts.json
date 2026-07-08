@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 267,
+  "total": 268,
   "supported": 16,
   "contradicted": 30,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 212,
-  "actualizado": "2026-07-08 21:56 UTC"
+  "insufficient": 213,
+  "actualizado": "2026-07-08 22:01 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇮🇹‼️ | Fratelli d’Italia, el partido de derecha liderado por la Primera Ministra Giorgia Meloni, presentó ante el Parlamento un proyecto de ley para expulsar de forma inmediata a los inmigrantes convictos y endurecer la pérdida de la nacionalidad italiana. La propuesta [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "Los artículos citados (lagaceta y El País) hablan sobre la reducción de la llegada de inmigrantes ilegales y sobre debates políticos tras un incidente en Módena, pero no mencionan la presentación de un proyecto de ley con las características descritas. No se encontró ninguna fuente que confirme la existencia de dicho proyecto de ley.",
+   "outlets": [],
+   "fecha": "2026-07-08 22:00"
+  },
   {
    "tweet": "Un excomisario jefe de Inmigración desvela que el Gobierno de Sánchez pretende regularizar a seis millones de inmigrantes ilegales\n\n[enlace]",
    "claim_type": "policy_claim",
