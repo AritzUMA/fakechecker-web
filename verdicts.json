@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 271,
+  "total": 272,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 214,
-  "actualizado": "2026-07-08 22:36 UTC"
+  "insufficient": 215,
+  "actualizado": "2026-07-08 22:41 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨 ¡20 haitianos en un vehículo! Ejército de República Dominicana denuncia tráfico de migrantes \n\n🚔 El Ejército de República Dominicana interceptó un vehículo tipo SUV en la provincia de Valverde con 20 ciudadanos haitianos en condición migratoria irregular hacinados en su [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "Los artículos encontrados no mencionan la República Dominicana ni a haitianos; se refieren a incidentes migratorios en España y Libia. No hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-08 22:37"
+  },
   {
    "tweet": "Hasta los HUEVOS de que TODO esté LLENO de gente, de que las carreteras tengan atascos, de que el metro y los Cercanías parezcan la India, de que las playas, ríos y lagos estén abarrotados...\nPARA QUE LA PUTA PP-PSOE presuma de +0,0001 % de PIB\n\nSOBRAN 15 MILLONES DE INMIGRANTES.",
    "claim_type": "opinion",
