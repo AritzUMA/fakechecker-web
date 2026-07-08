@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 268,
+  "total": 269,
   "supported": 16,
   "contradicted": 30,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 213,
-  "actualizado": "2026-07-08 22:01 UTC"
+  "insufficient": 214,
+  "actualizado": "2026-07-08 22:06 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Cuando los inmigrantes conviertan España en tercermundista a que país emigraran?.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "La evidencia encontrada no aborda ni respalda la afirmación de que los inmigrantes convertirán España en un país tercermundista ni indica a qué país emigrarían en tal escenario. No se menciona ningún dato sobre la migración futura ni sobre la calidad de vida en España en el contexto de la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-08 22:06"
+  },
   {
    "tweet": "🇮🇹‼️ | Fratelli d’Italia, el partido de derecha liderado por la Primera Ministra Giorgia Meloni, presentó ante el Parlamento un proyecto de ley para expulsar de forma inmediata a los inmigrantes convictos y endurecer la pérdida de la nacionalidad italiana. La propuesta [enlace]",
    "claim_type": "opinion",
