@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 252,
+  "total": 254,
   "supported": 16,
   "contradicted": 30,
-  "misleading": 6,
+  "misleading": 7,
   "outdated": 1,
-  "insufficient": 199,
-  "actualizado": "2026-07-08 18:14 UTC"
+  "insufficient": 200,
+  "actualizado": "2026-07-08 18:19 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴  URGENTE | Un inmigrante de origen magrebí asesta una paliza de muerte y destroza la cara a una octogenaria en Santiago de la Ribera (Murcia) para robarle el bolso. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione este incidente. Los artículos disponibles tratan temas distintos: la lucha por la nacionalidad española en Argentina, robos en Málaga, arrestos en Cuenca, Toledo y Madrid, y una pelea en Italia. Dado que ninguna evidencia respalda la afirmación, no podemos confirmarla ni refutarla.",
+   "outlets": [],
+   "fecha": "2026-07-08 18:18"
+  },
+  {
+   "tweet": "🔴 ÚLTIMA HORA | Un excomisario jefe de Inmigración desvela que el Gobierno de Sánchez pretende regularizar a seis millones de inmigrantes ilegales\n\n[enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.5,
+   "reasoning": "El Gobierno de Sánchez no ha anunciado la regularización de seis millones de inmigrantes ilegales.  Según edatv (2026‑04‑23) y vozpopuli (2026‑04‑24), el plan contempla alrededor de medio millón (600 000) de beneficiarios, y edatv (2026‑05‑14) confirma que la cifra ronda el medio millón.  Estas fuentes indican una cifra mucho menor que la de seis millones, por lo que la afirmación es exagerada.",
+   "outlets": [],
+   "fecha": "2026-07-08 18:14"
+  },
   {
    "tweet": "🔴  ÚLTIMA HORA | Un excomisario jede de Inmigración de la Policía Nacional desvela que el Gobierno de Pedro Sánchez pretende regularizar en realidad a seis millones de inmigrantes ilegales. [enlace]",
    "claim_type": "policy_claim",
