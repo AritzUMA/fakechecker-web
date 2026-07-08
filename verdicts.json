@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 257,
+  "total": 258,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 203,
-  "actualizado": "2026-07-08 18:54 UTC"
+  "insufficient": 204,
+  "actualizado": "2026-07-08 18:59 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇪🇸 Inmigrante amenaza a personas con un cuchillo en Sitges, España. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que mencione un incidente de un inmigrante amenazando a personas con un cuchillo en Sitges, España. La única referencia a un ataque con cuchillo involucra a un inmigrante en Beasain, Guipúzcoa, según lagaceta (junio 13).",
+   "outlets": [],
+   "fecha": "2026-07-08 18:58"
+  },
   {
    "tweet": "Los niños inmigrantes de segunda generación harán brillar Europa",
    "claim_type": "opinion",
