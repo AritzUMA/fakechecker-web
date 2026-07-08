@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 258,
+  "total": 259,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 204,
-  "actualizado": "2026-07-08 18:59 UTC"
+  "insufficient": 205,
+  "actualizado": "2026-07-08 19:04 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "░R░E░M░I░G░R░A░C░I░Ó░N░ .\n\nUn inmigrante turco de 14 años multirreincidente asesina a puñaladas a un niño holandés de 13 años tras llevarle a una zona boscosa [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No source among the evidence provided mentions a 14‑year‑old Turkish immigrant, a 13‑year‑old Dutch victim, or a stabbing in a wooded area. The cited articles discuss unrelated incidents in Germany, Turkey, and Spain, none of which match the claim.",
+   "outlets": [],
+   "fecha": "2026-07-08 19:04"
+  },
   {
    "tweet": "🇪🇸 Inmigrante amenaza a personas con un cuchillo en Sitges, España. [enlace]",
    "claim_type": "event_claim",
