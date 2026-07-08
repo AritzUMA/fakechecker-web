@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 246,
+  "total": 247,
   "supported": 15,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 195,
-  "actualizado": "2026-07-08 17:18 UTC"
+  "insufficient": 196,
+  "actualizado": "2026-07-08 17:23 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "El Supremo finalmente no llevará a la Justicia europea la regularización de migrantes [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.55,
+   "reasoning": "La evidencia disponible indica que el Tribunal Supremo decidió no frenar la regularización extraordinaria de migrantes (Europa Press, 22 mayo), pero no menciona explícitamente que el tribunal haya decidido no llevar el asunto a la Justicia Europea. Por lo tanto, no se puede confirmar ni refutar la afirmación sobre la acción frente a la Justicia Europea.",
+   "outlets": [],
+   "fecha": "2026-07-08 17:19"
+  },
   {
    "tweet": "#ATENCION |  El Ejército dominicano interceptó en Valverde una SUV Honda donde viajaban hacinados 20 haitianos indocumentados (diez hombres, seis mujeres y cuatro menores), cuyo chofer huyó a pie. El grupo fue entregado a la Dirección General de Migración para su repatriación, [enlace]",
    "claim_type": "event_claim",
