@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 241,
+  "total": 242,
   "supported": 14,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 191,
-  "actualizado": "2026-07-08 16:18 UTC"
+  "insufficient": 192,
+  "actualizado": "2026-07-08 16:23 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "¡Basta de inmigración masiva! \n\nNi toda África ni toda América caben España.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "Los artículos citados no abordan directamente la capacidad territorial o demográfica de España respecto a África o América, ni presentan datos sobre la inmigración masiva. El primer artículo (20minutos, 2026‑02‑02) trata sobre la auditoría de nacionalidades y la postura de Vox, sin mencionar cifras de población o capacidad. El segundo (20minutos, 2026‑04‑20) se centra en la presencia del español en África, no en la capacidad de España para albergar a esos países. El tercero (elespanol, 2026‑05‑16) discute aspectos culturales de América Latina, sin datos demográficos relevantes. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-08 16:20"
+  },
   {
    "tweet": "España está en manos de un demente. ¿Tan difícil es todavía verlo?\n\nUn excomisario jefe de Inmigración desvela que el Gobierno de Sánchez pretende regularizar a seis millones de inmigrantes ilegales [enlace] via @___",
    "claim_type": "policy_claim",
