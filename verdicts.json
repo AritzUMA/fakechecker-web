@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 263,
+  "total": 264,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 209,
-  "actualizado": "2026-07-08 20:30 UTC"
+  "insufficient": 210,
+  "actualizado": "2026-07-08 20:35 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "ATERRADOR: El inmigrante bangladesí Mohammad Salahuddin violó, asesinó y descuartizó brutalmente a Anastazja Rubińska, una mujer polaca de 27 años, en una isla griega. Ya ha sido arrestado. ¿Cuánto tiempo más ignorará Europa la creciente amenaza de los islamistas radicales? [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione a Mohammad Salahuddin ni a Anastazja Rubińska, ni describa un incidente de violación, asesinato y descuartizamiento en una isla griega. Los artículos listados tratan temas distintos (activistas españoles, protestas en Grecia, etc.) y no contienen información que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-08 20:30"
+  },
   {
    "tweet": "🚨🇪🇸🚨 | ¡PÁNICO TOTAL EN HUELVA!\n\nUn inmigrante de origen africano armado con un gran palo de metal siembra el caos en Palos de la Frontera, destrozando a palazos un bar, mobiliario urbano y coches aparcados frente a clientes aterrorizados.\n\nLa Policía Local tuvo que reducirlo [enlace]",
    "claim_type": "event_claim",
