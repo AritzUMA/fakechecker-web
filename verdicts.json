@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 261,
+  "total": 262,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 207,
-  "actualizado": "2026-07-08 19:34 UTC"
+  "insufficient": 208,
+  "actualizado": "2026-07-08 19:39 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴El Supremo cierra la puerta a llevar a Europa el decreto de regularización de migrantes [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que indique que el Tribunal Supremo haya bloqueado o cerrado la puerta al decreto de regularización de migrantes para su aplicación en Europa. Los artículos citados tratan sobre advertencias de Bruselas, la política migratoria de la UE, cuestiones legales de la Ley de Extranjería y la implementación del plan de regularización, pero no mencionan una decisión del Supremo que impida su aplicación en Europa.",
+   "outlets": [],
+   "fecha": "2026-07-08 19:36"
+  },
   {
    "tweet": "Los enemigos de Feijoo son los inmigrantes sin papeles y los trabajadores que se cogen bazas.",
    "claim_type": "rhetorical",
