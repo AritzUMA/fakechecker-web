@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 240,
+  "total": 241,
   "supported": 14,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 190,
-  "actualizado": "2026-07-08 15:27 UTC"
+  "insufficient": 191,
+  "actualizado": "2026-07-08 15:32 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "España está en manos de un demente. ¿Tan difícil es todavía verlo?\n\nUn excomisario jefe de Inmigración desvela que el Gobierno de Sánchez pretende regularizar a seis millones de inmigrantes ilegales [enlace] via @___",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-08 15:27"
+  },
   {
    "tweet": "Un agente del ICE mata a tiros a un migrante mexicano en Houston\n[enlace]",
    "claim_type": "event_claim",
