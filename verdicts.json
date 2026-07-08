@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 248,
+  "total": 249,
   "supported": 16,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 196,
-  "actualizado": "2026-07-08 17:33 UTC"
+  "insufficient": 197,
+  "actualizado": "2026-07-08 17:38 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Un ciudadano mexicano fue abatido a tiros ayer por un agente del Servicio de Control de Inmigración y Aduanas (ICE, por sus siglas en inglés) en Houston durante un intento de detención en un operativo de tránsito migratorio, informó el Departamento de Seguridad Interior.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que mencione la muerte de un ciudadano mexicano en Houston por un agente del Servicio de Control de Inmigración y Aduanas (ICE). Los artículos disponibles (20minutos, 2026-01-09; 2026-02-01; 2026-01-14) describen incidentes en Portland, Minnesota y Los Ángeles, pero no en Houston ni con un ciudadano mexicano.",
+   "outlets": [],
+   "fecha": "2026-07-08 17:34"
+  },
   {
    "tweet": "¿Cómo sería Eapaña sin los trabajadores migrantes?\n\n👇🏼 [enlace]",
    "claim_type": "policy_claim",
