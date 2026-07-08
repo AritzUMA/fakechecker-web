@@ -1,14 +1,28 @@
 {
  "stats": {
-  "total": 270,
+  "total": 271,
   "supported": 16,
-  "contradicted": 31,
+  "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
   "insufficient": 214,
-  "actualizado": "2026-07-08 22:16 UTC"
+  "actualizado": "2026-07-08 22:21 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Hasta los HUEVOS de que TODO esté LLENO de gente, de que las carreteras tengan atascos, de que el metro y los Cercanías parezcan la India, de que las playas, ríos y lagos estén abarrotados...\nPARA QUE LA PUTA PP-PSOE presuma de +0,0001 % de PIB\n\nSOBRAN 15 MILLONES DE INMIGRANTES.",
+   "claim_type": "opinion",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "La_Vanguardia",
+    "20minutos",
+    "lagaceta",
+    "La_Razón"
+   ],
+   "fecha": "2026-07-08 22:20"
+  },
   {
    "tweet": "La razón que no te habían contado para la regularización masiva de inmigrantes. [enlace]",
    "claim_type": "opinion",
