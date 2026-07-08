@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 272,
+  "total": 273,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 215,
-  "actualizado": "2026-07-08 22:56 UTC"
+  "insufficient": 216,
+  "actualizado": "2026-07-08 23:01 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "El Supremo confirma que es ilegal devolver en caliente a inmigrantes llegados por mar. \n\n[enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que confirme que el Tribunal Supremo haya declarado ilegal la devolución en caliente de inmigrantes llegados por mar. Los artículos encontrados tratan sobre la regularización extraordinaria de migrantes y un caso de naufragio, no sobre la devolución en caliente.",
+   "outlets": [],
+   "fecha": "2026-07-08 22:57"
+  },
   {
    "tweet": "🚨 ¡20 haitianos en un vehículo! Ejército de República Dominicana denuncia tráfico de migrantes \n\n🚔 El Ejército de República Dominicana interceptó un vehículo tipo SUV en la provincia de Valverde con 20 ciudadanos haitianos en condición migratoria irregular hacinados en su [enlace]",
    "claim_type": "opinion",
