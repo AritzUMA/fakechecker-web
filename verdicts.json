@@ -1,14 +1,26 @@
 {
  "stats": {
-  "total": 251,
+  "total": 252,
   "supported": 16,
   "contradicted": 30,
-  "misleading": 5,
+  "misleading": 6,
   "outdated": 1,
   "insufficient": 199,
-  "actualizado": "2026-07-08 18:04 UTC"
+  "actualizado": "2026-07-08 18:09 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴  ÚLTIMA HORA | Un excomisario jede de Inmigración de la Policía Nacional desvela que el Gobierno de Pedro Sánchez pretende regularizar en realidad a seis millones de inmigrantes ilegales. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.92,
+   "reasoning": "El artículo de vozpopuli (2026‑04‑24) indica que la regularización masiva de Sánchez eleva hasta 600.000 los inmigrantes en la Comunidad Valenciana, no seis millones. Tampoco el informe de edatv (2026‑04‑23) menciona cifras cercanas a los seis millones; su contenido sugiere una cifra mucho menor. Por lo tanto, la afirmación de que el Gobierno pretende regularizar seis millones de inmigrantes ilegales está exagerada.",
+   "outlets": [
+    "vozpopuli",
+    "edatv"
+   ],
+   "fecha": "2026-07-08 18:08"
+  },
   {
    "tweet": "La inmigración ilegal y las mafias transnacionales siguen afectando la seguridad del Perú. El gobierno de Keiko Fujimori deberá recuperar el control de las fronteras y enfrentar con firmeza al crimen organizado, Es prioridad.  [enlace]",
    "claim_type": "policy_claim",
