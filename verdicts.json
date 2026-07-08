@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 245,
+  "total": 246,
   "supported": 15,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 194,
-  "actualizado": "2026-07-08 17:13 UTC"
+  "insufficient": 195,
+  "actualizado": "2026-07-08 17:18 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#ATENCION |  El Ejército dominicano interceptó en Valverde una SUV Honda donde viajaban hacinados 20 haitianos indocumentados (diez hombres, seis mujeres y cuatro menores), cuyo chofer huyó a pie. El grupo fue entregado a la Dirección General de Migración para su repatriación, [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione la interceptación del Ejército dominicano en Valverde con una SUV Honda y 20 haitianos indocumentados. Los artículos encontrados tratan temas distintos y no hacen referencia a la situación descrita.",
+   "outlets": [],
+   "fecha": "2026-07-08 17:14"
+  },
   {
    "tweet": "‼️🇪🇸 | Un excomisario jefe de Inmigración de la Policía Nacional desvela que el Gobierno de Pedro Sánchez pretende regularizar en realidad a seis millones de inmigrantes ilegales, según declaró el exmando policial. [enlace]",
    "claim_type": "policy_claim",
