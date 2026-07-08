@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 250,
+  "total": 251,
   "supported": 16,
   "contradicted": 30,
   "misleading": 5,
   "outdated": 1,
-  "insufficient": 198,
-  "actualizado": "2026-07-08 17:59 UTC"
+  "insufficient": 199,
+  "actualizado": "2026-07-08 18:04 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La inmigración ilegal y las mafias transnacionales siguen afectando la seguridad del Perú. El gobierno de Keiko Fujimori deberá recuperar el control de las fronteras y enfrentar con firmeza al crimen organizado, Es prioridad.  [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "El artículo de lagaceta (junio 1, 2) indica que Keiko Fujimori prioriza la seguridad ciudadana y se compromete a combatir a los delincuentes, lo que respalda parcialmente la parte de la afirmación sobre enfrentar al crimen organizado. No obstante, no se menciona nada sobre la recuperación del control de las fronteras, por lo que la evidencia no es suficiente para confirmar la totalidad de la afirmación.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-08 18:01"
+  },
   {
    "tweet": "🚨🇩🇪☪️ | LIQUIDADOS: La Policía de Hamburgo se vio desbordada ante un grupo de inmigrantes musulmanes que los atacó mientras intentaban detener a uno de ellos por abusar sexualmente de una menor [enlace]",
    "claim_type": "event_claim",
