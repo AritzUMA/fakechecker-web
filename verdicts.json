@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 260,
+  "total": 261,
   "supported": 16,
   "contradicted": 30,
   "misleading": 7,
   "outdated": 1,
-  "insufficient": 206,
-  "actualizado": "2026-07-08 19:19 UTC"
+  "insufficient": 207,
+  "actualizado": "2026-07-08 19:24 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Los enemigos de Feijoo son los inmigrantes sin papeles y los trabajadores que se cogen bazas.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Feijoo ni que identifique a los inmigrantes sin papeles o a los trabajadores que se cogen basas como sus enemigos. Los artículos citados tratan temas laborales y migratorios, pero no hacen referencia a Feijoo ni a sus adversarios.",
+   "outlets": [],
+   "fecha": "2026-07-08 19:24"
+  },
   {
    "tweet": "Desalojos, miseria, desempleo, hambre, desesperanza, odio, amargura, pobreza, corrupción, privatización, miedo, persecución, tragedias, destrucción de lo público, migración, exilio, destierro, todo más caro como nunca antes… todo eso y levantarse todos los días esperando lo",
    "claim_type": "rhetorical",
