@@ -1,42 +1,71 @@
 {
  "stats": {
-  "total": 283,
+  "total": 286,
   "supported": 16,
-  "contradicted": 32,
+  "contradicted": 34,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 226,
-  "actualizado": "2026-07-09 14:59 UTC"
+  "insufficient": 227,
+  "actualizado": "2026-07-09 22:29 UTC"
  },
  "verdicts": [
   {
-   "tweet": "‼️Exigimos deportación, reemigración y prioridad nacional.\n\nLas políticas del bipartidismo están fomentando la inmigración ilegal y la inseguridad en nuestros barrios.\n\nMientras aumenta la delincuencia, la única respuesta del Gobierno regional ha sido pedir más fondos a Pedro [enlace]",
-   "claim_type": "policy_claim",
-   "verdict": "insufficient_evidence",
-   "confidence": 0.9,
-   "reasoning": "La evidencia proporcionada se refiere a un cartel de Vox y a acusaciones de hostilidad y discriminación por parte de ese partido, pero no menciona ni analiza las políticas del bipartidismo en general ni su relación con la inmigración ilegal o la inseguridad. Por lo tanto, no se puede confirmar ni refutar la afirmación con la información disponible.",
-   "outlets": [
-    "El_Pais"
-   ],
-   "fecha": "2026-07-09 14:46"
-  },
-  {
-   "tweet": "Me cuenta una profesora que están llegando alumnos inmigrantes extraeuropeos a Francia vía España.\n\nSomos el coladero de Europa.",
+   "tweet": "Estamos a niveles de la India, con infraestructura de Sudáfrica e inmigrantes de Hispanoamérica. \n\nEspaña no puede más.",
    "claim_type": "opinion",
    "verdict": "insufficient_evidence",
-   "confidence": 0.3,
-   "reasoning": "No se encontró evidencia directa que respalde la afirmación de que estudiantes inmigrantes extraeuropeos llegan a Francia vía España. Los fragmentos recuperados de \"desdelamoncloa\" (Dec. 18) se refieren a estadísticas generales de migrantes en España, pero no mencionan a estudiantes ni a rutas hacia Francia.",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que respalde la afirmación de que España está al nivel de India, con infraestructura similar a Sudáfrica y con inmigrantes de Hispanoamérica. Los artículos citados tratan sobre la infraestructura española, la situación migratoria en España y la presencia de hispanohablantes en la UE, pero no comparan directamente a España con India o Sudáfrica ni mencionan inmigrantes de Hispanoamérica como tal.",
    "outlets": [],
-   "fecha": "2026-07-09 13:40"
+   "fecha": "2026-07-09 22:27"
+  },
+  {
+   "tweet": "La prioridad de bajar sueldos a españoles y mucho españoles…porque el médico les da la baja… primero vinieron a por lo inmigrantes…",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que respalde la afirmación de que existe una prioridad para bajar sueldos a españoles ni que los médicos estén relacionados con la concesión de bajas laborales en ese contexto. Los artículos citados (El Independiente y 20minutos) se centran únicamente en el aumento de bajas médicas y no mencionan políticas salariales ni discriminación por nacionalidad. Por lo tanto, no hay datos que confirmen ni refuten la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 21:28"
+  },
+  {
+   "tweet": "ATERRADOR: El inmigrante bangladesí Mohammad Salahuddin violó, asesinó y descuartizó brutalmente a Anastazja Rubińska, una mujer polaca de 27 años, en una isla griega. Ya ha sido arrestado. ¿Cuánto tiempo más ignorará Europa la creciente amenaza de los islamistas radicales? [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione este evento. Los artículos encontrados no tratan sobre este tema.",
+   "outlets": [],
+   "fecha": "2026-07-09 21:23"
+  },
+  {
+   "tweet": "🚨🇬🇧 | ESCÁNDALO HISTÓRICO: El Reino Unido concedió asilo al inmigrante que intentó degollar a un hombre en Belfast, aunque las propias autoridades admitieron que todavía no saben cuál es su verdadera nacionalidad.\n\nEl acusado obtuvo el estatus de refugiado y un permiso de [enlace]",
+   "claim_type": "opinion",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-09 21:16"
   },
   {
    "tweet": "Gran artículo de @___ al hilo del reconocimiento por el gobierno de que en cuatro años el 42% de los inmigrantes estarán en riesgo de exclusión. \n\nEspaña no puede seguir teniendo una política migratoria pasiva, basada en permitir la immigración ilegal y luego regularizaciones",
-   "claim_type": "opinion",
+   "claim_type": "policy_claim",
    "verdict": "insufficient_evidence",
-   "confidence": 0.5,
-   "reasoning": "No se encontró evidencia disponible para confirmar ni refutar la afirmación.",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione el 42 % de inmigrantes en riesgo de exclusión en cuatro años. Los artículos citados tratan sobre la regularización masiva, el aumento de autorizaciones de residencia y la exclusión social de ciertos grupos, pero no incluyen la cifra ni el plazo de cuatro años referidos en la afirmación.",
    "outlets": [],
-   "fecha": "2026-07-09 13:26"
+   "fecha": "2026-07-09 16:45"
+  },
+  {
+   "tweet": "El paro bajó un 3% según el INE",
+   "claim_type": "statistical_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "El INE informó que el paro cayó 36 323 personas en mayo, lo que representa una caída del 1,5 % respecto al mes anterior, no del 3 %. Según los datos de rtve, Europa Press y El Debate, la variación fue de -1,5 % y no de -3 %.",
+   "outlets": [
+    "rtve",
+    "Europa Press",
+    "El Debate"
+   ],
+   "fecha": "2026-07-09 16:20"
   },
   {
    "tweet": "🇯🇵 Japón está haciendo que la inmigración musulmana sea muy difícil:\n\n- No hay privilegios especiales halal. Deben cocinar su propia comida\n\n- Construir mezquitas es casi imposible\n\n- Las llamadas públicas a la oración y las oraciones en la calle están prohibidas\n\n¿Qué opinas? 🤔 [enlace]",
