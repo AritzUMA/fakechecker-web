@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 278,
+  "total": 279,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 221,
-  "actualizado": "2026-07-09 08:31 UTC"
+  "insufficient": 222,
+  "actualizado": "2026-07-09 08:36 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Esto es lo que hay, señores, inmigración ilegal, y esto TODOS LOS DÍAS.\nY esto, señores, por más que algunos demagogos populistas pretendáis aceptarlo, es lo que está hundiendo, destruyendo y arruinando España. Algún día lo lamentaréis. Pero puede que entonces ya sea tarde. [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "Si, según lagaceta (mayo 3, 2020), España es el principal destino de la inmigración ilegal por vía aérea, terrestre y marítima, pero la evidencia no indica que la inmigración sea diaria ni que esté arruinando España. No se encuentra información que respalde la afirmación de que la inmigración ilegal esté hundiendo, destruyendo y arruinando España.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-09 08:31"
+  },
   {
    "tweet": "Inmigración ruinosa.",
    "claim_type": "policy_claim",
