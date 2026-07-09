@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 284,
+  "total": 285,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 227,
-  "actualizado": "2026-07-09 16:10 UTC"
+  "insufficient": 228,
+  "actualizado": "2026-07-09 16:15 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "“¡Me están matando!”: el grito de un inmigrante mexicano baleado y asesinado por el ICE que conmocionó a una comunidad de Houston [enlace] a través de @___",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione un incidente de un inmigrante mexicano baleado y asesinado por ICE en Houston. Los artículos encontrados describen tiroteos en Dallas (20minutos, 2025‑09‑24) y Portland (20minutos, 2026‑01‑09), pero no en Houston y no con un inmigrante mexicano.",
+   "outlets": [],
+   "fecha": "2026-07-09 16:13"
+  },
   {
    "tweet": "La prioridad de bajar sueldos a españoles y mucho españoles…porque el médico les da la baja… primero vinieron a por lo inmigrantes…",
    "claim_type": "rhetorical",
