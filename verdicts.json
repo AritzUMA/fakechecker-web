@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 288,
+  "total": 289,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 231,
-  "actualizado": "2026-07-09 19:52 UTC"
+  "insufficient": 232,
+  "actualizado": "2026-07-09 19:57 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Es uno de los sectores donde más inmigrantes hay.  A ver si la gente ata cabos.",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-09 19:55"
+  },
   {
    "tweet": "Estamos a niveles de la India, con infraestructura de Sudáfrica e inmigrantes de Hispanoamérica. \n\nEspaña no puede más.",
    "claim_type": "opinion",
