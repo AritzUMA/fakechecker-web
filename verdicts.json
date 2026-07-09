@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 290,
+  "total": 292,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 233,
-  "actualizado": "2026-07-09 21:28 UTC"
+  "insufficient": 235,
+  "actualizado": "2026-07-09 21:33 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇺🇸🇮🇪 | NO FALLA: Una activista pro-inmigración estadounidense fue asesinada en Irlanda por su pareja, un inmigrante ilegal musulmán.\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia a tal evento en las fuentes disponibles. Los artículos citados tratan sobre disturbios en Belfast y la actividad de Tommy Robinson, sin mencionar a una activista estadounidense ni a un asesinato por parte de un inmigrante ilegal musulmán.",
+   "outlets": [],
+   "fecha": "2026-07-09 21:31"
+  },
+  {
+   "tweet": "ATERRADOR: El inmigrante bangladesí Mohammad Salahuddin violó, asesinó y descuartizó brutalmente a Anastazja Rubińska, una mujer polaca de 27 años, en una isla griega. Ya ha sido arrestado. ¿Cuánto tiempo más ignorará Europa la creciente amenaza de los islamistas radicales? [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No una de las fuentes citadas menciona a Mohammad Salahuddin, a Anastazja Rubińska ni a un incidente de violación, asesinato y descuartizamiento en una isla griega. Los artículos listados tratan temas distintos (un ataque en Esplugues de Llobregat, la condena de la primera ministra de Bangladés, y comentarios políticos en Baleares). Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 21:28"
+  },
   {
    "tweet": "🚨🇬🇧 | ESCÁNDALO HISTÓRICO: El Reino Unido concedió asilo al inmigrante que intentó degollar a un hombre en Belfast, aunque las propias autoridades admitieron que todavía no saben cuál es su verdadera nacionalidad.\n\nEl acusado obtuvo el estatus de refugiado y un permiso de [enlace]",
    "claim_type": "statistical_claim",
