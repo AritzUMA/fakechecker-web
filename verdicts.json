@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 274,
+  "total": 275,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 217,
-  "actualizado": "2026-07-09 01:42 UTC"
+  "insufficient": 218,
+  "actualizado": "2026-07-09 01:47 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇬🇧 | PAÍS TERMINADO: Se viraliza el video grabado por una cámara de seguridad que captó cómo un inmigrante africano atacó a un niño británico de primaria en la ciudad de Whitworth, y luego amenazó con apuñalar a una mujer mientras ella se acercaba a asistir al menor. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No fuente encontrada que describa un video de una cámara de seguridad en Whitworth donde un inmigrante africano atacó a un niño británico de primaria y luego amenazó con apuñalar a una mujer. Los artículos disponibles tratan sobre el caso de Henry Nowak y no mencionan la ciudad de Whitworth ni la situación descrita.",
+   "outlets": [],
+   "fecha": "2026-07-09 01:44"
+  },
   {
    "tweet": "Un migrante de origen mexicano murió este martes tras recibir un disparo de un agente del Servicio de Inmigración y Aduanas, durante un operativo para capturarlo, implementado en la ciudad de Houston, Texas\n[enlace]",
    "claim_type": "event_claim",
