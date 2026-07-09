@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 282,
+  "total": 283,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 225,
-  "actualizado": "2026-07-09 14:44 UTC"
+  "insufficient": 226,
+  "actualizado": "2026-07-09 14:49 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "‼️Exigimos deportación, reemigración y prioridad nacional.\n\nLas políticas del bipartidismo están fomentando la inmigración ilegal y la inseguridad en nuestros barrios.\n\nMientras aumenta la delincuencia, la única respuesta del Gobierno regional ha sido pedir más fondos a Pedro [enlace]",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "La evidencia proporcionada se refiere a un cartel de Vox y a acusaciones de hostilidad y discriminación por parte de ese partido, pero no menciona ni analiza las políticas del bipartidismo en general ni su relación con la inmigración ilegal o la inseguridad. Por lo tanto, no se puede confirmar ni refutar la afirmación con la información disponible.",
+   "outlets": [
+    "El_Pais"
+   ],
+   "fecha": "2026-07-09 14:46"
+  },
   {
    "tweet": "Me cuenta una profesora que están llegando alumnos inmigrantes extraeuropeos a Francia vía España.\n\nSomos el coladero de Europa.",
    "claim_type": "opinion",
