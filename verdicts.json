@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 276,
+  "total": 277,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 219,
-  "actualizado": "2026-07-09 04:14 UTC"
+  "insufficient": 220,
+  "actualizado": "2026-07-09 04:19 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇺🇸🇭🇹 | IMPORTAN ASESINOS: Valmir Djempsley, un inmigrante ilegal haitiano admitido por los demócratas, fue arrestó por el ICE de Trump por asesinar a su compañero de trabajo con un cuchillo en Coldwater, Michigan. Djempsley entró en el país bajo un TPS como miles de inmigrantes [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Valmir Djempsley, su estatus migratorio, la acusación de asesinato con cuchillo ni su arresto por ICE en Coldwater, Michigan. Los artículos listados tratan sobre agentes de ICE y casos de disparos, pero no contienen información que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 04:15"
+  },
   {
    "tweet": "‼️🇪🇸 | Golpe judicial al control fronterizo: el Supremo impide rechazar en frontera a los inmigrantes que entran a nado en Ceuta y Melilla. Según el Alto Tribunal se les debe aplicar el procedimiento ordinario de devolución mientras el Gobierno de Sánchez mantiene las fronteras [enlace]",
    "claim_type": "policy_claim",
