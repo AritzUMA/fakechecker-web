@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 289,
+  "total": 291,
   "supported": 16,
   "contradicted": 34,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 230,
-  "actualizado": "2026-07-09 22:37 UTC"
+  "insufficient": 232,
+  "actualizado": "2026-07-09 22:43 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "En la situación actual, si se construyen 1 millón de viviendas nos meterán 5 millones de inmigrantes más.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que relacione la construcción de 1 millón de viviendas con la llegada de 5 millones de inmigrantes. Los artículos citados hablan de la situación de vivienda y migración en España, pero no establecen tal relación ni la cuantifican. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 22:42"
+  },
+  {
+   "tweet": "Manifestantes en Houston piden justicia luego de que ICE abatió al migrante mexicano Lorenzo Salgado.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione manifestaciones en Houston, la muerte de Lorenzo Salgado ni la intervención de ICE en este caso. Los artículos disponibles tratan temas distintos, como narcotráfico y protestas en Minnesota, sin relación con la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 22:40"
+  },
   {
    "tweet": "ICE asesinó a otro migrante ayer: Lorenzo Salgado, padre de tres, que estaba escuchando música al frente de su casa.",
    "claim_type": "statistical_claim",
