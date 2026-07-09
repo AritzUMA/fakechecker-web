@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 273,
+  "total": 274,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 216,
-  "actualizado": "2026-07-09 00:17 UTC"
+  "insufficient": 217,
+  "actualizado": "2026-07-09 00:22 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Un migrante de origen mexicano murió este martes tras recibir un disparo de un agente del Servicio de Inmigración y Aduanas, durante un operativo para capturarlo, implementado en la ciudad de Houston, Texas\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme que un migrante mexicano haya muerto a causa de un disparo de un agente de ICE durante un operativo de captura el martes. La única evidencia disponible menciona un tiroteo en una oficina de ICE en Dallas (20minutos, 2025‑09‑24) con al menos un muerto, pero no especifica la nacionalidad del fallecido ni la fecha exacta del incidente. Tampoco hay reportes que indiquen un operativo de captura ni que el fallecido fuera mexicano. Por lo tanto, la evidencia actual es insuficiente para respaldar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 00:20"
+  },
   {
    "tweet": "El Supremo confirma que es ilegal devolver en caliente a inmigrantes llegados por mar. \n\n[enlace]",
    "claim_type": "policy_claim",
