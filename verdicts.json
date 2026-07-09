@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 289,
+  "total": 290,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 232,
-  "actualizado": "2026-07-09 20:27 UTC"
+  "insufficient": 233,
+  "actualizado": "2026-07-09 20:32 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇬🇧 | ESCÁNDALO HISTÓRICO: El Reino Unido concedió asilo al inmigrante que intentó degollar a un hombre en Belfast, aunque las propias autoridades admitieron que todavía no saben cuál es su verdadera nacionalidad.\n\nEl acusado obtuvo el estatus de refugiado y un permiso de [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-09 20:31"
+  },
   {
    "tweet": "Es uno de los sectores donde más inmigrantes hay.  A ver si la gente ata cabos.",
    "claim_type": "rhetorical",
