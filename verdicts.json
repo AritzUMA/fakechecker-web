@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 283,
+  "total": 284,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 226,
-  "actualizado": "2026-07-09 16:05 UTC"
+  "insufficient": 227,
+  "actualizado": "2026-07-09 16:10 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La prioridad de bajar sueldos a españoles y mucho españoles…porque el médico les da la baja… primero vinieron a por lo inmigrantes…",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.7,
+   "reasoning": "No de los artículos citados (20minutos, elespanol, Newtral) se menciona una política de bajar sueldos a españoles ni que los médicos otorguen bajas con ese objetivo. Los textos se centran en la incidencia de bajas médicas y en la situación de empleo, sin relación con la afirmación. Por lo tanto, no hay evidencia que respalde la declaración.",
+   "outlets": [],
+   "fecha": "2026-07-09 16:07"
+  },
   {
    "tweet": "‼️Exigimos deportación, reemigración y prioridad nacional.\n\nLas políticas del bipartidismo están fomentando la inmigración ilegal y la inseguridad en nuestros barrios.\n\nMientras aumenta la delincuencia, la única respuesta del Gobierno regional ha sido pedir más fondos a Pedro [enlace]",
    "claim_type": "policy_claim",
