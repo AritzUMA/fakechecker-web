@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 280,
+  "total": 281,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 223,
-  "actualizado": "2026-07-09 13:23 UTC"
+  "insufficient": 224,
+  "actualizado": "2026-07-09 13:28 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Gran artículo de @___ al hilo del reconocimiento por el gobierno de que en cuatro años el 42% de los inmigrantes estarán en riesgo de exclusión. \n\nEspaña no puede seguir teniendo una política migratoria pasiva, basada en permitir la immigración ilegal y luego regularizaciones",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró evidencia disponible para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 13:26"
+  },
   {
    "tweet": "🇯🇵 Japón está haciendo que la inmigración musulmana sea muy difícil:\n\n- No hay privilegios especiales halal. Deben cocinar su propia comida\n\n- Construir mezquitas es casi imposible\n\n- Las llamadas públicas a la oración y las oraciones en la calle están prohibidas\n\n¿Qué opinas? 🤔 [enlace]",
    "claim_type": "opinion",
