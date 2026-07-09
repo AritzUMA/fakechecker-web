@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 277,
+  "total": 278,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 220,
-  "actualizado": "2026-07-09 05:04 UTC"
+  "insufficient": 221,
+  "actualizado": "2026-07-09 05:09 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Inmigración ruinosa.",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "La evidencia encontrada se refiere a rumores antiinmigración y estafas en la regularización extraordinaria de inmigrantes, pero no aborda de manera directa ni cuantitativa el impacto general de la inmigración en la sociedad o la economía. Por lo tanto, no se puede confirmar ni refutar la afirmación de que la inmigración es ruinosa. Si, según Newtral (19 Apr 2024), se menciona la difusión de bulos antiinmigración, y según Newtral (25 Apr 2024), se habla de estafas en la regularización, pero ninguno de los dos aporta datos que sustenten la idea de que la inmigración sea ruinosa.",
+   "outlets": [
+    "Newtral"
+   ],
+   "fecha": "2026-07-09 05:06"
+  },
   {
    "tweet": "🚨🇺🇸🇭🇹 | IMPORTAN ASESINOS: Valmir Djempsley, un inmigrante ilegal haitiano admitido por los demócratas, fue arrestó por el ICE de Trump por asesinar a su compañero de trabajo con un cuchillo en Coldwater, Michigan. Djempsley entró en el país bajo un TPS como miles de inmigrantes [enlace]",
    "claim_type": "event_claim",
