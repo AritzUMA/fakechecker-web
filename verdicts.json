@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 286,
+  "total": 287,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 229,
-  "actualizado": "2026-07-09 18:46 UTC"
+  "insufficient": 230,
+  "actualizado": "2026-07-09 18:51 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "España está peor que Francia en cuanto a inmigración extraeuropea.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-09 18:50"
+  },
   {
    "tweet": "En la situación actual, si se construyen 1 millón de viviendas nos meterán 5 millones de inmigrantes más.",
    "claim_type": "statistical_claim",
