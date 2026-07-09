@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 285,
+  "total": 286,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 228,
-  "actualizado": "2026-07-09 18:11 UTC"
+  "insufficient": 229,
+  "actualizado": "2026-07-09 18:16 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "En la situación actual, si se construyen 1 millón de viviendas nos meterán 5 millones de inmigrantes más.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que establezca una relación causal entre la construcción de 1 millón de viviendas y la llegada de 5 millones de inmigrantes. Los artículos citados (20minutos, abc, El Debate, El Periódico) informan sobre el número de inmigrantes que llegan a España y sobre el déficit de vivienda, pero no indican que la construcción de nuevas viviendas atraiga a un número específico de inmigrantes. Por lo tanto, la evidencia disponible no respalda la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-09 18:13"
+  },
   {
    "tweet": "“¡Me están matando!”: el grito de un inmigrante mexicano baleado y asesinado por el ICE que conmocionó a una comunidad de Houston [enlace] a través de @___",
    "claim_type": "statistical_claim",
