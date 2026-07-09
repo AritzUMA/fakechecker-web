@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 287,
+  "total": 288,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 230,
-  "actualizado": "2026-07-09 19:32 UTC"
+  "insufficient": 231,
+  "actualizado": "2026-07-09 19:37 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Estamos a niveles de la India, con infraestructura de Sudáfrica e inmigrantes de Hispanoamérica. \n\nEspaña no puede más.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "La evidencia encontrada no aborda ni confirma la comparación de niveles con India, ni la infraestructura de Sudáfrica, ni la presencia de inmigrantes de Hispanoamérica. El primer fragmento menciona un vídeo grabado en India, pero no relaciona ese hecho con niveles de infraestructura o inmigración. El segundo fragmento habla sobre la estabilidad de la origen de inmigración en municipios españoles, sin referencia a India, Sudáfrica o Hispanoamérica. Por lo tanto, no hay datos que respalden la afirmación.",
+   "outlets": [
+    "Newtral"
+   ],
+   "fecha": "2026-07-09 19:35"
+  },
   {
    "tweet": "España está peor que Francia en cuanto a inmigración extraeuropea.",
    "claim_type": "statistical_claim",
