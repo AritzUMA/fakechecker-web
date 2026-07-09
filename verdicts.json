@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 279,
+  "total": 280,
   "supported": 16,
   "contradicted": 32,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 222,
-  "actualizado": "2026-07-09 11:17 UTC"
+  "insufficient": 223,
+  "actualizado": "2026-07-09 11:22 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇯🇵 Japón está haciendo que la inmigración musulmana sea muy difícil:\n\n- No hay privilegios especiales halal. Deben cocinar su propia comida\n\n- Construir mezquitas es casi imposible\n\n- Las llamadas públicas a la oración y las oraciones en la calle están prohibidas\n\n¿Qué opinas? 🤔 [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró evidencia que respalde ni contradiga la afirmación. Los intentos de búsqueda fallaron y los resultados disponibles no abordan el tema.",
+   "outlets": [],
+   "fecha": "2026-07-09 11:21"
+  },
   {
    "tweet": "Esto es lo que hay, señores, inmigración ilegal, y esto TODOS LOS DÍAS.\nY esto, señores, por más que algunos demagogos populistas pretendáis aceptarlo, es lo que está hundiendo, destruyendo y arruinando España. Algún día lo lamentaréis. Pero puede que entonces ya sea tarde. [enlace]",
    "claim_type": "policy_claim",
