@@ -1,14 +1,35 @@
 {
  "stats": {
-  "total": 291,
-  "supported": 16,
+  "total": 293,
+  "supported": 17,
   "contradicted": 34,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 232,
-  "actualizado": "2026-07-09 22:43 UTC"
+  "insufficient": 233,
+  "actualizado": "2026-07-09 22:48 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Es uno de los sectores donde más inmigrantes hay.  A ver si la gente ata cabos.",
+   "claim_type": "rhetorical",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Sí, según Lagaceta (21 junio) se indica que la hostelería es el gran refugio laboral de los inmigrantes, con más de 600.000 extranjeros trabajando en el sector, lo que demuestra que es uno de los sectores con mayor presencia de inmigrantes. Además, según OKDiario (11 junio 2026) los trabajadores extranjeros en la construcción aumentaron un 10% en 2025, con el 76% proveniente de fuera de la UE, lo que también indica una alta presencia de inmigrantes en ese sector.",
+   "outlets": [],
+   "fecha": "2026-07-09 22:47"
+  },
+  {
+   "tweet": "España está peor que Francia en cuanto a inmigración extraeuropea.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "Los artículos citados (theobjective 2026‑05‑27 y 2026‑04‑23, Libertad Digital 2022‑04‑21) describen la posición de España como líder en inmigración dentro de la UE, pero no proporcionan datos comparativos con Francia ni indican que España esté peor que Francia en cuanto a inmigración extraeuropea. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [
+    "theobjective",
+    "Libertad Digital"
+   ],
+   "fecha": "2026-07-09 22:44"
+  },
   {
    "tweet": "En la situación actual, si se construyen 1 millón de viviendas nos meterán 5 millones de inmigrantes más.",
    "claim_type": "statistical_claim",
