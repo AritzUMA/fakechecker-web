@@ -1,14 +1,34 @@
 {
  "stats": {
-  "total": 301,
+  "total": 303,
   "supported": 17,
   "contradicted": 35,
-  "misleading": 9,
+  "misleading": 10,
   "outdated": 1,
-  "insufficient": 239,
-  "actualizado": "2026-07-10 16:27 UTC"
+  "insufficient": 240,
+  "actualizado": "2026-07-10 16:32 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "En España os dicen que tenéis 10% de inmigración y solo en panchitos veo 8000%",
+   "claim_type": "statistical_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.92,
+   "reasoning": "Si, según 20minutos (2025‑12‑02), la población de España crece en más de 500.000 personas por inmigración, pero el artículo no menciona un 10 % de inmigración ni un 8000 % en panchitos. Tampoco ninguna de las fuentes citadas indica que la inmigración alcance 8000 % en ninguna zona. Por lo tanto, la afirmación de 8000 % es claramente exagerada e infundada, aunque la cifra de 10 % de población extranjera es aproximada a la realidad estadística.",
+   "outlets": [],
+   "fecha": "2026-07-10 16:32"
+  },
+  {
+   "tweet": "Detenido inmigrante argelino multirreincedente que se dedicaba a asaltar a ancianas con la técnica del mataleón para robarles. Se le acusa de estrangular a 7 ancianas dentro de los portales de sus viviendas de Madrid para desvalijarlas.\nTenía un largo listado de antecedentes",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "El artículo de Libertad Digital menciona a un hombre de 32 años detenido por asaltar a personas mayores con la técnica del mataleón, pero no indica su origen argelino, su historial de reincidencia, ni que haya estrangulado a 7 ancianas en Madrid. No se encontró evidencia que confirme todos los detalles de la afirmación.",
+   "outlets": [
+    "Libertad Digital"
+   ],
+   "fecha": "2026-07-10 16:28"
+  },
   {
    "tweet": "Lo que nos llega de Marruecos:\n\n- Inmigración ilegal descontrolada y de la peor calaña\n- Tráfico de personas \n- Presión política por esa inmigración que ellos causan.\n- Malos acuerdos en pesca y agricultura. \n- Competencia desleal.\n- Narcotrafico e inseguridad",
    "claim_type": "policy_claim",
