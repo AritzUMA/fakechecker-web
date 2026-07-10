@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 295,
+  "total": 296,
   "supported": 17,
   "contradicted": 34,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 235,
-  "actualizado": "2026-07-10 16:07 UTC"
+  "insufficient": 236,
+  "actualizado": "2026-07-10 16:12 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Más de cien mil argentinos viviendo en México.\nMuy pocos, por sus actividades, son relevantes, y podrían ser fácilmente sustituidos por nacionales u otros inmigrantes.\nSin embargo, nuestro país tiene una profunda vocación de asilo y refugio ante la adversidad.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No source in the evidence mentions Argentine population in Mexico; the sources refer to Spanish citizens (212,000). Therefore we cannot confirm the claim.",
+   "outlets": [],
+   "fecha": "2026-07-10 16:12"
+  },
   {
    "tweet": "“¡Me están matando!”: el grito de un inmigrante mexicano baleado y asesinado por el ICE que conmocionó a una comunidad de Houston [enlace] a través de @___",
    "claim_type": "statistical_claim",
