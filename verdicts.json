@@ -1,14 +1,36 @@
 {
  "stats": {
-  "total": 303,
+  "total": 305,
   "supported": 17,
   "contradicted": 35,
-  "misleading": 10,
+  "misleading": 11,
   "outdated": 1,
-  "insufficient": 240,
-  "actualizado": "2026-07-10 16:56 UTC"
+  "insufficient": 241,
+  "actualizado": "2026-07-10 17:01 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "👉👉 Muchos solo ven sus goles y los millones que gana, pero pocos conocen la historia del niño que creció en un barrio popular, hijo de migrantes, con un sueño que parecía imposible. Hoy es uno de los mejores futbolistas del planeta.\n\nKylian Mbappé nació en Francia, pero es hijo [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró evidencia que confirme la relación familiar. Los artículos citados (vozpopuli, theobjective y Huffington Post) no mencionan que la persona sea hijo; el fragmento de Huffington Post habla de Marcos Llorente y un tuit, sin referencia a parentesco. Por lo tanto, no hay soporte ni contradicción directa.",
+   "outlets": [
+    "vozpopuli",
+    "theobjective",
+    "huffingtonpost"
+   ],
+   "fecha": "2026-07-10 17:01"
+  },
+  {
+   "tweet": "IRLANDA ARDE CONTRA LA INMIGRACIÓN \n🇮🇪 En Moygashel, Irlanda del Norte, un grupo de activistas antiinmigración construyó una estructura que simulaba una mezquita con palets y material reciclado, la cubrió con pancartas que denunciaban la “amenaza del islam radical” y exigían [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-10 16:59"
+  },
   {
    "tweet": "En España os dicen que tenéis 10% de inmigración y solo en panchitos veo 8000%",
    "claim_type": "statistical_claim",
