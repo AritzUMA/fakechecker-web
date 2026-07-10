@@ -1,14 +1,37 @@
 {
  "stats": {
-  "total": 310,
+  "total": 312,
   "supported": 17,
-  "contradicted": 35,
+  "contradicted": 36,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 246,
-  "actualizado": "2026-07-10 18:26 UTC"
+  "insufficient": 247,
+  "actualizado": "2026-07-10 18:31 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "IRLANDA DEL NORTE: Activistas antiinmigración prendieron fuego a una hoguera con una réplica de una mezquita en la cima, en protesta por la amenaza que supone la inmigración islámica.\n\nUn imán local amenazó con matar a quien se atreviera a hacerlo. ¡Pero no se amedrentaron! [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna referencia a la hoguera con réplica de mezquita en los artículos encontrados. Los artículos se centran en violencia general y ataques con cuchillo en Belfast, pero no mencionan la hoguera ni la réplica de mezquita. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:29"
+  },
+  {
+   "tweet": "¿Ya no hay problema con la migración? [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "No, según Libertad Digital (21 de abril de 2022), la inmigración sigue siendo un problema que preocupa a la población. Además, Europa Press (23 de mayo de 2022) informa que el 83 % de los migrantes en España enfrenta vulnerabilidad o exclusión de vivienda, y Theobjective (28 de mayo de 2026) destaca que los ciudadanos perciben la inmigración como la principal amenaza para la seguridad del país. El diario (13 de junio de 2026) reporta que más de cien migrantes están empadronados en viviendas inhabitables, lo que evidencia problemas continuos. Estas fuentes demuestran que la migración sigue generando problemas en España.",
+   "outlets": [
+    "Libertad Digital",
+    "Europa Press",
+    "Theobjective",
+    "eldiario"
+   ],
+   "fecha": "2026-07-10 18:27"
+  },
   {
    "tweet": "Marroquís tomaron las calles de París hace unas horas por la derrota de Marruecos ante Francia en la copa del Mundo.\nSe sabía que ocurrirían disturbios. Ganara o perdeiera Marruecos. Algunos migrantes salvajes destruyeron patrullas e intimidaron a parisinos. [enlace]",
    "claim_type": "event_claim",
