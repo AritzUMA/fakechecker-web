@@ -1,14 +1,44 @@
 {
  "stats": {
-  "total": 312,
+  "total": 315,
   "supported": 17,
-  "contradicted": 36,
+  "contradicted": 37,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 247,
-  "actualizado": "2026-07-10 18:31 UTC"
+  "insufficient": 249,
+  "actualizado": "2026-07-10 18:36 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇪🇸 | PAÍS TERMINADO: Las estadísticas oficiales del Ministerio del Interior de España revelaron que las violaciones en Almería subieron un 15,6% durante el primer trimestre de 2026, junto a un crecimiento del 11,7% registrado en los delitos sexuales totales, lo que evidencia [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No se encontró ninguna fuente que mencione datos de Almería en 2026; las fuentes disponibles se refieren a 2025 y a datos nacionales. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:35"
+  },
+  {
+   "tweet": "Más de 235 inmigrantes llegan a las costas de Baleares en 24 horas\n\nCinco pateras interceptadas en un solo día\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "Si, según El Independiente (2026-05-30), se interceptaron 192 inmigrantes en 24 horas, lo que es inferior a 235. Además, TheObjective (2026-05-30) reporta 59 inmigrantes en Cabrera y Formentera, lo que tampoco alcanza el número mencionado.",
+   "outlets": [
+    "El_Independiente",
+    "theobjective"
+   ],
+   "fecha": "2026-07-10 18:33"
+  },
+  {
+   "tweet": "🇨🇱🔴 | POSICIÓN FIRME\n\n👉El Partido Nacional Libertario, a través de Johannes Kaiser, se opone tajantemente a los intentos de reabrir indiscriminadamente las fronteras a la inmigración.\n\n“Si el agro necesita mano de obra, estamos dispuestos a discutir otras propuestas, pero no [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Johannes Kaiser ni al Partido Nacional Libertario en relación con la posición sobre la apertura de fronteras. Los artículos citados tratan temas de inmigración en España, Argentina y otros contextos, pero no hacen referencia a la afirmación específica.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:31"
+  },
   {
    "tweet": "IRLANDA DEL NORTE: Activistas antiinmigración prendieron fuego a una hoguera con una réplica de una mezquita en la cima, en protesta por la amenaza que supone la inmigración islámica.\n\nUn imán local amenazó con matar a quien se atreviera a hacerlo. ¡Pero no se amedrentaron! [enlace]",
    "claim_type": "rhetorical",
