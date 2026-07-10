@@ -1,14 +1,50 @@
 {
  "stats": {
-  "total": 317,
+  "total": 321,
   "supported": 17,
   "contradicted": 37,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 251,
-  "actualizado": "2026-07-10 23:02 UTC"
+  "insufficient": 255,
+  "actualizado": "2026-07-10 23:07 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#AHORA | Nuevas excarcelaciones de dos presos políticos: Jackson Vera y Ricardo Cariel.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se menciona a Jackson Vera ni a Ricardo Cariel en ninguna de las fuentes encontradas. Todas las referencias citadas hablan de otras personas (por ejemplo, Carlos Piña, Erasmo Bolívar, Héctor Rovaín, Luis Molina, etc.) y no incluyen los nombres solicitados.",
+   "outlets": [],
+   "fecha": "2026-07-10 23:06"
+  },
+  {
+   "tweet": "Qué bonito Monterrey ♥️📍 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No evidencia encontrada que mencione Monterrey o el contenido del tuit. Los resultados recuperados se refieren a eventos en Barcelona, Madrid y otras localidades, sin relación con Monterrey.",
+   "outlets": [],
+   "fecha": "2026-07-10 23:05"
+  },
+  {
+   "tweet": "OFES-032\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No evidencia encontrada que mencione directamente a \\\"OFES-032\\\". Los artículos citados (20minutos 2026‑01‑01, 20minutos 2025‑08‑11, 20minutos 2025‑11‑19, Libertad Digital, theobjective) describen fenómenos meteorológicos en España (bloqueo atmosférico, ciclón mediterráneo, ascenso térmico) pero no hacen referencia al término \\\"OFES‑032\\\" ni a ningún evento o pronóstico con ese nombre. Por lo tanto, no se puede confirmar ni refutar la afirmación con la evidencia disponible.",
+   "outlets": [],
+   "fecha": "2026-07-10 23:03"
+  },
+  {
+   "tweet": "Campanita al confesionario acusando a Yipio que la empujó y golpeó.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione a Campanita, a Yipio ni a un incidente en un confesionario. Los artículos disponibles tratan temas distintos (juicio de una enfermera, política, violencia chavista, etc.). Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-10 23:02"
+  },
   {
    "tweet": "🚨🇩🇪🇲🇦☪️ | INVADIDOS: Se viralizan las imágenes de la policía de Alemania persiguiendo a los inmigrantes marroquíes que destrozaban las calles de Düsseldorf tras la eliminación de su selección en el Mundial. [enlace]",
    "claim_type": "rhetorical",
