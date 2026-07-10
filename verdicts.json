@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 296,
+  "total": 297,
   "supported": 17,
   "contradicted": 34,
   "misleading": 8,
   "outdated": 1,
-  "insufficient": 236,
-  "actualizado": "2026-07-10 16:12 UTC"
+  "insufficient": 237,
+  "actualizado": "2026-07-10 16:17 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Nombra algún país que se haya beneficiado de la inmigración islámica.\n\nEsperaré.",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No source in the evidence provided mentions a country that has benefited from Islamic immigration. The cited articles discuss immigration trends and concerns about Islamization but do not provide evidence of benefits to any specific country.",
+   "outlets": [],
+   "fecha": "2026-07-10 16:15"
+  },
   {
    "tweet": "Más de cien mil argentinos viviendo en México.\nMuy pocos, por sus actividades, son relevantes, y podrían ser fácilmente sustituidos por nacionales u otros inmigrantes.\nSin embargo, nuestro país tiene una profunda vocación de asilo y refugio ante la adversidad.",
    "claim_type": "statistical_claim",
