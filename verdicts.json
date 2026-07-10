@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 315,
+  "total": 317,
   "supported": 17,
   "contradicted": 37,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 249,
-  "actualizado": "2026-07-10 18:36 UTC"
+  "insufficient": 251,
+  "actualizado": "2026-07-10 18:50 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🚨🇩🇪🇲🇦☪️ | INVADIDOS: Se viralizan las imágenes de la policía de Alemania persiguiendo a los inmigrantes marroquíes que destrozaban las calles de Düsseldorf tras la eliminación de su selección en el Mundial. [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No source among the evidence mentions Düsseldorf, police, or Moroccan immigrants in that context. The available sources discuss unrelated topics such as police actions in Girona, events in Paris, or incidents in Belfast and Dortmund. Therefore, there is insufficient evidence to support the claim.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:38"
+  },
+  {
+   "tweet": "🚨🇬🇧🇲🇦☪️ | EXCELENTE: El candidato de la derecha libertaria británica, Rupert Lowe, afirmó que un eventual gobierno de su partido Restore Britain deportará a todos los inmigrantes marroquíes que destrozaron Londres, tras los disturbios desatados por la derrota de la selección de [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que indique que Rupert Lowe haya hecho tal declaración. Los artículos encontrados (La_Razón, El_Salto, lagaceta, el_confidencial, theobjective) no mencionan dicha afirmación ni la atribuyen a Lowe.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:37"
+  },
   {
    "tweet": "🚨🇪🇸 | PAÍS TERMINADO: Las estadísticas oficiales del Ministerio del Interior de España revelaron que las violaciones en Almería subieron un 15,6% durante el primer trimestre de 2026, junto a un crecimiento del 11,7% registrado en los delitos sexuales totales, lo que evidencia [enlace]",
    "claim_type": "statistical_claim",
