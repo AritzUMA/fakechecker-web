@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 308,
+  "total": 310,
   "supported": 17,
   "contradicted": 35,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 244,
-  "actualizado": "2026-07-10 18:21 UTC"
+  "insufficient": 246,
+  "actualizado": "2026-07-10 18:26 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Marroquís tomaron las calles de París hace unas horas por la derrota de Marruecos ante Francia en la copa del Mundo.\nSe sabía que ocurrirían disturbios. Ganara o perdeiera Marruecos. Algunos migrantes salvajes destruyeron patrullas e intimidaron a parisinos. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:23"
+  },
+  {
+   "tweet": "🚨🇫🇷🇲🇦☪️ | PAÍS TERMINADO: Un grupo de inmigrantes musulmanes atacaron un vehículo policial en París en medio de los disturbios desatados tras la victoria de Francia ante Marruecos en el Mundial. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró evidencia disponible que confirme ni refute la afirmación. Los intentos de búsqueda de noticias, tweets institucionales y verificadores de hechos fallaron debido a errores técnicos, por lo que no se dispone de fuentes verificables para evaluar la veracidad de la declaración.",
+   "outlets": [],
+   "fecha": "2026-07-10 18:22"
+  },
   {
    "tweet": "Una conductora hondureña de Telemundo amenazó a alguien con llamar a inmigración en las redes sociales y se armó una tremenda controversia. Su nombre es Sirey Morán #Telemundo #Inmigración #sireymoran [enlace]",
    "claim_type": "rhetorical",
