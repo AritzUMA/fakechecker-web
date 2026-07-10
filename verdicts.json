@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 299,
+  "total": 301,
   "supported": 17,
   "contradicted": 35,
   "misleading": 9,
   "outdated": 1,
-  "insufficient": 237,
-  "actualizado": "2026-07-10 16:22 UTC"
+  "insufficient": 239,
+  "actualizado": "2026-07-10 16:27 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Lo que nos llega de Marruecos:\n\n- Inmigración ilegal descontrolada y de la peor calaña\n- Tráfico de personas \n- Presión política por esa inmigración que ellos causan.\n- Malos acuerdos en pesca y agricultura. \n- Competencia desleal.\n- Narcotrafico e inseguridad",
+   "claim_type": "policy_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-10 16:26"
+  },
+  {
+   "tweet": "🚨🇩🇪 Tres inmigrantes sirios y afganos sospechosos de agredir brutalmente a varios jóvenes alemanes en una estación de tren\n\nLa policía alemana investiga lo ocurrido en el estado de Sajonia-Anhalt\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "Si, según 20minutos (2025‑09‑30), la policía investiga una interferencia aérea cerca del aeródromo de Celle, que se ubica en Niedersachsen, no en Sajonia‑Anhalt. El País (06 May 202) menciona redadas en 12 de los 16 estados federados contra jóvenes neonazis, pero el fragmento no indica que la investigación se centre en Sajonia‑Anhalt. No se encontró ninguna fuente que confirme que la policía alemana esté investigando un suceso ocurrido específicamente en Sajonia‑Anhalt, por lo que la evidencia disponible es insuficiente para respaldar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-10 16:22"
+  },
   {
    "tweet": "🔴 Asunto serio y de extrema gravedad:\n\n• Ayer varios vecinos de Cox (Alicante) me trasladaron un suceso de especial gravedad: un inmigrante de origen marroquí, que contaba con una orden de alejamiento vigente, apuñaló con un arma blanca a su pareja, que se encontraba embarazada [enlace]",
    "claim_type": "event_claim",
