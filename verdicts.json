@@ -1,14 +1,48 @@
 {
  "stats": {
-  "total": 321,
+  "total": 324,
   "supported": 17,
   "contradicted": 37,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 255,
-  "actualizado": "2026-07-10 23:07 UTC"
+  "insufficient": 258,
+  "actualizado": "2026-07-10 23:12 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "¡Se hace justicia! El Dr Fernando Londoño tuvo la razón. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que respalde la afirmación. Los resultados encontrados (theobjective) no mencionan a Dr. Fernando Londoño, sino a Fernando R. Lafuente y Juan Lobato. Por lo tanto, no hay datos que confirmen que el Dr. Londoño tenga la razón.",
+   "outlets": [
+    "theobjective"
+   ],
+   "fecha": "2026-07-10 23:12"
+  },
+  {
+   "tweet": "Que le darían ? 😏 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "Los artículos citados tratan sobre la sexualización y la liberación sexual, pero no mencionan ni responden a la pregunta \"Que le darían ?\". No hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [
+    "La_Vanguardia",
+    "elespanol"
+   ],
+   "fecha": "2026-07-10 23:09"
+  },
+  {
+   "tweet": "Puaj",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia relevante que confirme o refute la afirmación \"Puaj\". Los resultados de búsqueda proporcionados no contienen información útil para evaluar la veracidad de la afirmación.",
+   "outlets": [
+    "lagaceta"
+   ],
+   "fecha": "2026-07-10 23:09"
+  },
   {
    "tweet": "#AHORA | Nuevas excarcelaciones de dos presos políticos: Jackson Vera y Ricardo Cariel.",
    "claim_type": "event_claim",
