@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 307,
+  "total": 308,
   "supported": 17,
   "contradicted": 35,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 243,
-  "actualizado": "2026-07-10 17:06 UTC"
+  "insufficient": 244,
+  "actualizado": "2026-07-10 17:17 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Una conductora hondureña de Telemundo amenazó a alguien con llamar a inmigración en las redes sociales y se armó una tremenda controversia. Su nombre es Sirey Morán #Telemundo #Inmigración #sireymoran [enlace]",
+   "claim_type": "rhetorical",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-10 17:06"
+  },
   {
    "tweet": "🇧🇷🇨🇺‼️| De acuerdo a un informe de Folha, los cubanos están desesperados por llegar a Brasil. En 2025 duplicaron el ingreso de los venezolanos con 41900 solicitudes de refugio. Algunas familias venden muebles y casas para costear una travesía que cuesta 6 mil dólares por grupo [enlace]",
    "claim_type": "statistical_claim",
