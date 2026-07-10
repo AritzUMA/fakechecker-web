@@ -1,14 +1,39 @@
 {
  "stats": {
-  "total": 297,
+  "total": 299,
   "supported": 17,
-  "contradicted": 34,
-  "misleading": 8,
+  "contradicted": 35,
+  "misleading": 9,
   "outdated": 1,
   "insufficient": 237,
-  "actualizado": "2026-07-10 16:17 UTC"
+  "actualizado": "2026-07-10 16:22 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴 Asunto serio y de extrema gravedad:\n\n• Ayer varios vecinos de Cox (Alicante) me trasladaron un suceso de especial gravedad: un inmigrante de origen marroquí, que contaba con una orden de alejamiento vigente, apuñaló con un arma blanca a su pareja, que se encontraba embarazada [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que indique que el suceso ocurrió en Cox, Alicante, ni que el inmigrante tuviera una orden de alejamiento vigente. Los artículos encontrados describen incidentes en otras localidades (Alcira, Toledo) y no mencionan una orden de alejamiento.",
+   "outlets": [
+    "mediterraneodigital",
+    "lagaceta",
+    "20minutos"
+   ],
+   "fecha": "2026-07-10 16:20"
+  },
+  {
+   "tweet": "Al final va a ser cierto que los inmigrantes vienen a violarnos.\n\nTendrá algo que decir Vox??",
+   "claim_type": "quote_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.92,
+   "reasoning": "La evidencia encontrada no respalda la afirmación general de que los inmigrantes vienen a violar a la población. Los artículos citados (por ejemplo, EFEVerifica y Libertad Digital) señalan que la narrativa que vincula la migración con la criminalidad, incluida la violación, es una desinformación racista y un bullo. No se presentan datos que demuestren que la mayoría o una parte significativa de los inmigrantes son responsables de actos de violación, sino que se mencionan casos aislados o se discute la propagación de rumores. Por lo tanto, la afirmación es una generalización infundada y se considera engañosa o exagerada.",
+   "outlets": [
+    "EFEVerifica",
+    "Libertad Digital"
+   ],
+   "fecha": "2026-07-10 16:18"
+  },
   {
    "tweet": "Nombra algún país que se haya beneficiado de la inmigración islámica.\n\nEsperaré.",
    "claim_type": "statistical_claim",
