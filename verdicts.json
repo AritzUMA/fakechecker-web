@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 305,
+  "total": 307,
   "supported": 17,
   "contradicted": 35,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 241,
-  "actualizado": "2026-07-10 17:01 UTC"
+  "insufficient": 243,
+  "actualizado": "2026-07-10 17:06 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇧🇷🇨🇺‼️| De acuerdo a un informe de Folha, los cubanos están desesperados por llegar a Brasil. En 2025 duplicaron el ingreso de los venezolanos con 41900 solicitudes de refugio. Algunas familias venden muebles y casas para costear una travesía que cuesta 6 mil dólares por grupo [enlace]",
+   "claim_type": "statistical_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione 41900 solicitudes de refugio cubanas a Brasil en 2025. Los artículos disponibles tratan sobre tráfico de migrantes cubanos en España y Serbia, y sobre políticas de residencia en España, sin referencia a Brasil ni a la cifra indicada. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-10 17:05"
+  },
+  {
+   "tweet": "🚨🇺🇸🇲🇽 | WTF: La presidenta de México, Claudia Sheinbaum, está iniciando ACCIONES LEGALES contra Estados Unidos porque un agente de ICE disparó y mató a un inmigrante ilegal mexicano que estuvo a punto de atropellar y matar al agente con un vehículo. [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-10 17:03"
+  },
   {
    "tweet": "👉👉 Muchos solo ven sus goles y los millones que gana, pero pocos conocen la historia del niño que creció en un barrio popular, hijo de migrantes, con un sueño que parecía imposible. Hoy es uno de los mejores futbolistas del planeta.\n\nKylian Mbappé nació en Francia, pero es hijo [enlace]",
    "claim_type": "quote_claim",
