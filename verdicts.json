@@ -1,14 +1,28 @@
 {
  "stats": {
-  "total": 332,
+  "total": 333,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 265,
-  "actualizado": "2026-07-11 14:29 UTC"
+  "insufficient": 266,
+  "actualizado": "2026-07-11 14:34 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Leyenda en serio. Icono del deporte argentino. QEPD.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que mencione a una figura legendaria o icono del deporte argentino en los resultados de búsqueda proporcionados. Los fragmentos de evidencia se refieren a temas distintos (fans de Málaga CF, distribución de camisetas del São Paulo, etc.) y no contienen información que respalde ni contradiga la afirmación.",
+   "outlets": [
+    "Newtral",
+    "Boatosorg",
+    "El_Periodico",
+    "el_confidencial"
+   ],
+   "fecha": "2026-07-11 14:31"
+  },
   {
    "tweet": "Tenemos proyecto y tenemos el equipo para hacerlo realidad.\n\nCon @___ al frente, vamos a poner en marcha la mayor política de vivienda pública de la historia de la Comunidad, reforzar la sanidad pública y defender la educación pública como el gran motor de igualdad. [enlace]",
    "claim_type": "event_claim",
