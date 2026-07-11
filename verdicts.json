@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 343,
+  "total": 345,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 276,
-  "actualizado": "2026-07-11 22:18 UTC"
+  "insufficient": 278,
+  "actualizado": "2026-07-11 22:36 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Quieren asesinar al ex ministro Wilson Ruiz el que les extraditó a más de 400 criminales, y este gobierno miserable no le aprueba un esquema de seguridad de acuerdo con las amenazas. Que comience rápido el nuevo gobierno para que cese la horrible noche!",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-11 22:22"
+  },
+  {
+   "tweet": "URGENTE 🇻🇪 🇺🇸 | ¡ÚLTIMA HORA!🚨| New York Times  expone cómo Delcy Rodríguez ha sido domada por EE.UU junto a Marco Rubio: Rubio define su agenda, piden permiso a Trump para entrevistas, retiran comunicados si no gustan en EE.UU, Rinden cuentas con selfies. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No evidencia encontrada que indique que el New York Times haya publicado un artículo exponiendo que Delcy Rodríguez ha sido domada por EE. UU. junto a Marco Rubio. Los resultados recuperados (20minutos, Público, elespanol, vozpopuli, mediterraneodigital) tratan sobre la relación de Rodríguez con EE. UU. y la postura de Rubio, pero no mencionan al New York Times ni describen la supuesta exposición. Por lo tanto, no se puede confirmar ni refutar la afirmación con la evidencia disponible.",
+   "outlets": [],
+   "fecha": "2026-07-11 22:20"
+  },
   {
    "tweet": "23 de los 26 componentes de la Selección francesa nacieron en Francia. \nPero este indivíduo, que por azares de la vida llegó a gobernar España, dice que “no son franceses”. \nEso tiene un nombre muy preciso: RACISMO. \nAsí estamos en España en 2026.  [enlace]",
    "claim_type": "event_claim",
