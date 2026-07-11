@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 326,
+  "total": 327,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 259,
-  "actualizado": "2026-07-11 14:09 UTC"
+  "insufficient": 260,
+  "actualizado": "2026-07-11 14:14 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La verdad es que es histórico que esto sea lo primero que han escuchado varias leyendas nada más acabar su último partido en un Mundial.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione lo que las leyendas escucharon justo después de terminar su último partido en un Mundial. Los artículos encontrados (20minutos y Europa Press) hablan sobre el baile de Ronaldo y Messi en el Mundial 2026, pero no incluyen ninguna referencia a lo que escucharon. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-11 14:12"
+  },
   {
    "tweet": "Garantía de impunidad!! Si destruir el poder judicial tenía un solo objetivo 👇: Morena blindado",
    "claim_type": "opinion",
