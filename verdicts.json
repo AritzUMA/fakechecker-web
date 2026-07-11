@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 330,
+  "total": 332,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 263,
-  "actualizado": "2026-07-11 14:24 UTC"
+  "insufficient": 265,
+  "actualizado": "2026-07-11 14:29 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Tenemos proyecto y tenemos el equipo para hacerlo realidad.\n\nCon @___ al frente, vamos a poner en marcha la mayor política de vivienda pública de la historia de la Comunidad, reforzar la sanidad pública y defender la educación pública como el gran motor de igualdad. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Si, según Libertad Digital (fecha no especificada) se menciona la aprobación de la Ley de Medidas Urgentes para el Incremento de la Oferta de Vivienda Protegida y la aceleración de la tramitación urbanística, y según La_Razón (2026‑05‑05) la Comunidad moviliza 500 millones de euros para construir 10 000 viviendas de protección pública. Estos artículos confirman que la Comunidad de Madrid está impulsando proyectos de vivienda pública, pero no hacen referencia a Oscar López ni afirman que la política sea la mayor de la historia de la Comunidad, ni mencionan la refuerzo de la sanidad pública o la defensa de la educación pública. Por lo tanto, la evidencia no es suficiente para confirmar ni refutar la totalidad de la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-11 14:28"
+  },
+  {
+   "tweet": "Seguimos! ❤️🇪🇸 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No evidence directly references the tweet or its content. The sources found mention Spain and politics but do not confirm or refute the claim. Therefore, insufficient evidence to support or contradict the claim.",
+   "outlets": [],
+   "fecha": "2026-07-11 14:25"
+  },
   {
    "tweet": "Resumen de medios - Capital Humano\n\n@___ [enlace]",
    "claim_type": "event_claim",
