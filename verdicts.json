@@ -1,14 +1,41 @@
 {
  "stats": {
-  "total": 334,
+  "total": 337,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 267,
-  "actualizado": "2026-07-11 15:29 UTC"
+  "insufficient": 270,
+  "actualizado": "2026-07-11 15:34 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "1-Acto\nSe transó 40 millones del Ayuntamiento.\n\n2-Acto\nFingió un autosecuestro para reponer el robo y se dio una vida de lujo.\n\n3-Acto\nLa descubrieron, lo negó y dijo que era un complot.\n\n¿Y que creen? \n\nYa va a reponer el dinero..\n\nSi, es de Morena..\n\n👇 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "La evidencia encontrada se refiere a ingresos que el Gobierno central podría recaudar por la regularización masiva de inmigrantes (entre 20 y 40 millones), y no menciona ninguna transacción de 40 millones por parte del Ayuntamiento. No se encuentra ninguna fuente que confirme o niegue la afirmación sobre el Ayuntamiento.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:34"
+  },
+  {
+   "tweet": "Todos los franceses, centroamericanos, españoles nigerianos e indios esperaban un video de como Messi y Argentina compraron un mundial desde la corrupción\n\nTerminaron viendo un video del CHIQUI TAPIA, BARRACAS CENTRAL y el TORNEO ARGENTINO con 30 EQUIPOS [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No fuente encontrada menciona ni el video esperado ni el contenido real descrito en la afirmación. Los artículos listados tratan temas como Messi, corrupción en España, y fútbol en general, pero no hacen referencia a un video con la temática propuesta. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:33"
+  },
+  {
+   "tweet": "Mientras el ELN ataca con drones la estación de Policía en Arenal, Bolívar y deja tres uniformados heridos, el gobierno de @___ cree que prohibiendo la entrada de drones al país resuelve el problema.\n\nNo, señor Presidente @___ . Nuestras Fuerzas Armadas y de",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione un ataque del ELN con drones a la estación de Policía en Arenal, Bolívar, ni que indique que el gobierno de Petro haya dicho que prohibir la entrada de drones resuelve el problema. Los artículos encontrados tratan sobre Israel, Ucrania, EE. UU. y Cuba, sin relación con el evento descrito.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:32"
+  },
   {
    "tweet": "🔴 Momento Mónica Rincón\n\n\"Estamos con un gobierno que avala y defiende la dictadura\".\n\nAsí de categórico fue Hermann Heim, al criticar el cierre de la Unidad de Búsqueda de Personas Afectadas por Adopciones Ilegales, justo cuando un informe oficial de Noruega documentó más de [enlace]",
    "claim_type": "event_claim",
