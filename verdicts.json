@@ -1,14 +1,26 @@
 {
  "stats": {
-  "total": 327,
+  "total": 328,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 260,
-  "actualizado": "2026-07-11 14:14 UTC"
+  "insufficient": 261,
+  "actualizado": "2026-07-11 14:19 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Trío 😈😋🔥 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme ni refute la existencia de un contenido relacionado con el trío mencionado en el enlace. Las evidencias disponibles (elmundo y 20minutos) tratan sobre agresiones sexuales y no tienen relación con la afirmación.",
+   "outlets": [
+    "elmundo",
+    "20minutos"
+   ],
+   "fecha": "2026-07-11 14:15"
+  },
   {
    "tweet": "La verdad es que es histórico que esto sea lo primero que han escuchado varias leyendas nada más acabar su último partido en un Mundial.",
    "claim_type": "event_claim",
