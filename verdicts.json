@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 333,
+  "total": 334,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 266,
-  "actualizado": "2026-07-11 15:19 UTC"
+  "insufficient": 267,
+  "actualizado": "2026-07-11 15:24 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴 Momento Mónica Rincón\n\n\"Estamos con un gobierno que avala y defiende la dictadura\".\n\nAsí de categórico fue Hermann Heim, al criticar el cierre de la Unidad de Búsqueda de Personas Afectadas por Adopciones Ilegales, justo cuando un informe oficial de Noruega documentó más de [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "El artículo de Newtral menciona que el Gobierno prevé crear un catálogo de símbolos franquistas, lo que podría interpretarse como una forma de avalar la dictadura. Sin embargo, el mismo medio también informa que el Gobierno propone indemnizaciones para quienes defendieron la democracia, lo que contradice la idea de que el Gobierno defiende la dictadura. Dado que la evidencia presenta tanto indicios de apoyo como de oposición, no se puede concluir de manera definitiva que el gobierno esté avalando y defendiendo la dictadura.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:21"
+  },
   {
    "tweet": "Leyenda en serio. Icono del deporte argentino. QEPD.",
    "claim_type": "event_claim",
