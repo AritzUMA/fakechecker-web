@@ -1,14 +1,50 @@
 {
  "stats": {
-  "total": 337,
+  "total": 341,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 270,
-  "actualizado": "2026-07-11 15:39 UTC"
+  "insufficient": 274,
+  "actualizado": "2026-07-11 15:44 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Según un artículo del @___, Marco Rubio es quien realmente manda en Venezuela. Tiene una línea directa vía WhatsApp con Delcy Rodríguez por donde ella le envía fotos, selfies, novedades y hasta chismes, que ella le pide permiso para todo, le envía los borradores de lo que va [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ningún artículo del NYTimes que afirme que Marco Rubio tiene autoridad real sobre Venezuela. La evidencia proporcionada proviene únicamente de 20minutos, que menciona la presión de Rubio sobre Venezuela pero no sostiene la afirmación de que él “manda” en el país. Por lo tanto, no hay evidencia suficiente para respaldar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:42"
+  },
+  {
+   "tweet": "Los revolucionarios comunistas , zurdos,fachos de izquierda, golpistas y ladrones de Venezuela le robaron al pueblo 330 TONELADAS de ORO  !!! \nUS $43.600 Millones !!!\nQuedan 43 y también la quieren !! Saqueadores !!",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró evidencia que confirme que el gobierno venezolano haya robado 330 toneladas de oro. Los artículos citados (elmundo, theobjective, 20minutos, mediterraneodigital, Newtral) hablan de operaciones militares contra mafias mineras, investigaciones de la UDEF y negociaciones de venta de oro, pero no mencionan la cifra de 330 toneladas ni la cantidad monetaria de 43.6 millones. Por lo tanto, la afirmación carece de respaldo documental y no puede ser confirmada ni refutada con la evidencia disponible.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:41"
+  },
+  {
+   "tweet": "TV @___ anda muy dolido desde que les rechazaron los contratos que quería #LaPerritaDeTrump por $2,350 millones con el gobierno de #Puebla.\n\nVolvieron a quedar así 🤡 los carroñeros de la derecha que anhelan desgracias. Es falso que se haya abandonado a las familias afectadas [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No fuente encontrada que mencione a Azteca, Puebla, o un contrato de $2,350 millones con la campaña #LaPerritaDeTrump. Los artículos listados tratan temas distintos (sanciones a empresas españolas, política en México, etc.) y no contienen información que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:41"
+  },
+  {
+   "tweet": "Este fue el Mundial con peor cobertura periodística y de mediáticos, léase streamers e influencers? Y argumente porque es un si rotundo.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No de los artículos encontrados (La Vanguardia, eldiario, El_Pais, La_Razón) hacen referencia a la cobertura periodística o mediática de ningún Mundial de fútbol, ni mencionan a streamers o influencers en ese contexto. Por lo tanto, no hay evidencia que respalde la afirmación de que un Mundial tuvo la peor cobertura periodística y mediática. No se encontró evidencia que contradiga la afirmación, pero tampoco la respalde.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:40"
+  },
   {
    "tweet": "1-Acto\nSe transó 40 millones del Ayuntamiento.\n\n2-Acto\nFingió un autosecuestro para reponer el robo y se dio una vida de lujo.\n\n3-Acto\nLa descubrieron, lo negó y dijo que era un complot.\n\n¿Y que creen? \n\nYa va a reponer el dinero..\n\nSi, es de Morena..\n\n👇 [enlace]",
    "claim_type": "event_claim",
