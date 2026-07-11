@@ -1,14 +1,25 @@
 {
  "stats": {
-  "total": 324,
+  "total": 325,
   "supported": 17,
-  "contradicted": 37,
+  "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
   "insufficient": 258,
-  "actualizado": "2026-07-10 23:12 UTC"
+  "actualizado": "2026-07-11 14:04 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "GAD 🙏 Libertad para TODOS los presos políticos.",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "No, según 20minutos (2026-02-24), se liberaron más de 100 presos políticos tras la ley de amnistía, pero según 20minutos (2026-03-21) todavía quedan 508 presos políticos, por lo que la afirmación de libertad para todos no se cumple.",
+   "outlets": [
+    "20minutos"
+   ],
+   "fecha": "2026-07-10 23:14"
+  },
   {
    "tweet": "¡Se hace justicia! El Dr Fernando Londoño tuvo la razón. [enlace]",
    "claim_type": "event_claim",
