@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 341,
+  "total": 343,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 274,
-  "actualizado": "2026-07-11 15:44 UTC"
+  "insufficient": 276,
+  "actualizado": "2026-07-11 22:18 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "23 de los 26 componentes de la Selección francesa nacieron en Francia. \nPero este indivíduo, que por azares de la vida llegó a gobernar España, dice que “no son franceses”. \nEso tiene un nombre muy preciso: RACISMO. \nAsí estamos en España en 2026.  [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna de las fuentes citadas que mencione directamente la frase ‘no son franceses’ ni que la etiquete como racismo. Los artículos disponibles tratan temas generales de racismo en España, la política de Pedro Sánchez y la percepción internacional, pero no contienen la afirmación específica ni su valoración como racismo.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:48"
+  },
+  {
+   "tweet": "¿Ya dijo algo el “decente” @___ de la condena por corrupto de su amigo, el ex juez aliado de mafiosos y congresista del Pacto Histórico, Pedro Suárez Vacca?\n\nSentencia de la @___ [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No source among the evidence provided mentions Ivan Cepeda Cast or any statement he may have made regarding the conviction of Pedro Suárez Vacca. The retrieved articles discuss unrelated topics such as other judicial cases, political commentary, and unrelated individuals. Therefore, there is insufficient evidence to confirm or refute the claim.",
+   "outlets": [],
+   "fecha": "2026-07-11 15:47"
+  },
   {
    "tweet": "Según un artículo del @___, Marco Rubio es quien realmente manda en Venezuela. Tiene una línea directa vía WhatsApp con Delcy Rodríguez por donde ella le envía fotos, selfies, novedades y hasta chismes, que ella le pide permiso para todo, le envía los borradores de lo que va [enlace]",
    "claim_type": "event_claim",
