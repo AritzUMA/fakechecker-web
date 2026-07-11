@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 325,
+  "total": 326,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 258,
-  "actualizado": "2026-07-11 14:04 UTC"
+  "insufficient": 259,
+  "actualizado": "2026-07-11 14:09 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Garantía de impunidad!! Si destruir el poder judicial tenía un solo objetivo 👇: Morena blindado",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encuentra evidencia directa que indique que la destrucción del poder judicial se hizo con el objetivo de proteger a Morena. Los artículos citados hablan de acoso a jueces y de la intervención del Tribunal Constitucional, pero no establecen una relación causal con la protección de Morena.",
+   "outlets": [],
+   "fecha": "2026-07-11 14:05"
+  },
   {
    "tweet": "GAD 🙏 Libertad para TODOS los presos políticos.",
    "claim_type": "event_claim",
