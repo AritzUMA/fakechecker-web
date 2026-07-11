@@ -1,14 +1,35 @@
 {
  "stats": {
-  "total": 328,
+  "total": 330,
   "supported": 17,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 261,
-  "actualizado": "2026-07-11 14:19 UTC"
+  "insufficient": 263,
+  "actualizado": "2026-07-11 14:24 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Resumen de medios - Capital Humano\n\n@___ [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-11 14:21"
+  },
+  {
+   "tweet": "QEPD Antonio Rattin.\n\nÍdolo eterno del CABJ. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia a la muerte de Antonio Rattin en los artículos proporcionados. Los textos citados tratan temas distintos (la muerte de Marjane Satrapi y un homicidio en un bar) y no mencionan a Antonio Rattin.",
+   "outlets": [
+    "Público",
+    "20minutos"
+   ],
+   "fecha": "2026-07-11 14:19"
+  },
   {
    "tweet": "Trío 😈😋🔥 [enlace]",
    "claim_type": "event_claim",
