@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 352,
+  "total": 354,
   "supported": 18,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 284,
-  "actualizado": "2026-07-13 23:00 UTC"
+  "insufficient": 286,
+  "actualizado": "2026-07-13 23:05 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇻🇪🇦🇷 | El Ejército de Argentina sigue realizando labores humanitarias en Venezuela al instalar una planta potabilizadora de agua. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró cobertura directa que confirme que el Ejército argentino haya instalado una planta potabilizadora de agua en Venezuela. Los titulares recuperados se refieren a un sistema de purificación de agua desarrollado en Argentina sin electricidad, pero no indican su implementación en Venezuela ni la participación del Ejército argentino. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:04"
+  },
+  {
+   "tweet": "🎙️ \"Julio César decía que 'no hay un gran logro sin sufrimiento'. Si quieres conseguir algo en la vida, siempre hay que dejar algo en el camino\".\n\n➡️ \"Son las semifinales de un Mundial. Estamos preparados para sufrir\".\n\n🗣️ Luis de la Fuente.\n\n#VamosEspaña | #CopaMundialFIFA [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:01"
+  },
   {
    "tweet": "Ciudadanos denuncian varios casos de robos a las afueras de Farmatodo en el oeste de Cali.\n\nPido a las autoridades toda la contundencia posible para cazar a esos delincuentes  @___ @___",
    "claim_type": "event_claim",
