@@ -1,14 +1,50 @@
 {
  "stats": {
-  "total": 358,
-  "supported": 19,
+  "total": 361,
+  "supported": 20,
   "contradicted": 39,
-  "misleading": 11,
+  "misleading": 12,
   "outdated": 1,
-  "insufficient": 288,
-  "actualizado": "2026-07-13 23:20 UTC"
+  "insufficient": 289,
+  "actualizado": "2026-07-13 23:26 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#Ahoramismo‼️ \n\n🔥🔥Un convoy de buques que es escoltado por la marina estadounidense en el estrecho de ORMUZ de lado Omaní, está bajo ataque intenso de la armada IRANÍ 🔥🔥",
+   "claim_type": "event_claim",
+   "verdict": "misleading_or_exaggerated",
+   "confidence": 0.7,
+   "reasoning": "Si, según los titulares de elespanol y El_Debate (26 y 13 de junio de 2026), Iran atacó un buque en el estrecho de Ormuz y Estados Unidos respondió con bombardeos. Sin embargo, los titulares no mencionan un convoy ni la presencia de escolta naval estadounidense, por lo que la afirmación de un convoy escortado por la marina estadounidense bajo ataque intenso no está confirmada.",
+   "outlets": [
+    "elespanol",
+    "El_Debate",
+    "elespanol",
+    "Libertad Digital",
+    "El_Debate"
+   ],
+   "fecha": "2026-07-13 23:25"
+  },
+  {
+   "tweet": "🎙️ \"Juego como sé jugar, con lo que tengo, dando el máximo y al servicio del equipo\".\n\n➡️ \"Estamos muy ilusionados con el partido de mañana y creo que es el más importante que voy a jugar hasta el momento\".\n\n🗣️ Lamine Yamal, jugador internacional.\n\n#VamosEspaña | #CopaMundialFIFA [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró en los titulares de las fuentes citadas la frase exacta del jugador. Los artículos de 20minutos, Huffington Post, el_confidencial, Europa Press y La Vanguardia mencionan declaraciones de Yamal sobre su entusiasmo y expectativas, pero no incluyen las citas específicas del enunciado. Dado que la evidencia proviene solo de titulares y no de textos completos, no se puede confirmar ni refutar la afirmación con certeza.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:24"
+  },
+  {
+   "tweet": "Tal como lo había advertido Trump, se ha iniciado esta noche una nueva ronda de ataques sobre #Iran, y advierte que la misma podría durar dos o tres semanas.\n🇺🇸🔥🇮🇷\nPor lo pronto Trump ya ha informado al Congreso que da por finalizado el alto al fuego. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.92,
+   "reasoning": "Si, según El_Periodico y 20minutos, EE.UU. atacó a Irán esta noche, marcando la segunda noche consecutiva de ataques. Ambos titulares indican que se han lanzado ataques militares contra objetivos iraníes, lo que respalda la afirmación de que se han iniciado nuevos ataques contra Irán esta noche.",
+   "outlets": [
+    "El_Periodico",
+    "20minutos"
+   ],
+   "fecha": "2026-07-13 23:21"
+  },
   {
    "tweet": "Trump declara la GUERRA TOTAL a Irán:  \n«¡YA ESTÁ! Se acabó el juego. Los ataques han regresado con toda su fuerza. Misiles americanos surcan el cielo esta misma noche.»  \n\nEl presidente fue claro y sin filtro:  \n«Están cableados de otra manera y NO lo vamos a tolerar más. Vamos [enlace]",
    "claim_type": "event_claim",
