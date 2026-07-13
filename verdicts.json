@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 364,
+  "total": 365,
   "supported": 20,
   "contradicted": 39,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 292,
-  "actualizado": "2026-07-13 23:36 UTC"
+  "insufficient": 293,
+  "actualizado": "2026-07-13 23:41 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Morena es un narcopartido, trancaron combustible con el visto bueno del presidente López Obrador y tienen pruebas, por favor vean este video de marzo del 2024, estoy seguro que Mario Delgado ya colabora al igual que Marina Del Pilar con el FBI, son el nuevo Cártel de Los Sapos. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que respalde la afirmación. Los titulares recuperados (por ejemplo, los de El País sobre el suministro de petróleo a Cuba y el fracking) no mencionan a Morena como narco‑partido ni indican que hayan bloqueado combustible con la aprobación del presidente. Por lo tanto, no hay datos que confirmen la acusación.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:37"
+  },
   {
    "tweet": "En entrevista con @___ dejé claro que Marina del Pilar debe pedir licencia mientras se investigan los audios. Y si el Gobierno federal se niega a pedir explicación de  los hechos, ¿aquí no habría traición a la Patria?\n\nLa ley y la justicia no pueden aplicarse únicamente [enlace]",
    "claim_type": "event_claim",
