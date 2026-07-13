@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 347,
+  "total": 348,
   "supported": 18,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 279,
-  "actualizado": "2026-07-11 22:41 UTC"
+  "insufficient": 280,
+  "actualizado": "2026-07-13 22:45 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#MisiónHumanitariaVenezuela | La misión humanitaria salvadoreña continúa llevando esperanza a las familias afectadas por los terremotos registrados el pasado 24 de junio en Venezuela. El contingente nacional brinda una atención integral a la población en el hospital de campaña [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna referencia a la misión salvadoreña ni a un hospital de campaña en los titulares disponibles. Los artículos encontrados (20minutos, El_Debate, eldiario, Newtral) mencionan terremotos en Venezuela o Cuba, pero no mencionan la presencia de contingentes salvadoreños ni la atención integral descrita en la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-11 22:41"
+  },
   {
    "tweet": "@___ 🔴LAS ANDANZAS DE ZAPATERO:\n\nSe le señala por recibir supuestamente una mina de oro en el Arco Minero del Orinoco (hasta 60.000 toneladas y producción millonaria), gestionada a través de testaferros como Julio Martínez. La UDEF y reportes policiales vinculan documentos [enlace]",
    "claim_type": "event_claim",
