@@ -1,14 +1,41 @@
 {
  "stats": {
-  "total": 365,
+  "total": 368,
   "supported": 20,
   "contradicted": 39,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 293,
-  "actualizado": "2026-07-13 23:41 UTC"
+  "insufficient": 296,
+  "actualizado": "2026-07-13 23:46 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "GRABABA SUS ASESINATOS, SUS ARMAS, SUS DROGAS…\nEs Gilberto Hdz Santeño sicario del grupo TAI de @___ \nAsí se sentía impune.\nAgentes de @___ y @___ lo ubicaron y detuvieron armado, con drogas…\nLa @___ trabaja para dejarlo preso.\n\nEl caso #C4EnAlerta [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que indique que la persona en cuestión estaba grabando a sus asesinos, armas o drogas. Los artículos encontrados tratan sobre la guerra contra las drogas en Filipinas y un homicidio en España, pero no contienen información que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:46"
+  },
+  {
+   "tweet": "¿Por qué cambiar la voluntad expresada por los cundinamarqueses en las urnas? \n\n¡La democracia se respeta! Los votos de los cundinamarqueses no pueden ser desconocidos. Exigimos al @___ que se respete la voluntad expresada en las urnas y que el Consejo Nacional Electoral",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "Los titulares encontrados (La_Razón, OKDiario, Europa Press, etc.) no mencionan la invalidez de votos de Cundinamarca ni la posición del CNE respecto a la voluntad expresada en las urnas. No hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:43"
+  },
+  {
+   "tweet": "🌎 | OTRO SISMO VUELVE A SACUDIR VENEZUELA\n\nLa Fundación Venezolana de Investigaciones Sismológicas informó que este lunes 13 de julio se registró un sismo de magnitud 4,2 en el estado Sucre.\n\nEl reporte preliminar señala que el movimiento ocurrió a las 3:59 p.m., con epicentro [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró cobertura en los titulares de GDELT que mencione un sismo de magnitud 4,2 en Sucre el 13 de julio 2026. Los titulares disponibles se refieren a eventos en junio de 2026 con magnitudes 4.8 y 7.2/7.5, y no citan a la Fundación Venezolana de Investigaciones Sismológicas. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:41"
+  },
   {
    "tweet": "Morena es un narcopartido, trancaron combustible con el visto bueno del presidente López Obrador y tienen pruebas, por favor vean este video de marzo del 2024, estoy seguro que Mario Delgado ya colabora al igual que Marina Del Pilar con el FBI, son el nuevo Cártel de Los Sapos. [enlace]",
    "claim_type": "event_claim",
