@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 362,
+  "total": 364,
   "supported": 20,
   "contradicted": 39,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 290,
-  "actualizado": "2026-07-13 23:31 UTC"
+  "insufficient": 292,
+  "actualizado": "2026-07-13 23:36 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "En entrevista con @___ dejé claro que Marina del Pilar debe pedir licencia mientras se investigan los audios. Y si el Gobierno federal se niega a pedir explicación de  los hechos, ¿aquí no habría traición a la Patria?\n\nLa ley y la justicia no pueden aplicarse únicamente [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a una persona llamada Marina del Pilar ni que indique que debe solicitar licencia durante la investigación de los audios. Los titulares disponibles se refieren a la Audiencia Nacional investigando audios entre Cospedal y Villarejo, a Marina Valcárcel, a Marina Ortiz y a Pilar Montes, pero no a Marina del Pilar.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:34"
+  },
+  {
+   "tweet": "Los señalamientos contra la Gobernadora de Baja California @___ exigen respuestas inmediatas y una investigación a fondo. \n\nEl audio que se le atribuye abre dudas graves que deben investigarse con absoluta transparencia. Mientras se esclarecen los hechos, debe pedir [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No evidence found that links Pilar Marín to the allegations or the audio in question. The sources retrieved discuss audio manipulation claims related to Koldo García, not Pilar Marín. Therefore, the claim cannot be verified or refuted based on the available evidence.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:31"
+  },
   {
    "tweet": "La sobrina de AMLO y ex diputada Ursula Salazar Mojica, presumiendo que su hijo estudia en la Universidad de Texas, en San Marcos.\n\nÚrsula Patricia Salazar es hija de Úrsula Mojica Obrador, quien era prima de AMLO.\n\nPero primero la soberanía 😏 [enlace]",
    "claim_type": "event_claim",
