@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 350,
+  "total": 352,
   "supported": 18,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 282,
-  "actualizado": "2026-07-13 22:55 UTC"
+  "insufficient": 284,
+  "actualizado": "2026-07-13 23:00 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Ciudadanos denuncian varios casos de robos a las afueras de Farmatodo en el oeste de Cali.\n\nPido a las autoridades toda la contundencia posible para cazar a esos delincuentes  @___ @___",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró cobertura en los titulares encontrados que mencione Farmatodo o Cali; los artículos listados tratan temas distintos. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 22:59"
+  },
+  {
+   "tweet": "Hoy hace 29 años, tras el asesinato de Miguel Ángel, la gente se hartó y por primera vez perdió el miedo a los asesinos de ETA y sus cómplices y les plantó cara en sus sedes. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-13 22:56"
+  },
   {
    "tweet": "#OJOALDATO - Los árbitros de la Copa del Mundo 2026 han acudido al monitor de campo en 27 ocasiones y solo UNO de ellos mantuvo su decisión inicial: Faghani, en el posible penalti de Mané a Mbappé.\n\nEsta estadística es DEMOLEDORA. Nadie se atreve a contradecir al VAR y el VAR",
    "claim_type": "event_claim",
