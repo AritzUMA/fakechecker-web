@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 361,
+  "total": 362,
   "supported": 20,
   "contradicted": 39,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 289,
-  "actualizado": "2026-07-13 23:26 UTC"
+  "insufficient": 290,
+  "actualizado": "2026-07-13 23:31 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La sobrina de AMLO y ex diputada Ursula Salazar Mojica, presumiendo que su hijo estudia en la Universidad de Texas, en San Marcos.\n\nÚrsula Patricia Salazar es hija de Úrsula Mojica Obrador, quien era prima de AMLO.\n\nPero primero la soberanía 😏 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró cobertura que confirme o refute la afirmación. Los titulares encontrados no mencionan a Ursula Salazar Mojica ni a su sobrina ni a la Universidad de Texas.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:28"
+  },
   {
    "tweet": "#Ahoramismo‼️ \n\n🔥🔥Un convoy de buques que es escoltado por la marina estadounidense en el estrecho de ORMUZ de lado Omaní, está bajo ataque intenso de la armada IRANÍ 🔥🔥",
    "claim_type": "event_claim",
