@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 348,
+  "total": 349,
   "supported": 18,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 280,
-  "actualizado": "2026-07-13 22:45 UTC"
+  "insufficient": 281,
+  "actualizado": "2026-07-13 22:50 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Esta gente no tiene vergüenza. Ni ética ni nada decente.\nSe “posesionan” más “congresistas” por apenas 11 días, única y exclusivamente para cobrarnos el jugoso salario. A cada uno tendemos que pagarle unos $20 millones por esos días. \n\nEstos “ilustres” se llaman Jorge Enrique [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-13 22:49"
+  },
   {
    "tweet": "#MisiónHumanitariaVenezuela | La misión humanitaria salvadoreña continúa llevando esperanza a las familias afectadas por los terremotos registrados el pasado 24 de junio en Venezuela. El contingente nacional brinda una atención integral a la población en el hospital de campaña [enlace]",
    "claim_type": "event_claim",
