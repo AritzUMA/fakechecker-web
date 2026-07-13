@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 354,
+  "total": 356,
   "supported": 18,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 286,
-  "actualizado": "2026-07-13 23:10 UTC"
+  "insufficient": 288,
+  "actualizado": "2026-07-13 23:15 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#ÚLTIMO 6:40pm Se registra más de 20 réplicas al norte de Venezuela este lunes. El evento de mayor intensidad se registró a las 4pm. en el estado Sucre, alcanzando una magnitud de 4.4. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:14"
+  },
+  {
+   "tweet": "Delcy no es presidenta de Venezuela. Nadie la eligió y viola la Constitución. Está allí, porque Trump/Rubio la mantienen, para sus fines. Jorge tampoco es diputado. Perdió su investidura, al aceptar y/o ejecutar actos/cargos del ejecutivo. Con ellos podemos aplicar todo: Art. 350",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo de veredicto se ha saturado y precisa de más derechos laborales.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:11"
+  },
   {
    "tweet": "🇻🇪🇦🇷 | El Ejército de Argentina sigue realizando labores humanitarias en Venezuela al instalar una planta potabilizadora de agua. [enlace]",
    "claim_type": "event_claim",
