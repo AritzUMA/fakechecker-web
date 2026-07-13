@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 368,
+  "total": 369,
   "supported": 20,
   "contradicted": 39,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 296,
-  "actualizado": "2026-07-13 23:46 UTC"
+  "insufficient": 297,
+  "actualizado": "2026-07-13 23:51 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "OJO; Crecen a más de 8 mil millones de pesos los recursos desaparecidos en Morelos con Cuauhtémoc Blanco.\n\nConforme avanzan las auditorías federales el boquete se agrava. Sin embargo, la ASF no denuncia nada.\n[enlace] via @___",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione recursos desaparecidos en Morelos, la cifra de 8 mil millones de pesos, ni que indique que las auditorías federales agraven el problema o que la ASF no haya presentado denuncias. Los titulares recuperados (20minutos, El País, OKDiario, La Razón) tratan temas políticos en España y no tienen relación con la situación en Morelos. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:49"
+  },
   {
    "tweet": "GRABABA SUS ASESINATOS, SUS ARMAS, SUS DROGAS…\nEs Gilberto Hdz Santeño sicario del grupo TAI de @___ \nAsí se sentía impune.\nAgentes de @___ y @___ lo ubicaron y detuvieron armado, con drogas…\nLa @___ trabaja para dejarlo preso.\n\nEl caso #C4EnAlerta [enlace]",
    "claim_type": "event_claim",
