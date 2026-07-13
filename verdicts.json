@@ -1,14 +1,39 @@
 {
  "stats": {
-  "total": 356,
-  "supported": 18,
-  "contradicted": 38,
+  "total": 358,
+  "supported": 19,
+  "contradicted": 39,
   "misleading": 11,
   "outdated": 1,
   "insufficient": 288,
-  "actualizado": "2026-07-13 23:15 UTC"
+  "actualizado": "2026-07-13 23:20 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Trump declara la GUERRA TOTAL a Irán:  \n«¡YA ESTÁ! Se acabó el juego. Los ataques han regresado con toda su fuerza. Misiles americanos surcan el cielo esta misma noche.»  \n\nEl presidente fue claro y sin filtro:  \n«Están cableados de otra manera y NO lo vamos a tolerar más. Vamos [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Si, según 20minutos (2026-03-01), el titular \\\"EEUU e Israel en guerra con Irán: el mundo contiene la respiración ante una guerra que puede desatar el caos en Oriente Medio\\\" indica que se trata de una guerra total contra Irán. Además, La_Razón (2026-03-10) y (2026-03-29) refuerzan la idea de una guerra total entre Estados Unidos, Israel e Irán, con ataques coordinados y escalada militar. No se encontró evidencia que contradiga esta descripción.",
+   "outlets": [
+    "La_Razón",
+    "20minutos"
+   ],
+   "fecha": "2026-07-13 23:19"
+  },
+  {
+   "tweet": "🚨 | Irán atacó hoy dos buques petroleros en el Estrecho de Ormuz.",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.9,
+   "reasoning": "Si, según el medio elespanol (2026-06-26), se atacó un carguero, no dos buques petroleros. Además, el Huffington Post (2026-04-22) menciona un portacontenedores, no un petrolero. Por lo tanto, la afirmación es contradicha.",
+   "outlets": [
+    "elespanol",
+    "huffingtonpost",
+    "20minutos"
+   ],
+   "fecha": "2026-07-13 23:17"
+  },
   {
    "tweet": "#ÚLTIMO 6:40pm Se registra más de 20 réplicas al norte de Venezuela este lunes. El evento de mayor intensidad se registró a las 4pm. en el estado Sucre, alcanzando una magnitud de 4.4. [enlace]",
    "claim_type": "event_claim",
