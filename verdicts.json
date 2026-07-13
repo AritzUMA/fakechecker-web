@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 349,
+  "total": 350,
   "supported": 18,
   "contradicted": 38,
   "misleading": 11,
   "outdated": 1,
-  "insufficient": 281,
-  "actualizado": "2026-07-13 22:50 UTC"
+  "insufficient": 282,
+  "actualizado": "2026-07-13 22:55 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#OJOALDATO - Los árbitros de la Copa del Mundo 2026 han acudido al monitor de campo en 27 ocasiones y solo UNO de ellos mantuvo su decisión inicial: Faghani, en el posible penalti de Mané a Mbappé.\n\nEsta estadística es DEMOLEDORA. Nadie se atreve a contradecir al VAR y el VAR",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia a 27 ocasiones ni a la decisión de Faghani en los titulares encontrados. Los artículos disponibles (theobjective, vozpopuli, El_Periodico, 20minutos) hablan de la introducción de IA en el arbitraje y de un penalti de Mbappé, pero no mencionan el número de visitas al monitor ni la decisión de Faghani. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-13 22:53"
+  },
   {
    "tweet": "Esta gente no tiene vergüenza. Ni ética ni nada decente.\nSe “posesionan” más “congresistas” por apenas 11 días, única y exclusivamente para cobrarnos el jugoso salario. A cada uno tendemos que pagarle unos $20 millones por esos días. \n\nEstos “ilustres” se llaman Jorge Enrique [enlace]",
    "claim_type": "opinion",
