@@ -1,14 +1,35 @@
 {
  "stats": {
-  "total": 371,
-  "supported": 20,
+  "total": 373,
+  "supported": 21,
   "contradicted": 39,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 299,
-  "actualizado": "2026-07-13 23:56 UTC"
+  "insufficient": 300,
+  "actualizado": "2026-07-14 00:01 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Cada vez que MORENA quiere atacar a la oposición sacan lo de el Cartel Inmobiliario y ahora que vienen las elecciones reviven el tema, pero lo que no dicen es que personas como Victor fueron los que dieron todos esos permisos y Clara Brugada lo está haciendo en toda la CDMX, ahí [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.95,
+   "reasoning": "Si, según La_Razón (2026-01-20), se menciona que 2026 es un año con alta densidad electoral y que se celebrarán varias elecciones, y según El Mundo (2026-05-18) se prevé que en 2027 se celebren varios comicios, incluyendo elecciones generales, lo que confirma que las elecciones están próximas.",
+   "outlets": [
+    "La_Razón",
+    "El Mundo"
+   ],
+   "fecha": "2026-07-13 23:59"
+  },
+  {
+   "tweet": "¿Ya mero salen los panistas a decir que el ICE no se toca?",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No evidence found linking PAN politicians to statements about ICE. The available sources discuss ICE in the context of U.S. politics and do not mention PAN or Mexican politicians.",
+   "outlets": [],
+   "fecha": "2026-07-13 23:58"
+  },
   {
    "tweet": "Que dice el chavismo que lo de los escombros es pura mentira y fake news y están desmintiendo, que nadie anda lanzando escombros al mar. Bueno desmientan esto pues, destáquense: [enlace]",
    "claim_type": "event_claim",
