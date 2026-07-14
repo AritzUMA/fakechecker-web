@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 376,
+  "total": 378,
   "supported": 21,
   "contradicted": 40,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 302,
-  "actualizado": "2026-07-14 00:11 UTC"
+  "insufficient": 304,
+  "actualizado": "2026-07-14 00:16 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "HACE AÑOS MATARON a SU HIJO LACRA… AYER la EJECUTARON a ELLA\nEl tipo q va en bici es El Peluche, hijo de La Chofis de La Unión.\nAsí lo asesinaron en 2020.\nAyer, otro tipo le metió 3 balazos a ella.\nAsí sacó su cuerpo el personal de @___ y @___ \n\nEl caso #C4EnAlerta [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:13"
+  },
+  {
+   "tweet": "Ustedes roben, después Avelina les enseña como evitar las auditorias, ella se ofrece a dar clases sobre su gran experiencia y mas de 899 millones de pesos robados \n\nEsta señora quiere ser Gobernadora de Guerrero  [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna referencia en los titulares proporcionados que mencione a Avelina, la enseñanza de evitar auditorías, ni un robo de 899 millones de pesos. Los artículos listados tratan temas distintos (financiación ilegal del PSOE, robo de monedas en un museo, etc.). Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:11"
+  },
   {
    "tweet": "#ADNProtegeAManzano | \nLos asambleístas de gobierno pretenden ocultar todas las pruebas para salvar a la exministra Inés Manzano de su enjuiciamiento político.\n\nLos ecuatorianos tienen claro que ustedes no los representan, sus intereses favorecen a PRIVADOS: $71 millones de [enlace]",
    "claim_type": "event_claim",
