@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 373,
+  "total": 375,
   "supported": 21,
-  "contradicted": 39,
+  "contradicted": 40,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 300,
-  "actualizado": "2026-07-14 00:01 UTC"
+  "insufficient": 301,
+  "actualizado": "2026-07-14 00:06 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "ICE sigue matando gente inocente en Estados Unidos todos los días bajo el pretexto de que son \"criminales\", \"ilegales\", \"problemáticos\", etc... El hombre era colombiano y tenía permiso de trabajo legal.\n\nMientras tanto, la derecha mexicana sigue pidiendo que vengan a meterse a [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Si, según eldiario (2026-07-08), un agente del ICE mata a un migrante mexicano en Houston, y según elespanol (2026-07-08), un agente de ICE mata a un inmigrante mexicano 'indocumentado' durante un control de vehículos en Texas, el fallecido era mexicano y se describió como indocumentado, lo que contradice la afirmación de que era colombiano con permiso de trabajo legal. Además, no hay evidencia que respalde la idea de que ICE “sigue matando gente inocente todos los días”; los incidentes reportados son aislados y no se menciona una frecuencia diaria.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:05"
+  },
+  {
+   "tweet": "🚨| Trump obliga a Arabia Saudita, Qatar, Emiratos, Kuwait y Bahréin a REEMBOLSAR a Estados Unidos por defender el Estrecho de Ormuz.\n\nEl Presidente lo dejó claro:\n\n“Quiero que nos reembolsen porque estamos protegiendo una parte MUY rica del mundo. Estamos gastando dinero… y [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No fuente encontrada menciona que el presidente Trump haya exigido reembolsos a esos países por la defensa del Estrecho de Ormuz. Los titulares recuperados (por ejemplo, de elmundo, theobjective, 20minutos, Europa_Press) tratan sobre la apertura del estrecho, negociaciones con Irán y la producción petrolera, pero no hacen referencia a una demanda de reembolso. Dado que no hay evidencia que respalde la afirmación y tampoco evidencia que la contradiga directamente, la información disponible es insuficiente para confirmar o refutar la declaración.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:02"
+  },
   {
    "tweet": "Cada vez que MORENA quiere atacar a la oposición sacan lo de el Cartel Inmobiliario y ahora que vienen las elecciones reviven el tema, pero lo que no dicen es que personas como Victor fueron los que dieron todos esos permisos y Clara Brugada lo está haciendo en toda la CDMX, ahí [enlace]",
    "claim_type": "event_claim",
