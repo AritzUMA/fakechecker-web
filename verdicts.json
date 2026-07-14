@@ -1,14 +1,75 @@
 {
  "stats": {
-  "total": 378,
-  "supported": 21,
+  "total": 383,
+  "supported": 22,
   "contradicted": 40,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 304,
-  "actualizado": "2026-07-14 00:16 UTC"
+  "insufficient": 308,
+  "actualizado": "2026-07-14 00:21 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Periodista: \"Hay informes sobre drones iraníes en Cuba...\"\n\nTrump: \"Bueno, si realmente los tienen —y es muy probable que los tengan—, nos ocuparemos de ello... nos ocuparemos de ello en poco tiempo\". [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "redstate.com",
+    "local10.com",
+    "politicalwire.com",
+    "nypost.com",
+    "washingtonexaminer.com",
+    "portfolio.hu",
+    "kuruc.info",
+    "tribune.com.pk",
+    "dw.com"
+   ],
+   "fecha": "2026-07-14 00:19"
+  },
+  {
+   "tweet": "La esposa de MANUEL ADORNI publicando un reel pidiendo EMPATÍA con los discapacitados después de que ella se hiciera millonaria con la guita que robó su esposo mientras eliminaban pensiones. El CINISMO de los libertarios [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna cobertura periodística que confirme ni refute la afirmación. Sin evidencia disponible, no se puede determinar la veracidad del reclamo.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:18"
+  },
+  {
+   "tweet": "El nuevo alcalde musulmán y comunista de NY dice que las violaciones aumentaron porque ahora cualquier cosa cuenta como una violación. Fuera de joda no se como no lo meten preso y lo deportan.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró ninguna fuente que confirme ni refute la afirmación. Los intentos de búsqueda devolvieron errores y no se obtuvo ningún titular ni artículo que aborde el tema.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:18"
+  },
+  {
+   "tweet": "Como parte de nuestra respuesta continua a los terremotos en Venezuela, el @___ concretó una alianza con la Asociación Médica Venezolano-Americana (VAMA), una organización benéfica estadounidense de médicos venezolanos que viven y trabajan en los Estados Unidos. VAMA está",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró cobertura de medios que indique que el Departamento de Estado haya concretado una alianza con VAMA. Los resultados de búsqueda mostraron errores y titulares sin relación con la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:17"
+  },
+  {
+   "tweet": "Te quieren vender que Manu al 9009 es querido por el publico, cuando solamente es el favorito de la produccion \n\n#GranHermano\n\n [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a \"Manu al 9009\" ni a la producción \"1.0009\". Los titulares disponibles tratan temas distintos (videos, miniseries, etc.) y no proporcionan evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [
+    "el_confidencial",
+    "El_Pais",
+    "theobjective",
+    "La_Razón",
+    "Newtral"
+   ],
+   "fecha": "2026-07-14 00:16"
+  },
   {
    "tweet": "HACE AÑOS MATARON a SU HIJO LACRA… AYER la EJECUTARON a ELLA\nEl tipo q va en bici es El Peluche, hijo de La Chofis de La Unión.\nAsí lo asesinaron en 2020.\nAyer, otro tipo le metió 3 balazos a ella.\nAsí sacó su cuerpo el personal de @___ y @___ \n\nEl caso #C4EnAlerta [enlace]",
    "claim_type": "event_claim",
