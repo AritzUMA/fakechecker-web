@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 375,
+  "total": 376,
   "supported": 21,
   "contradicted": 40,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 301,
-  "actualizado": "2026-07-14 00:06 UTC"
+  "insufficient": 302,
+  "actualizado": "2026-07-14 00:11 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#ADNProtegeAManzano | \nLos asambleístas de gobierno pretenden ocultar todas las pruebas para salvar a la exministra Inés Manzano de su enjuiciamiento político.\n\nLos ecuatorianos tienen claro que ustedes no los representan, sus intereses favorecen a PRIVADOS: $71 millones de [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia en los titulares proporcionados que mencione a Inés Manzano, a la exministra, ni a la supuesta ocultación de pruebas por parte de los asambleístas de gobierno. Los artículos listados tratan temas distintos (PP, Zapatero, migración, etc.) y no abordan la acusación planteada.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:08"
+  },
   {
    "tweet": "ICE sigue matando gente inocente en Estados Unidos todos los días bajo el pretexto de que son \"criminales\", \"ilegales\", \"problemáticos\", etc... El hombre era colombiano y tenía permiso de trabajo legal.\n\nMientras tanto, la derecha mexicana sigue pidiendo que vengan a meterse a [enlace]",
    "claim_type": "event_claim",
