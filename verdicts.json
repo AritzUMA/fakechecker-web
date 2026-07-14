@@ -1,14 +1,59 @@
 {
  "stats": {
-  "total": 383,
+  "total": 388,
   "supported": 22,
   "contradicted": 40,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 308,
-  "actualizado": "2026-07-14 00:21 UTC"
+  "insufficient": 313,
+  "actualizado": "2026-07-14 00:26 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇺🇸| EL PRESIDENTE TRUMP LUEGO DE SER SALVADO DE LA MUERTE POR DIOS: “Fui salvado por Dios. Eso cambió algo en mí. Creía en Dios antes, pero ahora lo siento con mucha más fuerza. Algo sucedió”. 🙏🏻 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró cobertura en las fuentes disponibles. Según la evidencia proporcionada, no hay resultados de noticias que confirmen ni contradigan la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:26"
+  },
+  {
+   "tweet": "\"¿Y como es la promoción de tus favs?\"\n\nPues: \"BTS fue visto en el baño en medio de una reunión misteriosa, algunos se han preguntado si la situación era \"NORMAL\". [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró cobertura en las fuentes consultadas.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:25"
+  },
+  {
+   "tweet": "EXCLUSIVO: La senadora Fabiola Campillai contrató con asignaciones parlamentarias a su yerno como chofer personal, quien además tiene antecedentes penales y enfrenta un juicio por amenazas.\n\nESTA NOCHE desde las 21:00 horas por T13 Central. #ReportajesTeletrece [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró cobertura en fuentes confiables que confirme la contratación ni la existencia de antecedentes penales o juicio por amenazas. Los únicos resultados son titulares sin relación con la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:23"
+  },
+  {
+   "tweet": "#RECHAZO. Pasajeros en arpto/Cartagena reportan profunda indignación por excesiva demora del vuelo de @___ con destino a Bogotá, programado para las 12:45PM. Los viajeros denuncian una absoluta falta de respuestas y atención por parte de la aerolínea frente a la eterna espera. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "No se encontró cobertura en las fuentes consultadas. Si, según las búsquedas realizadas, no se hallaron titulares que confirmen ni contradigan la demora del vuelo ni la falta de respuesta de la aerolínea.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:23"
+  },
+  {
+   "tweet": "CNN: \"Llevan meses bombardeando Irán... ¿Es esta la nueva normalidad para los estadounidenses?\"\n\nTrump: \"Bueno, estuvimos en Vietnam 19 años... Aquí llevamos cuatro meses\". [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró cobertura de noticias que confirme o refute la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:22"
+  },
   {
    "tweet": "Periodista: \"Hay informes sobre drones iraníes en Cuba...\"\n\nTrump: \"Bueno, si realmente los tienen —y es muy probable que los tengan—, nos ocuparemos de ello... nos ocuparemos de ello en poco tiempo\". [enlace]",
    "claim_type": "event_claim",
