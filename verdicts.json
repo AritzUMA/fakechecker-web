@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 395,
+  "total": 398,
   "supported": 22,
   "contradicted": 41,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 319,
-  "actualizado": "2026-08-16 16:52 UTC"
+  "insufficient": 322,
+  "actualizado": "2026-08-16 16:57 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Me cuesta entender que quienes después del 4 de septiembre estuvieron dispuestos a reformar la Constitución para abrir un segundo proceso para reemplazarla completamente, y que además apoyaron bajar los quórums constitucionales, hoy sostengan que reformar la Constitución para",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "Los titulares encontrados (El Senado culmina la cuarta reforma de la Constitución y el Rey la sanciona) no mencionan la posición de los actores después del 4 de septiembre, ni la propuesta de abrir un segundo proceso de reemplazo ni la reducción de quórums constitucionales. Tampoco se presenta ninguna fuente que indique una postura actual que contradiga o confirme la afirmación. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 16:57"
+  },
+  {
+   "tweet": "El pueblo de México ya no puede más con Claudia Sheinbaum.\n\nUna señora mayor estalla y se harta de la narcopresidenta y le pide que actúe de una vez contra los narcos dándoles la dirección de donde se encuentran.\n\nLa pendeja se hace la sorda y dice que no escucha la dirección que [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "No se encontró evidencia que respalde la afirmación. Los titulares disponibles no mencionan a una señora mayor, a una narcopresidenta ni a una petición de acción contra narcos. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:56"
+  },
+  {
+   "tweet": "Detener a un luchador social no es justicia, es represión.\n\nEl compañero Mariano Cariño Méndez fue detenido injustamente en Tlajomulco. Exigimos su liberación inmediata.\n#LiberenAMarianoCariño [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Mariano Cariño Méndez ni su detención en Tlajomulco. Los titulares disponibles se refieren a otras personas y casos. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:53"
+  },
   {
    "tweet": "La detención de un compañero que lucha por mejores condiciones para el pueblo debe preocuparnos a todos. El Movimiento Antorchista exige la libertad inmediata de Mariano Cariño Méndez. #LiberenAMarianoCariño [enlace]",
    "claim_type": "event_claim",
