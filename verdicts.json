@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 402,
+  "total": 404,
   "supported": 22,
-  "contradicted": 41,
+  "contradicted": 42,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 326,
-  "actualizado": "2026-08-16 17:07 UTC"
+  "insufficient": 327,
+  "actualizado": "2026-08-16 17:12 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "El Real Madrid ha hecho un PLANTILLÓN con su dinero, sin que se lo financie ningún gobierno estatal o autonómico ni se lo inscriban las autoridades deportivas y políticas",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.7,
+   "reasoning": "El título \"Madrid usa la financiación de los servicios públicos para provocar un nuevo choque con el Gobierno central\" sugiere que el club utiliza fondos públicos, lo que contradice la afirmación de que no recibe financiamiento estatal. Además, \"La deuda de Sánchez con Madrid asciende ya a 12.367 millones\" indica una relación financiera con el gobierno, reforzando la contradicción.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:11"
+  },
+  {
+   "tweet": "🚨🇧🇷| El primer acto público de Flávio Bolsonaro como candidato presidencial de Brasil, llenó Copacabana de punta a punta. Miles de personas se reunieron en la playa más famosa de Brasil para apoyarlo y decirle NO al comunismo y a Lula da Silva. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "Los titulares recuperados por GDELT (por ejemplo, los artículos [1] y [2] sobre el lanzamiento de la candidatura de Flávio Bolsonaro) no mencionan Copacabana ni la presencia de una multitud masiva en la playa. Dado que no se encuentra evidencia que confirme ni refute la afirmación, la información disponible es insuficiente para determinar su veracidad.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:09"
+  },
   {
    "tweet": "🥈 𝙃𝙐𝙂𝙊 𝙂𝙊𝙉𝙕𝘼́𝙇𝙀𝙕 𝙇𝙊𝙂𝙍𝘼 𝙇𝘼 𝙋𝙇𝘼𝙏𝘼 𝙀𝙐𝙍𝙊𝙋𝙀𝘼\n\nEl nadador español nos hizo soñar con el oro en el último 50m a crol, pero rompe la sequía de España en la última jornada de competición.\n\n🤩 La última narración de Julia Luna tenía que acabar así. [enlace]",
    "claim_type": "opinion",
