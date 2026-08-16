@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 388,
+  "total": 389,
   "supported": 22,
   "contradicted": 40,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 313,
-  "actualizado": "2026-07-14 00:26 UTC"
+  "insufficient": 314,
+  "actualizado": "2026-08-16 16:37 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "El voto fusil que las FARC, el ELN, Clan del Golfo impuso en regiones como Guaviare donde hablé con campesinos de Calamar y Miraflores que eran constreñidos para votar por Cepeda el candidato de Petro. \n\n4 millones de votos que deberían investigarse a fondo. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna cobertura en las fuentes proporcionadas que confirme ni refute la afirmación. Los únicos resultados son titulares sobre elecciones en Extremadura, que no están relacionados con el contexto de Guaviare ni con la supuesta coerción electoral. Por lo tanto, no hay evidencia suficiente para apoyar o contradicir la afirmación.",
+   "outlets": [],
+   "fecha": "2026-07-14 00:26"
+  },
   {
    "tweet": "🇺🇸| EL PRESIDENTE TRUMP LUEGO DE SER SALVADO DE LA MUERTE POR DIOS: “Fui salvado por Dios. Eso cambió algo en mí. Creía en Dios antes, pero ahora lo siento con mucha más fuerza. Algo sucedió”. 🙏🏻 [enlace]",
    "claim_type": "event_claim",
