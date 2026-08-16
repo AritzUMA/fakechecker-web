@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 448,
+  "total": 449,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 366,
-  "actualizado": "2026-08-16 18:43 UTC"
+  "insufficient": 367,
+  "actualizado": "2026-08-16 18:48 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Lo más descarado es que dicen que Petro dejó un enorme hueco fiscal, pero al mismo tiempo derrochan presupuesto en montar una puesta en escena para vender su supuesto “buen gobierno”. [enlace]",
+   "claim_type": "quote_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.6,
+   "reasoning": "Se encontró evidencia que indica que Petro dejó a Colombia con el mayor déficit presupuestario de Iberoamérica, lo que respalda la parte de la afirmación sobre el hueco fiscal. No se encontró evidencia que respalde la acusación de que se derrocha presupuesto en una puesta en escena para vender su supuesto \"buen gobierno\". Por lo tanto, la evidencia es insuficiente para confirmar la afirmación completa.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:47"
+  },
   {
    "tweet": "León, el diputado ceutí del PSOE: \"Mi hija no puede salir de casa, pero él (Pedro Sánchez) está aconsejando libros\".\n[Y música].\n[enlace]",
    "claim_type": "opinion",
