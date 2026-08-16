@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 428,
+  "total": 431,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 346,
-  "actualizado": "2026-08-16 17:57 UTC"
+  "insufficient": 349,
+  "actualizado": "2026-08-16 18:03 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Todos hablan de que la fiesta de anoche terminó muy mal, cada vez que nombran el tema cortan las cámaras ☠️",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró evidencia que indique que la fiesta terminó muy mal. El titular 1 menciona el cierre de la fiesta, pero no indica que haya sido malo. El titular 2 menciona un suceso inesperado, pero no especifica que la fiesta terminó mal. Si, según [1] y [2], no hay confirmación de que la fiesta terminó muy mal.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 18:00"
+  },
+  {
+   "tweet": "Melchor León: \"Después de 16 días, Ceuta sigue sumida en el caos y así no se puede vivir. No sabemos cuándo van a retornar a Marruecos ni cuando nuestros niños van a poder salir tranquilos a la calle. Los ceutíes estamos ya cansados\".\n\nLa 'normalidad'.\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró evidencia directa que confirme que Ceuta sigue sumida en el caos después de 16 días ni que los niños no puedan salir a la calle con tranquilidad. Los titulares disponibles, como \\\"Golpe de la Guardia Civil en Ceuta al tráfico de migrantes en una operación simultánea en varios puntos de la ciudad\\\", indican actividad policial pero no describen un estado de caos ni la situación de los niños. Tampoco hay menciones de la incertidumbre sobre el retorno a Marruecos. Por lo tanto, la evidencia es insuficiente para apoyar o refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:59"
+  },
+  {
+   "tweet": "La Ministra Mónica García ha confirmado hoy que se han atendido 5800 migrantes en los últimos 15 días.\n\nHace 2 días Marlaska afirmó que tras la invasión, se han quedado en Ceuta cerca de 5000 migrantes.\n\nSi se ha atendido a 5800, la cifra de personas total debe ser enorme y desde [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que respalde la cifra de 5800 migrantes atendidos en los últimos 15 días. Los titulares disponibles mencionan cifras de 134 (Cruz Roja, 3 pateras), 87,000 (Barcelona, proceso de regularización) y 60,656 (solicitudes de regularización en los primeros días, Europa Press, 21 Abr.), pero no 5800. Tampoco hay titulares que contradigan explícitamente la cifra de 5800.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:58"
+  },
   {
    "tweet": "Esto es la izquierda criminal siempre, sin duda, es su signo: destruir, precipitar lo peor en medio de una emergecia. \n\nLas basuras que defienden ciertos senadores atacaron un hospital donde nuestros héroes del Ejército atendían heridos: [enlace]",
    "claim_type": "event_claim",
