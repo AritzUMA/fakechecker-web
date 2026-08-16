@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 439,
+  "total": 440,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 357,
-  "actualizado": "2026-08-16 18:18 UTC"
+  "insufficient": 358,
+  "actualizado": "2026-08-16 18:23 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Otro ejemplo de como el propio Hamás presume de como recluta niños a partir de los 15 años para combatir a #Israel.\n🇮🇱🔥🇵🇸\n- Obviamente el chico murió en combate y Hamás lo publica así: \"El mártir combatiente, Abd al-Rahman, 15 años\".\n- Luego vienen los titulares en los medios [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:19"
+  },
   {
    "tweet": "Si no sabes que pagarle 8’4 millones al vicepresidentente de los àrbitros es corrupcion, qué coño vas a saber tú de todo eso..😉",
    "claim_type": "opinion",
