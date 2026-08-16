@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 446,
+  "total": 448,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 364,
-  "actualizado": "2026-08-16 18:38 UTC"
+  "insufficient": 366,
+  "actualizado": "2026-08-16 18:43 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "León, el diputado ceutí del PSOE: \"Mi hija no puede salir de casa, pero él (Pedro Sánchez) está aconsejando libros\".\n[Y música].\n[enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró ninguna fuente que confirme la existencia de un diputado ceutí llamado León ni la citada declaración. Los titulares disponibles se refieren a Pedro Sánchez y a libros, pero no a León ni a la frase mencionada.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:42"
+  },
+  {
+   "tweet": "SE DESATA LA PELEA POR LA PRESIDENCIA DE LA CORTE: LENIA BATRES, “LA DE LA VECINDAD”, YA GRITA COMPLOT\n\nLa morenista Lenia Batres asegura que ya quieren cerrarle el paso para que no llegue a la presidencia de la Suprema Corte en 2027.\n\nDice que la están “vetando con un año de [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró cobertura que mencione a Lenia Batres en relación con la presidencia de la Suprema Corte. Los titulares encontrados en la evidencia se refieren a bloqueos del PP y otros temas, pero no a la figura de Lenia Batres. Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:40"
+  },
   {
    "tweet": "Zilli: “Te pusieron desinfectante en la lengua y todo?”\n\nSol: “Si, no me quiero acordar, estoy tratando de no pensar, quédate tranquila que me dieron de todo”\n\nNO PUEDE SER POBRE SOL 🙏 [enlace]",
    "claim_type": "event_claim",
