@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 407,
+  "total": 410,
   "supported": 23,
   "contradicted": 42,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 329,
-  "actualizado": "2026-08-16 17:17 UTC"
+  "insufficient": 332,
+  "actualizado": "2026-08-16 17:22 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "De éstos; los que sois marroquíes: “No tenéis derecho al asilo. Marruecos es un «país seguro» que se lleva cada año cientos de millones de los europeos (sobre todo españoles) para sus inversiones. Habéis asaltado nuestra frontera con violencia, habéis sido empleados como arma",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró evidencia que respalde la afirmación de que Marruecos es un país seguro que se lleva cientos de millones de europeos para sus inversiones. Los artículos encontrados tratan sobre inversiones de la UE y Francia en Marruecos, pero no abordan el tema del asilo ni la migración de europeos a Marruecos.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:22"
+  },
+  {
+   "tweet": "Todas las vidas importan ❤️.\n\nNuestra misión de bienestar animal en Cali, liderada por el @___ , sigue recorriendo las zonas afectadas por la emergencia rescatando y atendiendo a los animalitos que también necesitan ayuda.\n\nHasta ahora han logrado rescatar con vida a 5 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione rescates de animales en Cali por parte de @___. La evidencia disponible se refiere a rescates en California (EE. UU.) y no a Cali, Colombia. Por lo tanto, no hay respaldo ni contradicción directa para la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:20"
+  },
+  {
+   "tweet": "Circula en redes sociales.\n\n\"¡ Ya me cansé de quedarme callada !\"\n\nAsí la denuncia de una trabajadora del Sector Salud en Tamaulipas.\n\n¡Dos años trabajando sin pagarle!\n\nCuando censuren las redes sociales, esto ya no se sabrá. \n\nLa 4T va..\n\n👇 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "La evidencia encontrada no menciona directamente la frase \"Ya me cansé de quedarme callada\" ni indica que el autor de la afirmación haya expresado esa idea. Los titulares citados hablan de la necesidad de callarse o de que el cuerpo grita, pero no confirman ni refutan la declaración específica. Por lo tanto, no hay evidencia suficiente para apoyar o contradicir la afirmación.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 17:18"
+  },
   {
    "tweet": "🔴LO LEÍSTE?| Suboficial de Carabineros denunció acoso de un general ante la ministra de la Mujer, pero no hizo nada\n[enlace]",
    "claim_type": "event_claim",
