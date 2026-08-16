@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 442,
+  "total": 444,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 360,
-  "actualizado": "2026-08-16 18:28 UTC"
+  "insufficient": 362,
+  "actualizado": "2026-08-16 18:33 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴‼️ Tertsch propone entregar el Sáhara Occidental a Marruecos a cambio de que Rabat respete #Ceuta y #Melilla, mientras @___ guarda silencio\n\n¿Está defendiendo @___ que la soberanía española sobre Ceuta y Melilla debe ser objeto de negociación con Marruecos? ➡️ [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Tertsch haciendo tal propuesta ni que indique que Vox haya guardado silencio sobre el tema. Los titulares encontrados se centran en planes de Marruecos para el Sáhara y en la situación de Ceuta y Melilla, pero no hacen referencia a Tertsch ni a Vox. Por lo tanto, la evidencia disponible no permite confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:31"
+  },
+  {
+   "tweet": "@___ Este tipo de tweets para un boomer hablando de los 80 tiene un pase, pero que pongas esto tu que en 2016 tenias 11 años y hables de que se podia comprar una vivienda cuando se estaban desahuciando 5 veces más familias que ahora es otro nivel\n\nPropaganda para tontos",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró evidencia que confirme ni refute la afirmación de que la tasa de desahucios familiares hoy sea cinco veces mayor que en los años 80. Los titulares disponibles (por ejemplo, \"¿Fin del país de propietarios? La vivienda en propiedad cae a mínimos de hace más de 50 años\" y \"España lidera el deterioro del acceso a la vivienda: el esfuerzo para comprar casa supera en casi 80 puntos la media de la eurozona\") se centran en la disminución de la propiedad y el acceso a la vivienda, pero no mencionan cifras de desahucios ni comparaciones con la década de los 80. Por lo tanto, la evidencia encontrada es insuficiente para sustentar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:28"
+  },
   {
    "tweet": "Ha volcado un camión de la UME en el incendio de Las Peñas de Riglos.\n\nHay al menos un patriota muerto y varios heridos.\n\nDescanse en paz.",
    "claim_type": "event_claim",
