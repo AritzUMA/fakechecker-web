@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 434,
+  "total": 437,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 352,
-  "actualizado": "2026-08-16 18:08 UTC"
+  "insufficient": 355,
+  "actualizado": "2026-08-16 18:13 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🟥✅⚠️ Gravedad institucional. Javier Milei sigue recluido en Olivos, sin agenda, su hermana le prohibió verse con sus Ministros, 7 días en los que Milei no sale ni al jardín de Olivos. En su última aparición pública se lo vio desorbitado. ¿La oposición no va a decir nada?.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:12"
+  },
+  {
+   "tweet": "Una posible solución. Árbitros extranjeros con CERO contacto con el Negreirato, sua dirigentes y sus tentáculos mediáticos y deportivos.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que confirme ni niegue la afirmación de que los árbitros extranjeros deben tener cero contacto con el Negreirato. Los titulares recuperados (sobre servicios jurídicos de clubes y denuncias de la FIFA) no abordan este tema. Por lo tanto, la evidencia disponible es insuficiente para apoyar o refutar la afirmación.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 18:10"
+  },
+  {
+   "tweet": "#URGENTE🚨 ¡ASI QUEDARON LOS ALBERGUES DE DELCY! 👎🏻\n\n🌧️Los albergues que hace un par de días tanto Delcy como Jorge Rodríguez promocionaron en Ciudad Caribia como refugios temporales para las víctimas del terremoto, se inundaron todos. \n\n🐟Ahora le dicen las Peceras de Ciudad [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró cobertura de los albergues ni de su inundación en los titulares encontrados. Los artículos listados tratan sobre el terremoto en general y no mencionan Ciudad Caribia, los albergues ni la participación de Delcy y Jorge Rodríguez.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:09"
+  },
   {
    "tweet": "Reapareció el asesino y criminal de lesa humanidad Granko Arteaga, pidió a los suyos \"actuar con inteligencia, reconfigurar su estrategia\" para defender el \"legado de Chávez\". [enlace]",
    "claim_type": "event_claim",
