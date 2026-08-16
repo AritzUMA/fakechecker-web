@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 424,
+  "total": 426,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 342,
-  "actualizado": "2026-08-16 17:47 UTC"
+  "insufficient": 344,
+  "actualizado": "2026-08-16 17:52 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#SismosColombiaSGC Evento Sísmico - Boletín Actualizado 1, 2026-08-16, 12:42 hora local Magnitud 3.1. Profundidad superficial, Sipí - Chocó, Colombia ¿Sintió este sismo? repórtelo [enlace] [enlace] #Temblor #Sismo [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró ninguna fuente que confirme la ocurrencia de un terremoto de magnitud 3.1 en Sipí, Chocó, el 16 de agosto de 2026. Los titulares recuperados se refieren a eventos sísmicos en otras regiones (centro de Colombia, Santa Fe) y a magnitudes distintas. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:52"
+  },
+  {
+   "tweet": "🚨OJO: ALCALDESA QUE DICE NO SER PRIÍSTA LIDERA MARCHA DEL PRI A LA QUE FUERON MENOS DE 100 PERSONAS: “CAERÁ MORENA”\n\nAlessandra Rojo de la Vega, alcaldesa de Cuauhtémoc, participó en una movilización convocada por simpatizantes del PRI, pese a que públicamente ha sostenido que [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.8,
+   "reasoning": "No se encontró ninguna fuente que confirme ni contradiga la afirmación. Los titulares disponibles se refieren a temas distintos (moción de censura, manifestaciones de otros partidos, etc.) y no mencionan a una alcaldesa que se niegue a ser PRI, que lidere una marcha del PRI con menos de 100 personas ni que prohíba la caída de Morena.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:49"
+  },
   {
    "tweet": "Tomy: Por qué hay un cuchillo ahí?\n\nZilli: AY SACALO DE AHI 💀\n\n#GranHermano [enlace]",
    "claim_type": "event_claim",
