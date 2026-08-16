@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 449,
+  "total": 451,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 367,
-  "actualizado": "2026-08-16 18:48 UTC"
+  "insufficient": 369,
+  "actualizado": "2026-08-16 18:53 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "No apartes la mirada, no evites el tema. Esto es Ceuta, España. Es tu país. Nuestro país. Son nuestros compatriotas.\nY el gobierno dejó que los invadieran y ahora los ha abandonado. Han violado a 15 mujeres -algunas niñas- en apenas 15 días. Tienen miedo.\n\nPor favor,  reacciona",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró cobertura en los titulares recuperados que mencione violaciones en Ceuta ni que indique que el gobierno haya abandonado a los residentes. Los titulares disponibles tratan sobre casos de violación en otras localidades (Sanfermines, Lérida, Girona, etc.) y no hacen referencia a Ceuta. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:53"
+  },
+  {
+   "tweet": "La ministra Alexandra Falla hoy convertida a la extrema coherencia, antes aplaudía la extrema incoherencia de Petro. Por favor presidente Abelardo, revise ese nombramiento por encima de la recomendación que haya de por medio. Dejo otra evidencia de su petrismo⬇️ eso no va a salir [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a la ministra Alexandra Falla en relación con el presidente Gustavo Petro. Los titulares recuperados (Milagros Tolón, Rosa Villavicencio, etc.) no hacen referencia a ella ni a su postura sobre Petro. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:49"
+  },
   {
    "tweet": "Lo más descarado es que dicen que Petro dejó un enorme hueco fiscal, pero al mismo tiempo derrochan presupuesto en montar una puesta en escena para vender su supuesto “buen gobierno”. [enlace]",
    "claim_type": "quote_claim",
