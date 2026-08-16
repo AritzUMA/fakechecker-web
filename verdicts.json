@@ -1,14 +1,52 @@
 {
  "stats": {
-  "total": 420,
-  "supported": 23,
+  "total": 424,
+  "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 339,
-  "actualizado": "2026-08-16 17:42 UTC"
+  "insufficient": 342,
+  "actualizado": "2026-08-16 17:47 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Tomy: Por qué hay un cuchillo ahí?\n\nZilli: AY SACALO DE AHI 💀\n\n#GranHermano [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:47"
+  },
+  {
+   "tweet": "también hermana si tu post con 20k tiene 8283838383 citados arrastrándolos y diciendo infamias de ellos, para qué tienes eso colgado. es evidente que no se puede manejar lo que dice la gente pero no regales la plataforma para que sigan hablando basura. de qué sirve cerrar",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione o refute la existencia de un post con 20k y 8283838383 citados, ni que hable de arrastrar a personas o de infamias. Los titulares encontrados (por ejemplo, sobre el bloqueo de webs de predicción, la policía precintando almacenes, la retirada de mensajes de odio, o el cierre de grupos de Facebook) no abordan el tema planteado. Por lo tanto, no hay evidencia suficiente para apoyar ni contradicción de la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:47"
+  },
+  {
+   "tweet": "Enorme manifestación a favor de @___ en el inicio de su campaña contra el socialista Lula da Silva, quien mantiene encarcelado a su padre, Jair Bolsonaro.\n\n [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 17:45"
+  },
+  {
+   "tweet": "“Te doy mi nombre para que luego me maten a media calle” es la más escalofriante normalización de lo que pasa en México.",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione la frase ni que la relacione con la violencia en México. Los titulares disponibles tratan sobre la violencia general en el país, pero no hacen referencia a la expresión citada. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:44"
+  },
   {
    "tweet": "“Cancelo se desvincula del Al Hilal y llegará al Barça como agente libre. Joao Cancelo estará este martes en Barcelona”\n\n(Vía @___)\n\n💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣 [enlace]",
    "claim_type": "event_claim",
