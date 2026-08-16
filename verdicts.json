@@ -1,14 +1,23 @@
 {
  "stats": {
-  "total": 391,
+  "total": 392,
   "supported": 22,
   "contradicted": 41,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 315,
-  "actualizado": "2026-08-16 16:42 UTC"
+  "insufficient": 316,
+  "actualizado": "2026-08-16 16:47 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "EL PRESIDENTE JAVIER MILEI ENCABEZÓ UNA REUNIÓN CON LEGISLADORES DE LA LIBERTAD AVANZA EN CASA ROSADA \n\nEl presidente Javier Milei encabezó hoy una reunión con diputados y senadores nacionales de La Libertad Avanza en el Salón Héroes de Malvinas de la Casa Rosada, con el objetivo [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró cobertura que confirme la reunión. La única referencia disponible es un artículo sobre Adorni recibiendo senadores libertarios en la Casa Rosada, sin mención de Milei ni de la reunión descrita. Tampoco hay evidencia que la contradiga directamente.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:42"
+  },
   {
    "tweet": "#Nación l El presidente @___ ordenó que ningún establecimiento militar sea utilizado el próximo 7 de agosto para la posesión del presidente electo. El mandatario aseguró que la transmisión de mando debe cumplir las disposiciones de la Constitución y la ley que establecen [enlace]",
    "claim_type": "event_claim",
