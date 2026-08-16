@@ -1,14 +1,41 @@
 {
  "stats": {
-  "total": 404,
-  "supported": 22,
+  "total": 407,
+  "supported": 23,
   "contradicted": 42,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 327,
-  "actualizado": "2026-08-16 17:12 UTC"
+  "insufficient": 329,
+  "actualizado": "2026-08-16 17:17 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🔴LO LEÍSTE?| Suboficial de Carabineros denunció acoso de un general ante la ministra de la Mujer, pero no hizo nada\n[enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione que un suboficial de Carabineros haya denunciado acoso sexual de un general ante la ministra de la Mujer, ni que se haya tomado alguna acción al respecto. Los titulares disponibles (por ejemplo, sobre Alegría y Salazar, o sobre un suboficial herido) no abordan este caso específico.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:16"
+  },
+  {
+   "tweet": "🤯 QUÉ INICIO DE TARDE MÁS INMEJORABLE.\n\nSegunda medalla para España (@___) con el 𝙗𝙧𝙤𝙣𝙘𝙚 𝙚𝙪𝙧𝙤𝙥𝙚𝙤 de Laura Cabanes en los 200m mariposa. \n\n📺 La última jornada del #EuropeanAcquatics en Teledeporte y @___ [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "supported",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:14"
+  },
+  {
+   "tweet": "¡BRONCE DE LAURA CABANES!\n¡PASO AL FRENTE HACIA LA ÉLITE!\n\n🇪🇸 Laura Cabanes es bronce en los 200m Mariposa del Europeo de Natación con una marca de 2:07.21.\n\n🔥 Crecimiento exponencial de Cabanes. Paso al frente con una actuación y una marca de nivel TOP8 mundial.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No fuente encontrada que mencione a Laura Cabanes ni su resultado en los 200m mariposa del Europeo de Natación. Los titulares recuperados se refieren a Mireia Belmonte, Teresa Perales, Iris Tió y otros temas sin relación con la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:12"
+  },
   {
    "tweet": "El Real Madrid ha hecho un PLANTILLÓN con su dinero, sin que se lo financie ningún gobierno estatal o autonómico ni se lo inscriban las autoridades deportivas y políticas",
    "claim_type": "event_claim",
