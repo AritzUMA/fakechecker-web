@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 418,
+  "total": 420,
   "supported": 23,
-  "contradicted": 44,
+  "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 338,
-  "actualizado": "2026-08-16 17:37 UTC"
+  "insufficient": 339,
+  "actualizado": "2026-08-16 17:42 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "“Cancelo se desvincula del Al Hilal y llegará al Barça como agente libre. Joao Cancelo estará este martes en Barcelona”\n\n(Vía @___)\n\n💣💣💣💣💣💣💣💣💣💣💣💣💣💣💣 [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:41"
+  },
+  {
+   "tweet": "❤️🥉𝐁𝐑𝐎𝐍𝐂𝐄 𝐄𝐔𝐑𝐎𝐏𝐄𝐎 𝐏𝐀𝐑𝐀 𝐋𝐀𝐔𝐑𝐀 𝐂𝐀𝐁𝐀𝐍𝐄𝐒🥉❤️\n\n🚀La nadadora española hace una pedazo marca para quedar tercera de Europa en los 200 mariposa\n\n💪¡Vamos! [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.95,
+   "reasoning": "El enigma Mireia Belmonte indica que la nadadora obtuvo una plata histórica en los 200 mariposa, lo que contradice la afirmación de que quedó tercera.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:39"
+  },
   {
    "tweet": "🇺🇸🇭🇳🇳🇮🇭🇹🇻🇪‼️ | Estados Unidos clausuró el Estatus de Protección Temporal (TPS) para Honduras, Nicaragua, Haití y Venezuela, una decisión que afecta a más de 500.000 personas. La medida se concretó tras un fallo de la Corte Suprema a favor de la administración Trump, que busca [enlace]",
    "claim_type": "event_claim",
