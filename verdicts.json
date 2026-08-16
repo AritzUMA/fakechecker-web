@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 440,
+  "total": 442,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 358,
-  "actualizado": "2026-08-16 18:23 UTC"
+  "insufficient": 360,
+  "actualizado": "2026-08-16 18:28 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Ha volcado un camión de la UME en el incendio de Las Peñas de Riglos.\n\nHay al menos un patriota muerto y varios heridos.\n\nDescanse en paz.",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna referencia en los titulares recuperados que mencione un camión de la Unidad Militar de Emergencias (UME) volcado en el incendio de Las Peñas de Riglos. Los artículos disponibles tratan sobre la movilización de la UME en incendios en Ávila, Villanueva de los Castillejos, Empordà, entre otros, pero no incluyen la localidad de Las Peñas de Riglos ni la situación de un camión volcado.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:26"
+  },
+  {
+   "tweet": "🚨🇨🇴 | AHORA — Abelardo de la Espriella arribó junto a la primera dama Ana Lucía Pineda y sus hijos a Buenaventura para continuar atendiendo personalmente la emergencia en una de las zonas golpeadas por el devastador terremoto. [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "No se encontró ninguna fuente que mencione la presencia de Abelardo de la Espriella ni de la primera dama Ana Lucía Pineda en Buenaventura después del terremoto. Los titulares disponibles se refieren a terremotos en Colombia (por ejemplo, \\\"Un terremoto de magnitud 5,8 sacude el centro de Colombia\\\" y \\\"Terremoto en Colombia, en directo | Decretan toques de queda en Cali y Pereira tras el terremoto en Colombia\\\"), pero no incluyen a los individuos mencionados en la afirmación. Por lo tanto, la evidencia no apoya la afirmación y tampoco la contradice directamente.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:23"
+  },
   {
    "tweet": "Otro ejemplo de como el propio Hamás presume de como recluta niños a partir de los 15 años para combatir a #Israel.\n🇮🇱🔥🇵🇸\n- Obviamente el chico murió en combate y Hamás lo publica así: \"El mártir combatiente, Abd al-Rahman, 15 años\".\n- Luego vienen los titulares en los medios [enlace]",
    "claim_type": "event_claim",
