@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 398,
+  "total": 400,
   "supported": 22,
   "contradicted": 41,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 322,
-  "actualizado": "2026-08-16 16:57 UTC"
+  "insufficient": 324,
+  "actualizado": "2026-08-16 17:02 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Junto con la Fundación BNL2 (Busca Tu Norte, Levántate y Lucha) y la mayora @___ llegamos hasta el Resguardo Indígena Emberá Chamí que habita en el Chocó para entregar parte de las donaciones que Colombia nos confió.\n\nDesde que ocurrió el terremoto, a esta comunidad no [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.15,
+   "reasoning": "No se encontró evidencia que confirme ni contradiga la entrega de donaciones a la comunidad Emberá Chamí. Los titulares encontrados se refieren a terremotos en Colombia y Venezuela, sin mención de la Fundación BNL2 ni de la mayora Aida Quilcue.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:00"
+  },
+  {
+   "tweet": "🚨🇲🇽 | LE ENTREGARON EL PAÍS AL NARCO: En medio de una ola de violencia terrorista, el narcogobierno de Claudia Sheinbaum redujo en más de un 21% el presupuesto a la Guardia Nacional en 2025, según reportó el INEGI, debilitando a las fuerzas de seguridad para que no estorben en [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione una reducción del presupuesto a la Guardia Nacional en 2025 ni que indique que el INEGI haya reportado tal cifra. Los titulares recuperados se refieren a temas de España y la Unión Europea, sin relación con México ni con la Guardia Nacional. Por lo tanto, no hay evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:59"
+  },
   {
    "tweet": "Me cuesta entender que quienes después del 4 de septiembre estuvieron dispuestos a reformar la Constitución para abrir un segundo proceso para reemplazarla completamente, y que además apoyaron bajar los quórums constitucionales, hoy sostengan que reformar la Constitución para",
    "claim_type": "event_claim",
