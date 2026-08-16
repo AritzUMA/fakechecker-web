@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 392,
+  "total": 395,
   "supported": 22,
   "contradicted": 41,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 316,
-  "actualizado": "2026-08-16 16:47 UTC"
+  "insufficient": 319,
+  "actualizado": "2026-08-16 16:52 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "La detención de un compañero que lucha por mejores condiciones para el pueblo debe preocuparnos a todos. El Movimiento Antorchista exige la libertad inmediata de Mariano Cariño Méndez. #LiberenAMarianoCariño [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna referencia a Mariano Cariño Méndez en los titulares disponibles. Los artículos listados tratan sobre la detención del padre de Kiko Jiménez, un jefe antidroga de la Policía Nacional y otros temas sin relación con la figura mencionada. Por lo tanto, la evidencia no apoya ni contradice la afirmación.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 16:51"
+  },
+  {
+   "tweet": "🔴 ¡Basta de injusticias!\n\nNuestro compañero Mariano Cariño Méndez está detenido injustamente en #Jalisco por alzar la voz por los más pobres. Exigimos su libertad inmediata.\n#LiberenAMarianoCariño @___ [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna fuente que mencione a Mariano Cariño Méndez ni su detención. Los titulares disponibles se refieren a arrestos de líderes del Cartel Jalisco Nueva Generación y otras noticias sin relación con la persona citada. Por lo tanto, no hay evidencia suficiente para apoyar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:50"
+  },
+  {
+   "tweet": "¿Por qué tras más de 50 días del terremoto todavía el régimen tiene a familias damnificadas a la intemperie viviendo en carpas?\n\n¿Por qué no se han habilitado refugios en lugares adecuados?\n\n¿Por qué si se sabía que iba a llover fuerte, no fueron evacuados antes a un lugar seguro",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que respalde ni contradiga la afirmación. Los titulares disponibles se refieren a terremotos de menor magnitud (5,5 y 5,6) en el norte y este de Turquía y no abordan la situación de familias en carpas ni la falta de refugios. El único artículo de GDELT (bitlysdowssl-aws.com, 2026‑06‑28) menciona un análisis de la respuesta nacional, pero no detalla la existencia de carpas ni la evacuación de familias. Por lo tanto, la evidencia es insuficiente para confirmar o refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:48"
+  },
   {
    "tweet": "EL PRESIDENTE JAVIER MILEI ENCABEZÓ UNA REUNIÓN CON LEGISLADORES DE LA LIBERTAD AVANZA EN CASA ROSADA \n\nEl presidente Javier Milei encabezó hoy una reunión con diputados y senadores nacionales de La Libertad Avanza en el Salón Héroes de Malvinas de la Casa Rosada, con el objetivo [enlace]",
    "claim_type": "event_claim",
