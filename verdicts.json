@@ -1,14 +1,36 @@
 {
  "stats": {
-  "total": 416,
+  "total": 418,
   "supported": 23,
-  "contradicted": 43,
+  "contradicted": 44,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 337,
-  "actualizado": "2026-08-16 17:32 UTC"
+  "insufficient": 338,
+  "actualizado": "2026-08-16 17:37 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🇺🇸🇭🇳🇳🇮🇭🇹🇻🇪‼️ | Estados Unidos clausuró el Estatus de Protección Temporal (TPS) para Honduras, Nicaragua, Haití y Venezuela, una decisión que afecta a más de 500.000 personas. La medida se concretó tras un fallo de la Corte Suprema a favor de la administración Trump, que busca [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:37"
+  },
+  {
+   "tweet": "Petróleo, gas y un mapa de México:\n\nLa mezcla mexicana cerró la semana arriba de $80 dólares por barril, con el Brent rozando los $90 por la tensión en Medio Oriente.\n\nMéxico importa el 75% de su gas natural de un solo país.\n\nEl plan: duplicar la producción nacional a 5,871 mmpcd",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [
+    "news",
+    "MAECgob",
+    "transportesgob"
+   ],
+   "fecha": "2026-08-16 17:35"
+  },
   {
    "tweet": "Esto solo puede entenderse si se acepta que el Gobierno socialista, traidor y corrupto, lo quería. Si sucede, es porque Sánchez quiere, porque el PSOE quiere. La traición está “cometiéndose” ahora. Pero precisamos 56 diputados que permitan activar el 102CE. [enlace]",
    "claim_type": "event_claim",
