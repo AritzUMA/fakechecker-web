@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 426,
+  "total": 428,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 344,
-  "actualizado": "2026-08-16 17:52 UTC"
+  "insufficient": 346,
+  "actualizado": "2026-08-16 17:57 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Esto es la izquierda criminal siempre, sin duda, es su signo: destruir, precipitar lo peor en medio de una emergecia. \n\nLas basuras que defienden ciertos senadores atacaron un hospital donde nuestros héroes del Ejército atendían heridos: [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se encontró evidencia que respalde la afirmación de que senadores defendieron basuras que atacaron un hospital donde los héroes del Ejército atendían heridos. Los titulares recuperados se refieren a hospitales en Ucrania, a hospitales españoles y a controversias sobre senadores, pero no mencionan un ataque de basuras ni la defensa de los mismos por parte de senadores.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:56"
+  },
+  {
+   "tweet": "🔴 Trasciende que tras la cancelación de la visa de  Andy , el Sen. Adán López  @___ pedirá licencia, no hay que olvidar también a él le cancelaron su visa .",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.1,
+   "reasoning": "No se encontró ninguna fuente que mencione la cancelación de la visa de Andy ni la solicitud de licencia por parte del Sen. Adán López. Los titulares disponibles tratan temas distintos (Venezuela, Estados Unidos, España) y no contienen información relevante para la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:54"
+  },
   {
    "tweet": "#SismosColombiaSGC Evento Sísmico - Boletín Actualizado 1, 2026-08-16, 12:42 hora local Magnitud 3.1. Profundidad superficial, Sipí - Chocó, Colombia ¿Sintió este sismo? repórtelo [enlace] [enlace] #Temblor #Sismo [enlace]",
    "claim_type": "event_claim",
