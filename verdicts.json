@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 389,
+  "total": 391,
   "supported": 22,
-  "contradicted": 40,
+  "contradicted": 41,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 314,
-  "actualizado": "2026-08-16 16:37 UTC"
+  "insufficient": 315,
+  "actualizado": "2026-08-16 16:42 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "#Nación l El presidente @___ ordenó que ningún establecimiento militar sea utilizado el próximo 7 de agosto para la posesión del presidente electo. El mandatario aseguró que la transmisión de mando debe cumplir las disposiciones de la Constitución y la ley que establecen [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que confirme que el presidente @___ emitió tal orden. Los titulares recuperados se refieren a actos militares en el Congreso, a decisiones de Trump y a nombramientos militares en Venezuela, pero no mencionan la prohibición de usar instalaciones militares el 7 de agosto ni la transmisión de mando según la Constitución.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:41"
+  },
+  {
+   "tweet": "Reflotar el hecho que:\n-En 🇬🇧 el Jefe de la Iglesia = el Jefe de Estado\n-Los miembros de la Cámara de Senadores (Lores) no son votados por el pueblo \n-Tienen 26 miembros obispos de la Iglesia anglicana \n\nY concluir que es un régimen teocrático hace saltar a los pro 🇬🇧 locales…",
+   "claim_type": "event_claim",
+   "verdict": "contradicted",
+   "confidence": 0.5,
+   "reasoning": "Veredicto extraido del texto.",
+   "outlets": [],
+   "fecha": "2026-08-16 16:39"
+  },
   {
    "tweet": "El voto fusil que las FARC, el ELN, Clan del Golfo impuso en regiones como Guaviare donde hablé con campesinos de Calamar y Miraflores que eran constreñidos para votar por Cepeda el candidato de Petro. \n\n4 millones de votos que deberían investigarse a fondo. [enlace]",
    "claim_type": "event_claim",
