@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 410,
+  "total": 412,
   "supported": 23,
   "contradicted": 42,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 332,
-  "actualizado": "2026-08-16 17:22 UTC"
+  "insufficient": 334,
+  "actualizado": "2026-08-16 17:27 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "A los políticos, un recordatorio: la ayuda es para todos. Este no es momento de politiquería.\n\nQuienes estén manipulando las ayudas para favorecer a sus clanes políticos, sacar provecho de la tragedia o simplemente pasárselas de avivatos, deben saber que los buscaremos, los",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:25"
+  },
+  {
+   "tweet": "Médicos ceutíes confirman pacientes llegados en la invasión con sífilis, gonorrea y tuberculosis, además de un fallecido con síntomas de fiebre tifoidea, algo que ha negado la ministra de Sanidad [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró evidencia que confirme la afirmación. Los titulares encontrados no mencionan a Ceuta ni a la invasión ni a los pacientes con sífilis, gonorrea, tuberculosis o fallecido con fiebre tifoidea.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:24"
+  },
   {
    "tweet": "De éstos; los que sois marroquíes: “No tenéis derecho al asilo. Marruecos es un «país seguro» que se lleva cada año cientos de millones de los europeos (sobre todo españoles) para sus inversiones. Habéis asaltado nuestra frontera con violencia, habéis sido empleados como arma",
    "claim_type": "event_claim",
