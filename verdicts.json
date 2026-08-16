@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 437,
+  "total": 439,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 355,
-  "actualizado": "2026-08-16 18:13 UTC"
+  "insufficient": 357,
+  "actualizado": "2026-08-16 18:18 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Si no sabes que pagarle 8’4 millones al vicepresidentente de los àrbitros es corrupcion, qué coño vas a saber tú de todo eso..😉",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.4,
+   "reasoning": "No se encontró ninguna referencia a la cifra de 8,4 millones ni a la figura del vicepresidente de los árbitros en los titulares recuperados. Los titulares disponibles tratan temas distintos (indemnizaciones a la AFE, compensaciones de la FIFA, etc.) y no proporcionan evidencia que respalde ni contradiga la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:17"
+  },
+  {
+   "tweet": "🇨🇴No es fácil encontrar un lugar abierto, con luz y agua, cerca del centro de Pereira, la zona más dañada por el terremoto. El día después del seísmo entramos en El Saloncito Paisa y nos dijeron que éramos los primeros clientes que recibían. Se les iluminó la cara.\n\nDesde [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.9,
+   "reasoning": "No se encontró cobertura en las fuentes consultadas que mencione a 'El Saloncito Paisa' en Pereira, Colombia. Los titulares recuperados no hacen referencia a dicho establecimiento ni a su ubicación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:14"
+  },
   {
    "tweet": "🟥✅⚠️ Gravedad institucional. Javier Milei sigue recluido en Olivos, sin agenda, su hermana le prohibió verse con sus Ministros, 7 días en los que Milei no sale ni al jardín de Olivos. En su última aparición pública se lo vio desorbitado. ¿La oposición no va a decir nada?.",
    "claim_type": "event_claim",
