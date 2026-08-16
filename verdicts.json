@@ -1,14 +1,32 @@
 {
  "stats": {
-  "total": 400,
+  "total": 402,
   "supported": 22,
   "contradicted": 41,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 324,
-  "actualizado": "2026-08-16 17:02 UTC"
+  "insufficient": 326,
+  "actualizado": "2026-08-16 17:07 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "🥈 𝙃𝙐𝙂𝙊 𝙂𝙊𝙉𝙕𝘼́𝙇𝙀𝙕 𝙇𝙊𝙂𝙍𝘼 𝙇𝘼 𝙋𝙇𝘼𝙏𝘼 𝙀𝙐𝙍𝙊𝙋𝙀𝘼\n\nEl nadador español nos hizo soñar con el oro en el último 50m a crol, pero rompe la sequía de España en la última jornada de competición.\n\n🤩 La última narración de Julia Luna tenía que acabar así. [enlace]",
+   "claim_type": "opinion",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.0,
+   "reasoning": "El modelo no emitio veredicto tras las busquedas.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:06"
+  },
+  {
+   "tweet": "Laura Cabanes🇪🇸🥉MEDALLA DE BRONCE EUROPEAAAA🥉\n\nCarrerón de la joven nadadora de 20 años que se consagra en la élite continental. Dos medallas para España [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.95,
+   "reasoning": "No evidence found in the provided headlines that a swimmer named Carrerón, aged 20, won two medals for Spain. The headlines mention Emma Carrasco, Alba Vázquez, and a sextet of medals for Spain, but none refer to Carrerón or a 20‑year‑old athlete.",
+   "outlets": [],
+   "fecha": "2026-08-16 17:03"
+  },
   {
    "tweet": "Junto con la Fundación BNL2 (Busca Tu Norte, Levántate y Lucha) y la mayora @___ llegamos hasta el Resguardo Indígena Emberá Chamí que habita en el Chocó para entregar parte de las donaciones que Colombia nos confió.\n\nDesde que ocurrió el terremoto, a esta comunidad no [enlace]",
    "claim_type": "event_claim",
