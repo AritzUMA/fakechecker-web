@@ -1,14 +1,43 @@
 {
  "stats": {
-  "total": 431,
+  "total": 434,
   "supported": 24,
   "contradicted": 45,
   "misleading": 12,
   "outdated": 1,
-  "insufficient": 349,
-  "actualizado": "2026-08-16 18:03 UTC"
+  "insufficient": 352,
+  "actualizado": "2026-08-16 18:08 UTC"
  },
  "verdicts": [
+  {
+   "tweet": "Reapareció el asesino y criminal de lesa humanidad Granko Arteaga, pidió a los suyos \"actuar con inteligencia, reconfigurar su estrategia\" para defender el \"legado de Chávez\". [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No se encontró ninguna fuente que mencione a Granko Arteaga ni que indique su reapertura o declaraciones. Los titulares disponibles se refieren a otros individuos y temas (Carasatorre, ETA, IA, etc.). Por lo tanto, no hay evidencia que respalde la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:07"
+  },
+  {
+   "tweet": "La gente de Ceuta señala a los traidores a Ceuta y a España.  [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.2,
+   "reasoning": "No fuentes relevantes fueron encontradas que confirmen ni contradigan la afirmación. Los titulares recuperados (1 y 2) tratan sobre la política nacional y no mencionan a Ceuta ni a la acusación de traición. Por lo tanto, no hay evidencia suficiente para sustentar la afirmación.",
+   "outlets": [
+    "news"
+   ],
+   "fecha": "2026-08-16 18:05"
+  },
+  {
+   "tweet": "🚨CENSURADA. Una joven ceutí publica devastada lo que está viviendo a diario tras la avalancha migratoria. \nPero ocurre algo extraño. TikTok le silencia precisamente todas las partes de sus vídeos donde expresa su opinión personal.\n\n¿Casualidad? Atento a esto. \nPorque llega en un [enlace]",
+   "claim_type": "event_claim",
+   "verdict": "insufficient_evidence",
+   "confidence": 0.3,
+   "reasoning": "No se menciona en los titulares encontrados que TikTok haya silenciado a la joven ni se indica que sus vídeos hayan sido censurados. Los títulos disponibles se centran en la reflexión de la joven sobre la migración, pero no en la supuesta acción de TikTok. Por lo tanto, no hay evidencia suficiente para confirmar ni refutar la afirmación.",
+   "outlets": [],
+   "fecha": "2026-08-16 18:04"
+  },
   {
    "tweet": "Todos hablan de que la fiesta de anoche terminó muy mal, cada vez que nombran el tema cortan las cámaras ☠️",
    "claim_type": "event_claim",
